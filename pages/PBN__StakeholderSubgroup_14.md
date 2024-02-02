@@ -8,9 +8,13 @@ Furthermore, building managers are instrumental in promoting sustainable and res
 
 ## NOA
 
+### Overview
+
+Building managers in green cities or green building neighborhoods are driven by their needs for safety and well-being of occupants, compliance with regulations, environmental consciousness, professional development, and stakeholder satisfaction. These needs motivate them to implement strategies and actions that contribute to the development and maintenance of green cities and neighborhoods. They have the physical opportunity to optimize energy consumption, integrate renewable energy, and ensure sustainable construction. Socially, they can prioritize health and well-being, foster community engagement, and collaborate with stakeholders. They possess physical capabilities such as technical expertise, knowledge of green building principles, and health and safety skills. Additionally, they demonstrate psychological abilities including adaptability, problem-solving skills, communication and collaboration, leadership and decision-making, and continuous learning and innovation. All of these factors drive their behaviors to actively pursue sustainable practices, integrate smart technologies, and create healthier and more environmentally friendly urban environments.
+
 ### Needs
 
-nThe needs or motivations of building managers in the context of green cities or green building neighborhoods can be defined using the NOA framework as follows:
+The needs or motivations of building managers in the context of green cities or green building neighborhoods can be defined using the NOA framework as follows:
 
 Automatic Needs:
 1. Safety and well-being: Building managers have a natural inclination to ensure the safety and well-being of the occupants of the buildings they oversee. They are motivated to create a healthy and comfortable living and working environment that minimizes health risks, including the transmission of contagious diseases.

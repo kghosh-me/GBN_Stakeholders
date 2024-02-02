@@ -8,9 +8,13 @@ Furthermore, delivery services in smart and sustainable cities also encompass th
 
 ## NOA
 
+### Overview
+
+The behaviors of delivery service stakeholders in the context of green cities are driven by their needs, opportunities, and capabilities. Their needs, such as convenience, safety, and environmental sustainability, motivate them to provide efficient and environmentally friendly delivery services. They recognize the opportunity to optimize transportation through the use of electric or low-emission vehicles, reducing traffic congestion and improving air quality. The physical infrastructure, technology-driven logistics, and access to specialized vehicles are their capabilities that enable them to meet these needs and seize the opportunities. Their adaptability, customer-centric approach, and sustainability mindset further drive their behaviors, allowing them to integrate new technologies, prioritize customer satisfaction, and minimize the environmental footprint. Overall, their behaviors are shaped by their understanding of needs, the identification of opportunities, and the utilization of their capabilities in delivering sustainable and convenient services to residents in green cities.
+
 ### Needs
 
-nIn the context of green cities or GBNs, the needs or motivations of residents regarding delivery services can be categorized into both automatic and reflective needs.
+In the context of green cities or GBNs, the needs or motivations of residents regarding delivery services can be categorized into both automatic and reflective needs.
 
 Automatic needs refers to the immediate and instinctual requirements of individuals. In the context of delivery services, automatic needs in green cities include:
 

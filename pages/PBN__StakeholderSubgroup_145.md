@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, the term "Repo
 
 ## NOA
 
+### Overview
+
+The behaviors of reporters in the context of green cities and green building neighborhoods (GBNs) are driven by their needs, opportunities, and capabilities. Their automatic needs, such as information dissemination, monitoring and reporting, and public engagement, motivate them to gather and disseminate information about sustainable initiatives, track progress, and engage the public in the transition towards green cities. The physical opportunities, such as access to data and advanced infrastructure in GBNs, provide them with the means to collect and analyze relevant information on environmental sustainability. The social opportunities, such as awareness and education, community engagement, and collaboration with stakeholders, enable them to create awareness, engage with communities, and collaborate with experts and decision-makers. Their physical abilities, such as data gathering, technological competence, and fieldwork capabilities, along with psychological abilities like effective communication, objectivity, and resilience, empower them to fulfill their roles effectively. Overall, their behaviors are driven by the alignment between their needs, the opportunities they have to fulfill those needs, and their capabilities to take action in reporting on green cities and GBNs.
+
 ### Needs
 
-nIn the context of green cities or Green Building Neighborhoods (GBNs), the needs or motivations of reporters can be categorized into automatic and reflective needs:
+In the context of green cities or Green Building Neighborhoods (GBNs), the needs or motivations of reporters can be categorized into automatic and reflective needs:
 
 Automatic needs:
 

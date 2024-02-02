@@ -8,9 +8,13 @@ Furthermore, social determinants of health, such as poverty, lack of access to n
 
 ## NOA
 
+### Overview
+
+The behaviors of individuals with high health risks in green cities are driven by their needs, opportunities, and capabilities. Their automatic need for health and safety motivates them to prioritize preventive measures such as social distancing and handwashing. This is supported by the opportunity to access healthcare facilities within their neighborhood, as well as health education initiatives that increase their knowledge and awareness. Their reflective need for supportive infrastructure drives them to seek out specialized medical services and assistive technologies, which are made available in green cities. Additionally, their reflective need for community engagement leads them to actively participate in decision-making processes and contribute to sustainable initiatives that cater to their specific needs. The opportunity to engage in outdoor activities in green spaces addresses their need for access to nature and promotes physical well-being. Their physical and psychological capabilities, such as access to healthcare, adequate housing, awareness and knowledge, and social connectivity, enable them to effectively navigate and thrive in a green and sustainable environment. Overall, their behaviors are guided by a combination of needs, opportunities, and capabilities that support their health, well-being, and resilience in the face of contagious diseases.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, individuals with high health risks have several needs or motivations, both automatic and reflective.
+In the context of green cities or green building neighborhoods, individuals with high health risks have several needs or motivations, both automatic and reflective.
 
 Automatic Needs/Motivations:
 1. Health and Safety: The primary automatic need for individuals with high health risks is to prioritize their health and safety. They have a strong motivation to avoid exposure to contagious diseases and minimize the risk of infection. This includes the need for clean and hygienic living conditions, access to healthcare facilities, and preventive measures such as social distancing and frequent handwashing.

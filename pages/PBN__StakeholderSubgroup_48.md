@@ -8,9 +8,13 @@ Furthermore, AI and data analysis researchers play a crucial role in bridging th
 
 ## NOA
 
+### Overview
+
+The behaviors of AI and data analysis researchers in the context of green cities are driven by their specific needs, opportunities, and capabilities. Their automatic need for intellectual stimulation and professional growth aligns with their capabilities in technical skills, data management, technology adoption, analytical thinking, critical thinking, problem-solving, and communication skills. This drives them to seek opportunities such as access to data and integration of AI technologies, enabling them to analyze complex urban health data and develop innovative approaches to predict and monitor contagious diseases in green cities. Their reflective needs for sustainable urban development and impactful research motivate them to collaborate with urban planners and public health officials, influencing policy and decision-making processes and raising awareness about the benefits of data-driven strategies in improving urban health management. Their capabilities in data analysis and management, analytical thinking, and problem-solving allow them to provide actionable insights and contribute to the development of smart and sustainable cities.
+
 ### Needs
 
-nThe needs or motivations of AI and data analysis researchers in the context of green cities (GBN) can be categorized as automatic and reflective.
+The needs or motivations of AI and data analysis researchers in the context of green cities (GBN) can be categorized as automatic and reflective.
 
 Automatic Needs:
 1. Intellectual Stimulation: AI and data analysis researchers are driven by the need for intellectual challenges and innovative problem-solving opportunities. They strive to push the boundaries of their knowledge and skills to develop sophisticated algorithms and analytical techniques that can effectively analyze and interpret large datasets related to urban health and contagious diseases.

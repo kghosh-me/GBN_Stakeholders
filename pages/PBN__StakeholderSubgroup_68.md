@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+Social entrepreneurship funds are driven by their needs to address pressing societal challenges and promote sustainable development in green cities and sustainable neighborhoods. They have a motivation to create positive social impact and improve community well-being. At the same time, they also have a need for financial returns and a desire to invest in ventures that offer innovative solutions to complex social problems. Their capabilities include their financial capacity to provide capital and their expertise in sustainable development. They have a clear vision and mission aligned with the goals of creating smart and sustainable cities. They also have a higher risk appetite and the ability to engage and collaborate with diverse stakeholders. These needs, opportunities, and capabilities drive their behaviors to support initiatives that address social and environmental issues while contributing to the broader goal of building green, resilient, and sustainable cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), the needs or motivations of social entrepreneurship funds can be understood through the NOA (Needs, Opportunities, Abilities) framework as follows:
+In the context of green cities or green building neighborhoods (GBNs), the needs or motivations of social entrepreneurship funds can be understood through the NOA (Needs, Opportunities, Abilities) framework as follows:
 
 Automatic Needs/Motivations:
 1. Addressing pressing societal challenges: Social entrepreneurship funds have a strong motivation to support initiatives that address social and environmental issues in GBNs. They have a need to contribute to the development of sustainable and resilient cities by tackling problems like poverty, inequality, environmental degradation, and public health issues.

@@ -8,9 +8,13 @@ Immigrant populations in urban areas can be particularly susceptible to contagio
 
 ## NOA
 
+### Overview
+
+The behaviors of immigrant populations in green cities are driven by a combination of their needs, opportunities, and capabilities. Their needs for safe and affordable housing, basic amenities, and sustainable transportation motivate them to seek out and engage with green building neighborhoods that can provide these resources. The opportunities presented by green cities, such as access to green spaces, cultural exchange, and skill development, inspire immigrant populations to participate in community activities, share their cultural backgrounds, and acquire new skills in sustainable industries. Furthermore, the capabilities of immigrant populations, both physical and psychological, empower them to actively contribute to the development and maintenance of green cities. Their physical abilities, such as technical expertise in green technologies, allow them to actively participate in green infrastructure projects. Additionally, their psychological abilities, including knowledge of sustainable living practices and resilience, enable them to adapt to and thrive in the green city context. By aligning their behaviors with their needs, taking advantage of opportunities, and leveraging their capabilities, immigrant populations can actively contribute to the sustainable development and well-being of green cities.
+
 ### Needs
 
-nIn the context of green cities, immigrant populations have both automatic and reflective needs or motivations that can be identified within the NOA (Needs, Opportunities, Abilities) framework.
+In the context of green cities, immigrant populations have both automatic and reflective needs or motivations that can be identified within the NOA (Needs, Opportunities, Abilities) framework.
 
 Automatic needs or motivations refer to the basic, physiological, and safety needs that immigrant populations may have in green cities. This includes access to safe and affordable housing in sustainable and energy-efficient buildings, as well as clean and healthy environments that promote well-being. Immigrant populations may also require access to basic amenities such as clean water, sanitation, and reliable energy services, which are essential for their daily living. Additionally, there is a need for affordable and sustainable transportation options that facilitate their mobility within the green city and minimize their environmental impact.
 

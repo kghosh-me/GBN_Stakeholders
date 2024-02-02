@@ -6,9 +6,13 @@ I don't have enough information to provide a specific definition of 'Tourism org
 
 ## NOA
 
+### Overview
+
+The behaviors of tourism organizations in green cities or green building neighborhoods are primarily driven by their needs, opportunities, and capabilities. Their needs for a clean and healthy environment, availability of green infrastructure, and sustainable transportation options motivate them to prioritize sustainability and pollution-free practices. Reflective needs such as promoting responsible tourism practices, influencing policies and regulations, and seeking collaboration and networking opportunities further shape their behaviors. They seek physical opportunities to benefit from the development of green infrastructure, green attractions, and eco-friendly accommodations to enhance the accessibility and attractiveness of tourism sites. Social opportunities like collaborative partnerships, community engagement, and education and awareness initiatives drive their behaviors towards promoting sustainable tourism practices and creating social and economic benefits for local communities. Their capabilities in terms of adaptability and response, resource management, technology integration, stakeholder engagement, environmental awareness, and crisis management skills enable them to effectively meet their needs and take advantage of the opportunities presented, ultimately contributing to the growth and sustainability of green cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBNs), the needs or motivations of tourism organizations can be defined using the NOA framework as follows:
+In the context of green cities or Green Building neighborhoods (GBNs), the needs or motivations of tourism organizations can be defined using the NOA framework as follows:
 
 1. Automatic Needs (or Motivation):
 - Access to a clean and healthy environment: Tourism organizations in GBNs would have an automatic need for a sustainable and pollution-free environment. This includes efficient waste management, reduced air pollution, clean water sources, and proper sanitation facilities.

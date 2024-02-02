@@ -8,9 +8,13 @@ Furthermore, administrative authorities are instrumental in fostering collaborat
 
 ## NOA
 
+### Overview
+
+The behaviors of administrative authorities in green cities and green building neighborhoods are driven by their specific needs, opportunities, and capabilities in addressing public health concerns and promoting environmental sustainability. Their needs, such as ensuring public health and long-term resilience, motivate them to implement proactive measures, develop robust healthcare systems, and engage with various stakeholders to create adaptable and resilient communities. The opportunities, both physical and social, enable them to take advantage of green infrastructure development, promote energy efficiency and waste management, engage the community, prioritize health promotion, and educate residents about sustainable practices. These opportunities allow them to create environmentally friendly, socially cohesive, and healthy cities and neighborhoods. Furthermore, their capabilities, both physical and psychological, such as technical expertise, resource allocation, leadership, collaboration, and adaptability, empower them to effectively plan, implement, and enforce sustainable practices and green building principles. They continuously enhance their abilities through training and professional development to effectively address the challenges and opportunities associated with developing and managing green cities and green building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, administrative authorities have both automatic and reflective needs. 
+In the context of green cities or green building neighborhoods, administrative authorities have both automatic and reflective needs. 
 
 Automatic Needs:
 1. Public Health: One of the primary automatic needs of administrative authorities in green cities is to ensure the health and well-being of residents. They are motivated to prevent, control, and mitigate the spread of contagious diseases within the urban environment. This includes implementing proactive measures such as disease surveillance, monitoring, and promoting healthcare access to ensure a healthy population.

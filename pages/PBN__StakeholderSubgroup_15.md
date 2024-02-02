@@ -6,9 +6,13 @@ I don't have enough information to provide a specific definition or description 
 
 ## NOA
 
+### Overview
+
+Certification system organizations in the context of green cities and green building neighborhoods are driven by a combination of their needs, opportunities, and capabilities. Their needs or motivations are primarily shaped by a sense of compliance, as they feel a responsibility to ensure that cities meet specific requirements related to public health and sustainability. They also have a need to establish their credibility as trusted authorities in certifying and accrediting green cities and neighborhoods. Additionally, their reflective needs include a focus on health and well-being, as they recognize the importance of preventing the spread of contagious diseases and promoting public health. They also have a need for environmental responsibility, aiming to encourage sustainable practices and reduce the environmental impact of cities. These needs drive their behaviors towards actively seeking opportunities to collaborate with urban planners and architects, integrate smart technologies, and promote biodiversity and green spaces within neighborhoods. They also have social opportunities to raise awareness and educate stakeholders about the benefits of green cities, engage with a wide range of stakeholders, and promote health and well-being. Their capabilities include technical expertise in urban planning, public health, and sustainability, the ability to assess compliance, analyze and interpret data, collaborate and communicate effectively, advocate for policies, and provide education and training to stakeholders. Overall, their behaviors are driven by a deep understanding of the needs and motivations of green cities, the opportunities available to shape these cities, and their specific technical and psychological capabilities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of certification system organizations can be defined using the NOA framework as follows:
+In the context of green cities or green building neighborhoods, the needs or motivations of certification system organizations can be defined using the NOA framework as follows:
 
 1. Automatic Needs/Motivations:
    - Compliance: Certification system organizations may have an automatic motivation to ensure that green cities or green building neighborhoods comply with established standards and criteria related to public health and sustainability. They may feel a sense of obligation to ensure that cities and neighborhoods meet specific requirements to prevent and manage contagious diseases effectively.

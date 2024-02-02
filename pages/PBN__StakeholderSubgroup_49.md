@@ -8,9 +8,13 @@ Furthermore, the wearable technology industry is also expanding its applications
 
 ## NOA
 
+### Overview
+
+The behaviors of stakeholders in the wearable technology industry are driven by their needs, opportunities, and capabilities in the context of green cities and Green Building neighborhoods (GBNs). Their needs for early detection and monitoring, efficient infection surveillance, contact tracing, personalized health management, data-driven decision making, and integration with smart systems motivate them to develop wearable devices that can meet these requirements. The physical opportunities presented by energy efficiency, health monitoring, and environmental monitoring align with their goals of minimizing energy consumption and promoting healthy lifestyles. The social opportunities of improving public health, community engagement, and education and awareness further drive their behaviors. Their capabilities in technical expertise, research and innovation, manufacturing and supply chain management, adaptability and flexibility, collaboration and partnership, and user-centric approach enable them to design, develop, manufacture, and deploy wearable devices that address these needs and opportunities in a sustainable and smart manner. Their behaviors are therefore guided by the understanding of the needs and motivations of green cities, the identification of opportunities for improvement, and the application of their capabilities to meet these requirements.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBNs), the needs or motivations of the wearable technology industry can be analyzed through the NOA framework. 
+In the context of green cities or Green Building neighborhoods (GBNs), the needs or motivations of the wearable technology industry can be analyzed through the NOA framework. 
 
 Automatic needs or motivations:
 1. Early Detection and Monitoring: There is a need for wearable technology that can detect and monitor potential outbreaks of contagious diseases in real-time. This early warning system can help individuals and authorities take preventive measures and minimize the spread of infections.

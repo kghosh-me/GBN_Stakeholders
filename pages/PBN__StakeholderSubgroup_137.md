@@ -8,9 +8,13 @@ Furthermore, urban development authorities are often tasked with addressing the 
 
 ## NOA
 
+### Overview
+
+Urban development authorities are driven by their needs for environmental sustainability, public health and well-being, and resilience and adaptation. They strive to create sustainable cities by incorporating green building practices, renewable energy sources, and sustainable transportation systems. They also prioritize measures to enhance public health, such as ensuring access to clean air and water, and promoting active lifestyles. Additionally, they recognize the need to build resilience in cities through stormwater management and flood control. These needs align with the opportunities they have to facilitate sustainable infrastructure, create green spaces, and promote sustainable mobility. They can engage the community in decision-making processes and raise awareness about sustainable living practices. Their capabilities, including technical expertise, infrastructure development, policy implementation, coordination, and collaboration, enable them to plan, execute, and manage sustainable urban development projects. Their abilities to provide vision and leadership, think systemically, solve problems, and engage the public further drive their behaviors to create green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), urban development authorities have several needs which can be categorized into automatic and reflective motivations.
+In the context of green cities or green building neighborhoods (GBNs), urban development authorities have several needs which can be categorized into automatic and reflective motivations.
 
 Automatic needs:
 1. Environmental sustainability: Urban development authorities are driven by the need to create environmentally sustainable cities. They strive to reduce carbon emissions, conserve energy, and promote resource efficiency. This includes incorporating green building practices, renewable energy sources, and sustainable transportation systems in urban development plans.

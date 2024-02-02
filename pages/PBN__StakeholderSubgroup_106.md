@@ -8,9 +8,13 @@ Given the interconnected nature of global settlements and the potential for urba
 
 ## NOA
 
+### Overview
+
+Trade regulators' behaviors are driven by their needs, opportunities, and capabilities in the context of green cities or green building neighborhoods (GBNs). Their needs include a focus on contagion prevention and public health and safety to prevent the spread of diseases through trade-related activities. They also have reflective needs, such as promoting sustainability in trade practices and supporting economic growth in GBNs. Their opportunities lie in contributing to the development and maintenance of sustainable buildings and infrastructure, overseeing compliance with green building regulations, supporting local businesses and economic development, and fostering inclusive trade practices. Their capabilities encompass physical abilities like knowledge and expertise in sustainable practices, technical skills for evaluating compliance, and communication and collaboration skills. They also have psychological abilities such as adaptability to embrace new technologies, problem-solving skills to address sustainability challenges in trade, emotional intelligence for stakeholder engagement, and leadership qualities to drive the adoption of sustainable practices. These needs, opportunities, and capabilities collectively shape their behaviors, leading them to enforce regulations, collaborate with stakeholders, promote sustainable trade practices, and support inclusive economic development within GBNs.
+
 ### Needs
 
-nIn the context of green cities or GBNs, trade regulators would have both automatic and reflective needs or motivations. 
+In the context of green cities or GBNs, trade regulators would have both automatic and reflective needs or motivations. 
 
 Automatic Needs:
 1. Contagion prevention: Trade regulators would be motivated by the need to prevent the spread of contagious diseases within the urban environment. This includes implementing measures to regulate the movement of goods and services, ensuring compliance with health and safety regulations, and monitoring high-risk areas such as public markets or informal trading activities.

@@ -8,9 +8,13 @@ The concept of individuals working from home has implications for urban planning
 
 ## NOA
 
+### Overview
+
+Individuals working from home are driven by their needs, opportunities, and capabilities in a variety of ways. Their automatic need for safety and security pushes them to seek out green buildings and neighborhoods with enhanced security measures to ensure a protected work environment. The reflective need for access to nature motivates them to choose green cities with abundant parks and green spaces that promote mental well-being and productivity. Additionally, the reflective need for work-life balance compels them to prioritize neighborhoods that offer walkability, recreational facilities, and access to essential services. The physical opportunities present in green building neighborhoods, such as sustainable and healthy workspaces within residential settings and access to amenities, align with their reflective needs and contribute to a productive work-life experience. Social opportunities, such as collaborative spaces and networks, fulfill their reflective need for connection and community, while sustainable lifestyle communities provide opportunities for engagement with like-minded individuals. Their physical capabilities, including technological access and skills, ergonomic workspaces, self-motivation, adaptability, and communication and collaboration skills, enable them to effectively work from home and engage in sustainable practices within their residential spaces. Overall, the behaviors of individuals working from home are driven by their innate needs, the opportunities provided by green cities and sustainable neighborhoods, and their physical and psychological capabilities.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, individuals working from home have both automatic and reflective needs or motivations. 
+In the context of green cities and sustainable neighborhoods, individuals working from home have both automatic and reflective needs or motivations. 
 
 Automatic needs are those that are instinctive or subconscious, and individuals working from home might have the following automatic needs:
 

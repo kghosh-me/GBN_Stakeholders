@@ -8,9 +8,13 @@ Furthermore, wildlife and ecosystem conservationists play a crucial role in addr
 
 ## NOA
 
+### Overview
+
+The behaviors of wildlife and ecosystem conservationists in green cities are driven by their automatic and reflective needs, which include the preservation of biodiversity and a connection with nature. These needs motivate conservationists to engage in activities such as habitat restoration, wildlife monitoring, and conservation education. They also have reflective needs, such as a desire for sustainable land use, community engagement, collaboration, and risk reduction. These needs align with the physical and social opportunities available to conservationists in green cities, such as protected natural areas, green infrastructure, urban agriculture, and collaboration with stakeholders. Additionally, conservationists possess capabilities in expertise and knowledge, conservation techniques, research and data analysis, communication and education, collaboration and stakeholder engagement, as well as adaptability and resilience. These capabilities enable conservationists to contribute to the preservation and enhancement of natural ecosystems by developing targeted conservation strategies, conducting research, raising awareness, and building partnerships.
+
 ### Needs
 
-nThe needs or motivations of wildlife and ecosystem conservationists in the context of green cities can be categorized into both automatic and reflective needs. 
+The needs or motivations of wildlife and ecosystem conservationists in the context of green cities can be categorized into both automatic and reflective needs. 
 
 Automatic needs are basic and instinctive needs that drive conservationists' behaviors subconsciously. In the case of wildlife and ecosystem conservationists, some of their automatic needs may include:
 

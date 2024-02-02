@@ -8,9 +8,13 @@ Furthermore, enforcement organizations play a crucial role in communicating and 
 
 ## NOA
 
+### Overview
+
+Enforcement organizations in green cities are driven by their needs, opportunities, and capabilities to ensure public health protection and community safety. Their automatic needs, such as protecting public health and enforcing measures that reduce the risk of transmission, motivate them to monitor and regulate activities that could pose health risks and promote healthy behaviors. Their reflective needs, including sustainability promotion and collaboration, drive them to support sustainability goals and engage with stakeholders to collectively address public health challenges. These needs create opportunities for enforcement organizations to contribute physically through infrastructure development, technological advancements, and public space management, as well as socially through community engagement, collaborative partnerships, and policy advocacy. Their physical capabilities, such as technological infrastructure and equipment, enable them to effectively enforce regulations. Their psychological capabilities, such as expertise, communication skills, and interagency collaboration, allow them to engage with stakeholders, raise awareness, and ensure compliance. Overall, enforcement organizations' behaviors are aligned with their needs, opportunities, and capabilities to create safe and sustainable environments in green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, enforcement organizations have both automatic and reflective needs.
+In the context of green cities or green building neighborhoods, enforcement organizations have both automatic and reflective needs.
 
 Automatic needs refer to the inherent motivations and goals that drive enforcement organizations in their role of ensuring compliance with regulations and control measures related to public health and safety. These automatic needs include:
 

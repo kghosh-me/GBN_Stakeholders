@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+Real estate agents in the context of green cities are driven by a combination of automatic and reflective needs, including financial rewards, professional recognition, contribution to community well-being, and environmental conservation. They seek opportunities to tap into the increased demand for sustainable properties, engage in collaborations with green developers, and educate and raise awareness among buyers and sellers about the benefits of green buildings. Their physical capabilities include comprehensive knowledge of green building practices, familiarity with sustainable infrastructure, and the ability to assess sustainability features. Psychologically, they possess a strong understanding of clients' values and preferences, effective communication and persuasion skills, and the ability to stay updated on green building trends. These behaviors are driven by the needs for financial success, professional growth, community impact, and environmental stewardship, as well as the opportunities to meet the growing demand for green properties, engage with the community, and advocate for sustainable living, while leveraging their capabilities in green building knowledge, infrastructure awareness, and client understanding to effectively promote and sell properties that contribute to the creation of healthier and more sustainable cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods, real estate agents have various needs or motivations, both automatic and reflective. 
+In the context of green cities or Green Building neighborhoods, real estate agents have various needs or motivations, both automatic and reflective. 
 
 Automatic needs refer to the basic and instinctual desires that real estate agents have in promoting and selling properties in green cities. These can include financial rewards, such as commissions or bonuses, for successfully closing deals with buyers or sellers of green properties. Real estate agents may also have a need for professional recognition or reputation by being associated with sustainable and environmentally conscious development projects. They may seek to align themselves with the values of sustainability and contribute to the overall positive perception of green cities among their clients.
 

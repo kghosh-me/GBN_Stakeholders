@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, occupational h
 
 ## NOA
 
+### Overview
+
+The behaviors of occupational health and safety personnel in green cities and sustainable neighborhoods are driven by a combination of their needs, opportunities, and capabilities. Their automatic needs, such as ensuring safety and well-being, protection against environmental risks, and compliance with regulations, motivate them to identify and mitigate potential hazards, develop safety protocols, and conduct regular inspections. Their reflective needs, such as continuous learning, collaboration and communication, and stakeholder engagement, drive them to stay updated with green building practices, collaborate with stakeholders, and incorporate diverse perspectives into safety protocols. The physical opportunities, such as integrating safety measures and adopting sustainable technologies, allow them to contribute to the overall well-being and sustainability of the environment. The social opportunities, such as collaboration and stakeholder engagement, training and awareness, and integration of health and safety policies, enable them to engage with stakeholders, promote safety practices, and influence policy development. Their capabilities, including technical knowledge, risk assessment, collaboration and communication skills, adaptability and continuous learning, problem-solving and decision-making, and resilience and crisis management, empower them to effectively address health and safety challenges and contribute to creating safe and sustainable neighborhoods in green cities.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBNs), the occupational health and safety personnel's needs can be classified into both automatic and reflective motivations.
+In the context of green cities or Green Building neighborhoods (GBNs), the occupational health and safety personnel's needs can be classified into both automatic and reflective motivations.
 
 Automatic Needs:
 1. Safety and Well-being: Occupational health and safety personnel have a fundamental need to ensure the safety and well-being of individuals within the workplace. This includes creating a safe environment, free from potential risks and hazards, to protect the health of employees and residents.

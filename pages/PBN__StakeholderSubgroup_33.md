@@ -8,9 +8,13 @@ Furthermore, conservation organizations are instrumental in addressing the inter
 
 ## NOA
 
+### Overview
+
+The behaviors of conservation organizations are driven by their deep-rooted environmental preservation needs, which stem from a sense of responsibility towards the natural world and a belief in the intrinsic value of nature. This motivates them to engage in activities such as habitat protection, wildlife conservation, and advocating for policy changes that support conservation efforts. Their reflective needs for advocacy, collaboration, and research are fueled by the opportunities presented by green cities. These opportunities include access to green spaces for research and public awareness, the ability to collaborate with stakeholders to develop and implement conservation initiatives, and the chance to influence policies and regulations that support sustainability. Conservation organizations' capabilities, including research and knowledge generation, advocacy, community engagement, collaboration, on-the-ground conservation efforts, and capacity building, enable them to effectively fulfill their needs and leverage the opportunities provided by green cities. These behaviors, driven by needs, opportunities, and capabilities, contribute to the creation of smart and sustainable cities that prioritize environmental preservation, wildlife protection, public health promotion, and the well-being of both human populations and the natural environment.
+
 ### Needs
 
-nThe needs or motivations of conservation organizations in the context of green cities can be understood using the NOA (Needs, Opportunities, Abilities) framework. 
+The needs or motivations of conservation organizations in the context of green cities can be understood using the NOA (Needs, Opportunities, Abilities) framework. 
 
 Automatic needs or motivations:
 

@@ -8,9 +8,13 @@ Furthermore, design and construction professionals are instrumental in implement
 
 ## NOA
 
+### Overview
+
+The behaviors of design and construction professionals in green cities are driven by a combination of their needs, opportunities, and capabilities. Their need for expertise and professional development motivates them to continuously improve their skills and stay updated on the latest trends and technologies in green building and sustainable design. They are driven by the need to fulfill regulatory requirements, ensuring compliance with building codes and sustainability standards to maintain their professional reputation. Collaboration and networking are automatic needs for these professionals, as they work as part of multidisciplinary teams, sharing knowledge and building networks to develop innovative solutions. Reflectively, they are motivated to make a positive impact and address public health and safety concerns. Their capabilities in technical expertise, project management, collaboration, and problem-solving enable them to capitalize on physical opportunities such as sustainable design, green infrastructure, and sustainable mobility. Their psychological abilities, including creativity, systems thinking, and environmental awareness, drive their behaviors in taking advantage of social opportunities such as promoting health and well-being, inclusive design, community engagement, and education and awareness. Overall, their behaviors are shaped by their needs for expertise and collaboration, their capabilities in technical and psychological aspects, and the opportunities presented in green cities.
+
 ### Needs
 
-nDesign and construction professionals have a range of needs in the context of green cities or green building neighborhoods (GBN). These needs can be categorized into automatic and reflective motivations.
+Design and construction professionals have a range of needs in the context of green cities or green building neighborhoods (GBN). These needs can be categorized into automatic and reflective motivations.
 
 Automatic needs:
 

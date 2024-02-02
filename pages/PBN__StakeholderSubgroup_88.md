@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+The behaviors of supply chain professionals in green cities and green building neighborhoods are driven by their needs, opportunities, and capabilities. Their automatic needs, such as efficiency and sustainability, motivate them to optimize the flow of goods, services, and information in a way that reduces waste, energy consumption, and carbon emissions. They seek opportunities to source materials sustainably, utilize green transportation methods, optimize warehousing operations, and reduce waste along the supply chain. Their physical abilities, such as knowledge of green supply chain management and technical expertise, enable them to effectively implement these practices. Reflectively, they have needs for reputation and risk management, driving them to align their operations with sustainable values, and build resilient supply chains. They seize opportunities to collaborate, engage stakeholders, and educate others on sustainable practices. Their psychological abilities, including environmental consciousness and adaptability, empower them to embrace sustainability principles, continuously improve, and address challenges. Overall, their behaviors are shaped by their needs, opportunities, and capabilities to contribute to the sustainability and efficiency of the supply chain in green cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), supply chain professionals have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods (GBNs), supply chain professionals have both automatic and reflective needs or motivations.
 
 Automatic Needs:
 1. Efficiency: Supply chain professionals aim to optimize the flow of goods, services, and information in GBNs, maximizing efficiency to reduce waste, energy consumption, and carbon emissions.

@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+The behaviors of local businesses in green cities are driven by a combination of their needs, opportunities, and capabilities. Local businesses are motivated by their reflective needs to contribute to environmental sustainability, which drives them to adopt eco-friendly practices within their operations. They have physical opportunities, such as access to sustainable infrastructure and the proximity to residents in green building neighborhoods, which allows them to lower operational costs and increase their visibility and customer base. Social opportunities, such as community engagement and tapping into niche markets, further shape their behaviors, as they collaborate with the community, offer sustainable products and services, and adopt innovative business models. Their physical capabilities enable them to adapt their physical infrastructure, manage resources efficiently, and leverage green technologies. Their psychological capabilities, such as environmental awareness and collaboration, drive their engagement with customers, educate them about sustainability, and foster innovation. Overall, these behaviors are shaped by the alignment of their needs, the opportunities available to them, and their capabilities to contribute to a sustainable and vibrant local economy.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, local businesses have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, local businesses have both automatic and reflective needs or motivations.
 
 Automatic needs refer to the basic and immediate requirements of local businesses in these environments. These can include the need for a supportive infrastructure that promotes sustainability, such as access to renewable energy sources, efficient waste management systems, and sustainable transportation options. Local businesses may also have a need for affordable and sustainable spaces, such as eco-friendly buildings or shared workspaces, that align with their values and goals.
 

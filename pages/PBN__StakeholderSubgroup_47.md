@@ -8,9 +8,13 @@ Furthermore, technology developers in the context of contagious diseases in smar
 
 ## NOA
 
+### Overview
+
+The behaviors of technology developers in green cities are driven by their needs for innovation, problem-solving, impact, collaboration, user-centric design, and sustainable cities. These needs motivate them to continuously advance their technological solutions, solve complex public health problems, and create tools that have a positive societal impact. Technology developers also take advantage of the physical opportunities in green cities, such as integrating green technologies and leveraging smart infrastructure to develop innovative tools that monitor public health and contribute to sustainability goals. They seize social opportunities to collaborate with stakeholders, empower communities, and raise awareness through educational initiatives. With their physical capabilities, such as technical expertise, innovative thinking, and adaptability, technology developers are able to develop cutting-edge solutions. Their psychological abilities, such as problem-solving skills, collaboration, and empathy, enable them to understand the specific needs of green cities and design user-friendly solutions that align with those needs. Overall, their behaviors are driven by a combination of their needs, opportunities, and capabilities, leading to the creation of technological solutions that enhance public health and contribute to smart and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBN), technology developers have both automatic and reflective needs or motivations.
+In the context of green cities or Green Building neighborhoods (GBN), technology developers have both automatic and reflective needs or motivations.
 
 1. Automatic Needs/Motivations:
 - Innovation and advancement: Technology developers are driven by the desire to create and implement cutting-edge technological solutions. They are motivated to stay ahead in their field, striving for continuous improvement and innovation in addressing public health challenges.

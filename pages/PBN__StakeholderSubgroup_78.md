@@ -8,9 +8,13 @@ Furthermore, local researchers are instrumental in fostering collaboration betwe
 
 ## NOA
 
+### Overview
+
+Local researchers in the context of green cities and sustainable neighborhoods are driven by their needs, opportunities, and capabilities, which shape their behaviors and actions. Their needs include a thirst for knowledge and understanding about the impact of contagious diseases on the local population, as well as a desire to contribute to evidence-based strategies and policies. To fulfill these needs, local researchers leverage opportunities such as access to green infrastructure and smart technologies to study the impact of these factors on disease transmission. They also collaborate with various stakeholders and engage with the community to gather insights and data. Through their physical and psychological capabilities, local researchers possess the expertise in research methodologies, data analysis, and technical skills to conduct studies and analyze data. They also have contextual understanding, critical thinking, and communication abilities to bridge the gap between research and implementation. Overall, their behaviors are driven by their needs for knowledge acquisition, evidence-based decision-making, collaboration, and making a positive impact on the health and well-being of the local population, which they fulfill through leveraging opportunities and utilizing their capabilities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, local researchers have several needs or motivations, both automatic and reflective.
+In the context of green cities or green building neighborhoods, local researchers have several needs or motivations, both automatic and reflective.
 
 Automatic needs refer to the innate desires or drives that local researchers have in their role. These needs include the thirst for knowledge and understanding about the impact of contagious diseases on the local population in green cities. They are driven by a curiosity to uncover patterns, trends, and unique challenges related to infectious diseases in the context of sustainable and environmentally friendly urban areas.
 

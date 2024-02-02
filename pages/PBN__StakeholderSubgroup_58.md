@@ -8,9 +8,13 @@ Furthermore, the production staff's activities and working conditions are of par
 
 ## NOA
 
+### Overview
+
+The behaviors of production staff in green cities are driven by their needs, opportunities, and capabilities. Their needs, such as job security, health and safety, and fair working conditions, motivate them to seek stable employment, a safe working environment, and equitable treatment. These needs influence their behavior to adhere to protocols, use protective measures, and adopt green technologies. The opportunities available to them, such as access to green infrastructure, sustainable transportation, and community engagement, shape their behaviors to prioritize relaxation, sustainable commuting, and participation in community initiatives. Additionally, their capabilities, including knowledge and skills, adaptability and innovation, collaboration and communication, problem-solving, health and safety awareness, physical endurance, and resilience and stress management, enable them to contribute to sustainable production processes, embrace new technologies, collaborate with stakeholders, identify and address sustainability issues, adhere to health and safety guidelines, handle physically demanding tasks, and cope with work pressures. These needs, opportunities, and capabilities collectively influence the behaviors of production staff, driving their efforts towards sustainable development and the successful operation of green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of production staff can be categorized into automatic needs and reflective needs.
+In the context of green cities or green building neighborhoods, the needs or motivations of production staff can be categorized into automatic needs and reflective needs.
 
 Automatic needs refer to the immediate requirements or motivators that drive the behavior of production staff. Some of the automatic needs of production staff in green cities may include:
 

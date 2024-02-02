@@ -8,9 +8,13 @@ Furthermore, individuals consuming digital content can also contribute to the su
 
 ## NOA
 
+### Overview
+
+Individuals consuming digital content in green cities are driven by their needs for information and awareness, personal safety, trust and reassurance, sense of community, participation and impact, and empowerment. They seek reliable and up-to-date information about contagious diseases, identify high-risk areas, and access preventive measures. Their opportunities lie in accessing reliable internet connections, digital devices, engaging with health organizations and communities, collaborating and sharing knowledge, and influencing public opinion and behavior. To effectively engage with digital content, they require digital literacy, critical thinking, communication skills, and information sharing abilities. They also need technological access, adaptability, and a sense of empathy and social responsibility. Their behaviors are driven by addressing these needs, leveraging opportunities, and utilizing their capabilities in consuming digital content for public health communication, surveillance, and collective actions in smart and sustainable cities.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, individuals consuming digital content have both automatic and reflective needs or motivations.
+In the context of green cities and sustainable neighborhoods, individuals consuming digital content have both automatic and reflective needs or motivations.
 
 Automatic Needs:
 1. Information and Awareness: Individuals have a natural need for information and awareness about contagious diseases and their impact on the environment and public health. This includes staying informed about health guidelines, updates on the spread of diseases, and measures for prevention and containment. They seek reliable and up-to-date information through digital content consumption.

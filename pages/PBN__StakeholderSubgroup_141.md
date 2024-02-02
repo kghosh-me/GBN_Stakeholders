@@ -8,9 +8,13 @@ In the context of smart and sustainable cities, the management of ports is essen
 
 ## NOA
 
+### Overview
+
+The behaviors of ports in the context of green cities are driven by their needs, opportunities, and capabilities. Their needs, such as efficient and sustainable transportation, waste management, and energy efficiency, motivate them to adopt practices that prioritize sustainability and environmental responsibility. Ports have the opportunity to access renewable energy sources, embrace sustainable transportation options, and incorporate green infrastructure, which further reinforces their commitment to sustainability. Additionally, they have the capabilities to manage physical infrastructure, leverage technology for efficient operations, handle waste, and engage in collaboration and risk management. These capabilities enable them to implement sustainable practices, comply with environmental regulations, and actively engage with stakeholders and the community. Overall, the behaviors of ports are driven by their needs for efficiency and sustainability, the opportunities to contribute to renewable energy and sustainable transportation, and their capabilities to manage infrastructure, technology, waste, and relationships with stakeholders.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of ports can be categorized into automatic and reflective needs.
+In the context of green cities or green building neighborhoods, the needs or motivations of ports can be categorized into automatic and reflective needs.
 
 1. Automatic Needs:
    a. Efficient and Sustainable Transportation: Ports have a need for efficient and sustainable transportation systems to facilitate the movement of goods in a green and environmentally friendly manner. This includes a demand for clean and energy-efficient modes of transport such as electric or hybrid vehicles, as well as the implementation of intelligent transportation systems to optimize logistics and reduce congestion.

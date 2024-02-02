@@ -8,9 +8,13 @@ Furthermore, the term "vehicle users" also encompasses the operators and drivers
 
 ## NOA
 
+### Overview
+
+The behaviors of vehicle users in the context of green cities are driven by their needs, opportunities, and capabilities. Vehicle users have automatic needs for accessibility, efficiency, and safety in their transportation choices. They seek convenient and time-saving options that provide them with secure and reliable transportation. Reflective needs include a desire for environmental sustainability, health and well-being, community integration, and cost-effectiveness. They aspire to contribute to conservation efforts, prioritize their health through active transportation modes, and foster social connections. Vehicle users have physical opportunities such as access to sustainable transportation, well-designed infrastructure, and integrated transport systems, which promote cleaner air, improve health, and reduce dependency on private vehicles. Social opportunities include community engagement, sustainable lifestyle promotion, and enhanced health and well-being. Vehicle users' capabilities encompass physical aspects such as navigational and maintenance skills, physical fitness, and driving skills. Psychological abilities include awareness of environmental impacts, resilience, safety consciousness, and a willingness to prioritize sustainable transportation. These needs, opportunities, and capabilities shape the behaviors of vehicle users in green cities, influencing their choices towards more sustainable modes of transportation.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of vehicle users can be categorized into automatic needs and reflective needs.
+In the context of green cities or green building neighborhoods, the needs or motivations of vehicle users can be categorized into automatic needs and reflective needs.
 
 Automatic needs refer to the immediate and instinctive motivations that drive individuals' transportation choices. These needs include:
 

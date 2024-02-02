@@ -6,9 +6,13 @@ I don't know the answer to that question.
 
 ## NOA
 
+### Overview
+
+Government departments in the context of green cities are driven by a combination of automatic and reflective needs. Their automatic needs include compliance with environmental regulations, ensuring public health and safety, and seeking cost-efficiency in sustainable development. Reflective needs focus on environmental stewardship, building a favorable reputation, and capitalizing on economic opportunities. These needs shape their behaviors to create and manage green cities. They seize physical opportunities through infrastructure development, urban planning, and resource management. Social opportunities are leveraged through community engagement, collaboration, and policy and regulation setting. Their physical abilities encompass technical expertise, administrative and regulatory capacity, infrastructure management, and data analytics. Psychological abilities include vision and leadership, collaboration, adaptability and innovation, and public engagement. These needs, opportunities, and capabilities collectively drive the behaviors of government departments in their role towards the transformation of green cities and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), government departments have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods (GBNs), government departments have both automatic and reflective needs or motivations.
 
 Automatic needs refer to the inherent or instinctive desires of government departments in their role of creating and managing green cities. These needs can include:
 

@@ -8,9 +8,13 @@ Moreover, the concept of travelers extends beyond physical movement to encompass
 
 ## NOA
 
+### Overview
+
+The behaviors of travelers in green cities are driven by their needs, opportunities, and capabilities. Their automatic needs for safety, health, comfort, and efficiency motivate them to seek environments that offer clean air, clean water, sanitation facilities, convenient transportation options, well-planned infrastructure, and efficient traffic management. Similarly, their reflective needs for sustainability, community, and well-being drive them to choose neighborhoods that prioritize renewable energy sources, waste management systems, green spaces, social interaction, and access to healthcare facilities. Travelers in green cities have opportunities to utilize sustainable transportation options, engage with the local community, participate in knowledge exchange, and form collaborations and partnerships. Their physical capabilities, such as access to sustainable transportation and energy-efficient infrastructure, enable them to actively contribute to sustainable practices. Additionally, their psychological abilities, including environmental awareness, a proactive attitude, and adaptability, empower them to embrace and adopt sustainable behaviors. Understanding and addressing the needs, providing opportunities, and enhancing the capabilities of travelers in green cities are essential for promoting their engagement and contributing to the overall sustainability and well-being of the community.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of travelers can be categorized into automatic and reflective needs.
+In the context of green cities or green building neighborhoods, the needs or motivations of travelers can be categorized into automatic and reflective needs.
 
 Automatic needs refer to the inherent and instinctive desires that travelers have when it comes to their movement and interaction within green cities. These needs primarily include:
 

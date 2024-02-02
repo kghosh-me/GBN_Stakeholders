@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, water utilitie
 
 ## NOA
 
+### Overview
+
+The behaviors of water utilities in green cities and sustainable neighborhoods are driven by their specific needs, opportunities, and capabilities. Their automatic needs for a reliable and safe water supply and effective wastewater management motivate them to prioritize the protection of water sources, implement treatment processes, maintain infrastructure, and ensure safe disposal of wastewater. Their reflective needs for environmental sustainability drive them to adopt eco-friendly practices, such as rainwater harvesting and decentralized wastewater treatment, to reduce water demand and minimize environmental impacts. The opportunities to enhance their operations and contribute to sustainable water management include implementing water conservation measures, leveraging smart technologies for optimization, and exploring alternative water sources. Their physical capabilities in infrastructure management and technology adoption allow them to plan and develop the necessary physical infrastructure and implement smart monitoring systems. Their psychological capabilities in stakeholder engagement and knowledge and expertise enable them to educate and collaborate with stakeholders, provide guidance on sustainable water infrastructure, and promote behavior change for responsible water usage. By leveraging their needs, opportunities, and capabilities, water utilities can contribute to efficient and responsible water management in green cities and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, water utilities have various needs or motivations, both automatic and reflective. 
+In the context of green cities or green building neighborhoods, water utilities have various needs or motivations, both automatic and reflective. 
 
 Automatic needs refer to the immediate and basic requirements that water utilities have in order to fulfill their role effectively and efficiently. These include the need for:
 

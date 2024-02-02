@@ -8,9 +8,13 @@ Furthermore, the term "green spaces users" can also include individuals who part
 
 ## NOA
 
+### Overview
+
+The behaviors of green spaces users are driven by their needs, opportunities, and capabilities in various ways. Their automatic needs for physical well-being and stress relief motivate them to engage in activities such as walking, jogging, and outdoor exercise within green spaces. The physical opportunities provided by well-designed and accessible green spaces, as well as diverse recreational facilities, enable them to fulfill these needs. Their reflective needs for community connection and environmental awareness drive them to participate in community activities, cultural initiatives, and sustainable practices within green spaces. The social opportunities provided by community engagement, cultural and educational initiatives, health programs, and volunteer opportunities enable them to meet these needs. Additionally, their physical abilities such as fitness and mobility, as well as psychological abilities such as relaxation and attention restoration, allow them to actively engage with green spaces and benefit from their positive impacts on physical and mental well-being. Overall, the behaviors of green spaces users are influenced by the alignment between their needs, the opportunities available to them, and their capabilities, allowing them to fully utilize and appreciate the benefits of green spaces in green cities and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of green spaces users can be categorized into both automatic and reflective needs. 
+In the context of green cities or green building neighborhoods, the needs or motivations of green spaces users can be categorized into both automatic and reflective needs. 
 
 1. Automatic Needs:
 - Physical well-being: Green spaces users have a natural inclination towards activities that promote physical well-being. They seek out green spaces to engage in physical activities such as walking, jogging, sports, or outdoor exercise. These activities contribute to their physical health and fitness goals.

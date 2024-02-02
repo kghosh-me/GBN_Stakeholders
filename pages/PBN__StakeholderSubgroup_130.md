@@ -6,9 +6,13 @@ I don't have enough information to provide a specific definition of "Social entr
 
 ## NOA
 
+### Overview
+
+The behaviors of social entrepreneurship fund managers in green cities are primarily driven by their needs, opportunities, and capabilities. Their automatic need for economic incentives, such as grants and loans, motivates them to seek funding to establish and sustain social enterprises. They also have a reflective need to make a positive social impact and contribute to the development and sustainability of green cities. This drives them to invest in projects and initiatives that reduce environmental footprints, promote renewable energy, and implement waste reduction strategies. Furthermore, their need for networking and collaboration opportunities helps them access resources, knowledge, and expertise in the field of green cities. The physical opportunities they identify, such as access to sustainable infrastructure and innovation in green technologies, provide avenues for investing in projects that align with their needs and goals. The social opportunities they leverage, such as community engagement and collaboration with stakeholders, allow them to align their investments with the aspirations of local communities and generate social impact. Their capabilities, such as expertise in sustainable development, financial management skills, networking and collaboration abilities, vision for sustainable development, problem-solving skills, and leadership and communication skills, enable them to effectively identify opportunities, manage investments, build partnerships, engage stakeholders, and address challenges in driving sustainable development initiatives in green cities. Overall, their behaviors are driven by their intrinsic needs and motivations, the external opportunities they identify, and the capabilities they possess to create sustainable and environmentally friendly communities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBN), the needs or motivations of social entrepreneurship fund managers can be classified under the NOA (Needs, Opportunities, Abilities) framework as follows:
+In the context of green cities or green building neighborhoods (GBN), the needs or motivations of social entrepreneurship fund managers can be classified under the NOA (Needs, Opportunities, Abilities) framework as follows:
 
 1. Automatic Needs:
    - Economic Incentives: Social entrepreneurship fund managers would have an automatic need for financial incentives, such as grants, loans, or subsidies, to support their operations and initiatives in green cities. This need arises from the requirement of funding to establish and sustain social enterprises.

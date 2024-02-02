@@ -6,9 +6,13 @@ I don't have enough information to provide a specific definition of 'Security ag
 
 ## NOA
 
+### Overview
+
+The behaviors of security agencies in green cities and green building neighborhoods are driven by their needs, opportunities, and capabilities. Their automatic needs for protection and safety and risk management motivate them to ensure the safety and security of residents, infrastructure, and buildings. Their reflective needs for collaboration drive them to work together with stakeholders, such as local authorities and community organizations, to develop preventive measures and emergency response plans. Technological advancements motivate them to stay updated on advanced surveillance tools for improved threat detection and response. Their need to align with sustainable practices pushes them to adopt eco-friendly security systems, integrate renewable energy sources, and utilize smart technologies for monitoring. Additionally, their reflective need for public perception and trust motivates them to be transparent and accountable. The opportunities they have include implementing and managing advanced security systems, collaborating with sustainable infrastructure providers, and designing secure green buildings. Social opportunities involve building community trust, promoting a culture of safety and sustainability, and collaborating with other stakeholders. Their physical capabilities include surveillance and monitoring, response and emergency management. Their psychological capabilities include risk assessment and analysis, adaptability and flexibility, and stakeholder engagement. These needs, opportunities, and capabilities drive their behaviors, enabling them to contribute to the safety, security, and sustainability of green cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of security agencies can be categorized as both automatic and reflective. 
+In the context of green cities or green building neighborhoods, the needs or motivations of security agencies can be categorized as both automatic and reflective. 
 
 Automatic Needs (Motivations):
 1. Protection and Safety: Security agencies have an automatic need to ensure the protection and safety of the residents, buildings, and infrastructure within the green cities. This includes preventing criminal activities, maintaining order, and responding to emergencies.

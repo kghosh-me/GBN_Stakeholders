@@ -8,9 +8,13 @@ Furthermore, "Energy management authorities" may also be involved in developing 
 
 ## NOA
 
+### Overview
+
+The behaviors of energy management authorities in green cities are driven by their specific needs, opportunities, and capabilities. Their needs include the efficient usage of energy to minimize waste and conserve natural resources, ensuring a reliable power supply to support sustainable infrastructure, and managing energy resources in a cost-effective manner. These needs motivate them to optimize energy consumption patterns, develop sustainable energy infrastructure, and integrate energy considerations into urban planning processes. They recognize the opportunities to reduce greenhouse gas emissions, increase energy efficiency, engage with communities to raise awareness about sustainable energy practices, and contribute to economic development. Their physical abilities, such as technical expertise and infrastructure management, enable them to implement sustainable energy solutions, manage energy infrastructure, and analyze data for informed decision-making. Their psychological abilities, including communication, collaboration, adaptability, and problem-solving, empower them to engage stakeholders, address energy-related challenges, and promote behavior change. Overall, their behaviors are driven by aligning their needs with the opportunities available to them and utilizing their capabilities to effectively manage and optimize energy resources in green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of energy management authorities can be categorized into automatic and reflective.
+In the context of green cities or green building neighborhoods, the needs or motivations of energy management authorities can be categorized into automatic and reflective.
 
 Automatic needs refer to the basic, intrinsic motivations that drive energy management authorities in their day-to-day operations. Some automatic needs of energy management authorities in green cities may include:
 

@@ -8,9 +8,13 @@ Furthermore, citizen researchers often collaborate with local organizations, adv
 
 ## NOA
 
+### Overview
+
+Citizen researchers in green cities are driven by a combination of needs, opportunities, and capabilities. Their needs, which include a sense of ownership, environmental concerns, personal well-being, social impact, and knowledge acquisition, motivate them to actively engage in researching and improving the sustainability and public health aspects of their living environment. These needs align with the opportunities available to citizen researchers, such as access to data and technology, collaboration and networking with stakeholders, and the ability to influence and advocate for change. Their capabilities, both physical and psychological, enable them to access information, possess local knowledge, utilize technical skills, exhibit curiosity and motivation, apply critical thinking, collaborate effectively, and demonstrate resilience. By understanding and tapping into their needs, leveraging available opportunities, and utilizing their capabilities, citizen researchers play a crucial role in contributing to the understanding and improvement of green cities and smart and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, citizen researchers' needs can be defined based on the NOA (Needs, Opportunities, Abilities) framework as follows:
+In the context of green cities or green building neighborhoods, citizen researchers' needs can be defined based on the NOA (Needs, Opportunities, Abilities) framework as follows:
 
 Automatic Needs/Motivations:
 1. Sense of Ownership: Citizen researchers may have a strong sense of ownership and pride in their living environment, including their neighborhood's green initiatives. They may be motivated to actively contribute to the improvement and maintenance of the green features within the neighborhood.

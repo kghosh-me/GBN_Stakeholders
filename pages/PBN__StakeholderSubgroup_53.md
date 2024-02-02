@@ -8,9 +8,13 @@ Furthermore, in the context of smart and sustainable cities and neighborhoods, o
 
 ## NOA
 
+### Overview
+
+The behaviors of occupational health and safety teams in green cities are driven by their fundamental needs for safety and prevention, as well as their reflective needs for sustainability and collaboration. They are motivated to ensure the safety and well-being of individuals by identifying, assessing, and mitigating health and safety risks related to contagious diseases. The teams recognize the opportunity to leverage smart technologies and sustainable design principles to enhance their capabilities in monitoring and managing risks. They can integrate sensors for real-time monitoring, incorporate features that promote well-being in the workplace, and collaborate with waste management professionals for efficient disposal. Socially, they have the opportunity to collaborate with stakeholders, conduct training and education programs for employees, and develop emergency preparedness plans. With their abilities in specialized knowledge, technical skills, communication, problem-solving, adaptability, and empathy, they are well-equipped to fulfill their responsibilities and create healthy, resilient, and sustainable workspaces in green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of occupational health and safety teams can be defined using the NOA framework as follows:
+In the context of green cities or green building neighborhoods, the needs or motivations of occupational health and safety teams can be defined using the NOA framework as follows:
 
 Automatic Needs:
 1. Safety: Occupational health and safety teams have a fundamental need to ensure the safety and well-being of individuals within work environments. In green cities, there is a growing awareness of the importance of creating healthy and safe workplaces where employees are protected from potential health hazards, including contagious diseases.

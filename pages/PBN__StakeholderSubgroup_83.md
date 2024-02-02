@@ -6,9 +6,13 @@ I'm sorry, I don't have enough information to provide a relevant definition or d
 
 ## NOA
 
+### Overview
+
+The behaviors of banking institutions in green cities are primarily driven by their needs, opportunities, and capabilities. The needs of banking institutions include the provision of financial services and infrastructure support, as well as supporting sustainability initiatives, social impact, and corporate responsibility, and reputation and branding. These needs compel banking institutions to develop and offer financial products and services that align with sustainability principles, engage in community initiatives, and build a positive brand image. The opportunities available to banking institutions in green cities include green financing, sustainable investment products, green banking education, community partnerships, and knowledge sharing and collaboration. These opportunities enable banking institutions to provide funding for sustainable projects, develop and promote sustainable investment options, educate customers on green banking practices, support community initiatives, and share their expertise in sustainable finance. Lastly, the capabilities of banking institutions in green cities include their ability to provide financial resources, adopt technology for sustainable banking practices, invest in sustainable infrastructure, possess specialized knowledge and expertise in sustainable finance, assess and manage environmental and social risks, and collaborate with other stakeholders for sustainable urban development. These capabilities enable banking institutions to effectively support the development of smart and sustainable neighborhoods and contribute to the growth of green cities.
+
 ### Needs
 
-nIn the context of green cities or GBNs, banking institutions may have various needs or motivations. These needs can be classified into automatic needs and reflective needs.
+In the context of green cities or GBNs, banking institutions may have various needs or motivations. These needs can be classified into automatic needs and reflective needs.
 
 Automatic needs refer to the basic functional requirements that banking institutions have in green cities. These may include:
 

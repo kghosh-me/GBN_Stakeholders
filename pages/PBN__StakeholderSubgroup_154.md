@@ -8,9 +8,13 @@ Furthermore, local energy markets can support the development of microgrids, whi
 
 ## NOA
 
+### Overview
+
+Stakeholders in green cities and green building neighborhoods are driven by their automatic and reflective needs, which include cost savings, energy independence, environmental consciousness, community engagement, resilience, and sustainable living. These needs push them to seek opportunities provided by local energy markets, such as energy efficiency, integration of renewable energy, decentralized power generation, and the development of microgrids. Stakeholders have the physical abilities to generate renewable energy, store excess energy, optimize energy usage, and invest in infrastructure. They also have psychological abilities, including awareness, participation, adaptability, and empowerment, which enable them to actively engage in energy-related decision-making, collaborate with others, and innovate. The intersection of stakeholders' needs, the opportunities offered by local energy markets, and their physical and psychological capabilities drives their behaviors towards actively participating in local energy markets, adopting sustainable practices, and contributing to the transition towards a more sustainable and resilient energy system.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, stakeholders' needs or motivations can be categorized into automatic and reflective needs. 
+In the context of green cities or green building neighborhoods, stakeholders' needs or motivations can be categorized into automatic and reflective needs. 
 
 Automatic needs:
 

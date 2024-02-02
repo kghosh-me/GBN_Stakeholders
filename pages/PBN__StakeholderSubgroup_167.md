@@ -8,9 +8,13 @@ The responsibilities of drive-through staff may include greeting and directing i
 
 ## NOA
 
+### Overview
+
+The behaviors of drive-through staff in the context of green cities and sustainable neighborhoods are driven by their needs for job security, a stable income, and opportunities for career growth, as well as their motivations to provide efficient and effective medical services to the public. Their reflective needs encompass a desire for a healthier and sustainable living environment, a sense of civic responsibility, and recognition of their role in promoting environmentally friendly urban infrastructure. Drive-through staff have opportunities to leverage the existing infrastructure, sustainable design principles, public health awareness, community engagement, and improved access to healthcare in green cities. They can utilize their technical skills, communication abilities, adaptability, attention to safety and hygiene, and empathy to effectively perform their duties and contribute to the overall sustainability and management of green cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of drive-through staff can be understood through the NOA framework, which consists of both automatic and reflective needs. 
+In the context of green cities or green building neighborhoods, the needs or motivations of drive-through staff can be understood through the NOA framework, which consists of both automatic and reflective needs. 
 
 Automatic needs refer to the basic and immediate requirements that drive-through staff may seek to fulfill in their role. These needs could include job security, a stable income, and opportunities for career growth. Drive-through staff may also have automatic motivations related to the fulfillment of their professional duties and responsibilities, such as providing efficient and effective medical services to the public, contributing to public health and safety, and gaining satisfaction from helping individuals in need.
 

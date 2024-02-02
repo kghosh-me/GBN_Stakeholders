@@ -8,9 +8,13 @@ Furthermore, academic journals play a crucial role in the validation and dissemi
 
 ## NOA
 
+### Overview
+
+The behaviors of researchers and academics publishing in academic journals in the field of green cities or green building neighborhoods are driven by their specific needs, opportunities, and capabilities. Their needs include recognition and reputation, as publishing in academic journals allows them to showcase their expertise and gain credibility within their academic disciplines. Additionally, they have a need to meet publication requirements and demonstrate research productivity for academic performance and career advancement. The opportunities available to them include collaborating and networking with other experts in the field, contributing to the advancement of knowledge, and influencing policy and practice through evidence-based research. GBNs offer physical opportunities such as integrating sustainable features into the built environment, providing access to resources necessary for sustainable living, and engaging with innovative technologies. Social opportunities in GBNs include collaboration, education and awareness-building, and community engagement. The capabilities of researchers and academics involve their physical abilities, such as technical expertise and access to resources and technology, as well as psychological abilities like awareness, collaboration, flexibility, and proactiveness. These needs, opportunities, and capabilities drive their behaviors, motivating them to publish in academic journals, collaborate with stakeholders, contribute to knowledge, and actively participate in creating sustainable and environmentally friendly urban environments.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), the needs or motivation of stakeholders, specifically researchers and academics publishing in academic journals, can be defined using the NOA (Needs, Opportunities, Abilities) framework.
+In the context of green cities or green building neighborhoods (GBNs), the needs or motivation of stakeholders, specifically researchers and academics publishing in academic journals, can be defined using the NOA (Needs, Opportunities, Abilities) framework.
 
 Automatic Needs/Motivation: 
 1. Recognition and Reputation: Researchers in the academic community have a need for recognition and reputation. Publishing in academic journals allows researchers to showcase their knowledge, expertise, and contributions to the field of green cities or GBNs. It helps them establish credibility and gain visibility within their respective academic disciplines.

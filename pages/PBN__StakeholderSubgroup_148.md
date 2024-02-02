@@ -8,9 +8,13 @@ Moreover, sustainable city professionals play a crucial role in advocating for t
 
 ## NOA
 
+### Overview
+
+The behaviors of sustainable city professionals are deeply influenced by their needs, opportunities, and capabilities. Their automatic need for environmental conservation drives them to prioritize sustainable practices in urban development, such as reducing pollution and promoting biodiversity. Their reflective need for sustainability compels them to create economically viable and socially equitable cities and neighborhoods. Additionally, their need for resilience motivates them to design communities that can withstand and recover from shocks and stresses. They have physical opportunities, such as integrating green infrastructure and renewable energy systems, which allow them to enhance the natural environment and reduce carbon emissions. They also have social opportunities, such as engaging with the community and collaborating with stakeholders, which enable them to develop inclusive and resilient strategies. Their technical expertise, systems thinking, collaboration skills, and problem-solving abilities empower them to effectively contribute to sustainable urban spaces. Moreover, their adaptability and continuous learning capabilities ensure that they stay updated on emerging practices and technologies. Finally, their leadership and advocacy skills allow them to mobilize support, influence decision-makers, and drive the adoption of sustainable initiatives. Overall, their behaviors are driven by a strong alignment between their needs, the opportunities they have, and their capabilities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, sustainable city professionals have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, sustainable city professionals have both automatic and reflective needs or motivations.
 
 Automatic needs refer to the innate or instinctive motivations that drive sustainable city professionals in their work. These needs include:
 

@@ -8,9 +8,13 @@ Furthermore, facility maintenance staff play a vital role in implementing design
 
 ## NOA
 
+### Overview
+
+The behaviors of facility maintenance staff in green cities or green building neighborhoods are primarily driven by their needs, opportunities, and capabilities. Their automatic need for safety and health motivates them to implement protective measures and use advanced cleaning equipment and environmentally-friendly cleaning products. Similarly, their reflective need for recognition and appreciation encourages them to adopt green initiatives and integrate smart technologies. The opportunities they have, such as the integration of sustainable infrastructure and the use of green cleaning practices, provide them with tangible ways to contribute to sustainability and public health. Their physical abilities, such as technical skills and physical endurance, enable them to effectively carry out their responsibilities, while their psychological abilities, like attention to detail and problem-solving, drive their approach to maintaining the built environment. Overall, their behaviors align with their needs, opportunities, and capabilities to create and maintain healthy, safe, and sustainable environments in green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, facility maintenance staff have both automatic and reflective needs related to their motivation. 
+In the context of green cities or green building neighborhoods, facility maintenance staff have both automatic and reflective needs related to their motivation. 
 
 Automatic needs: 
 1. Safety and Health: Facility maintenance staff have a basic need for safety and health in their work environment. They require protective measures and equipment to prevent exposure to hazardous substances, contagious diseases, and occupational risks. Green cities emphasize the health and well-being of occupants, and facility maintenance staff need to ensure that the built environment supports these goals.

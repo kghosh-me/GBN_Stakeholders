@@ -8,9 +8,13 @@ Furthermore, sustainability teams play a crucial role in fostering cross-sectora
 
 ## NOA
 
+### Overview
+
+The behaviors of sustainability teams are driven by their needs, opportunities, and capabilities. Their automatic needs for environmental stewardship, public health and well-being, and resilience and adaptability motivate them to implement sustainable development initiatives in urban environments. They leverage their physical abilities in technical skills, data analysis and research, and project management to integrate sustainable practices such as green infrastructure, renewable energy, and sustainable transportation. Their reflective needs for professional fulfillment, collaboration and knowledge exchange, and recognition and support drive them to engage in interdisciplinary collaboration, problem-solving, and effective communication. They seize the physical opportunities for community engagement, education and knowledge dissemination, and collaboration and partnerships to involve residents, educate the public on sustainable practices, and build partnerships with various stakeholders. By combining their capabilities, sustainability teams contribute to the creation of green cities and sustainable neighborhoods that prioritize public health, environmental stewardship, and resilience.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, the needs or motivations of sustainability teams can be categorized into automatic and reflective needs.
+In the context of green cities and sustainable neighborhoods, the needs or motivations of sustainability teams can be categorized into automatic and reflective needs.
 
 Automatic Needs:
 1. Environmental Stewardship: One automatic need of sustainability teams is to contribute to environmental stewardship by implementing sustainable development initiatives. They are motivated by the desire to minimize the carbon footprint, reduce energy consumption, conserve natural resources, and protect ecosystems within urban environments.

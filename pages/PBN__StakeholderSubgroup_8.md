@@ -8,9 +8,13 @@ Furthermore, research institutions serve as hubs for interdisciplinary collabora
 
 ## NOA
 
+### Overview
+
+Research institutions in the context of green cities are driven by their needs for funding, data, collaboration, recognition, policy influence, and education and training. These needs motivate their behavior to actively seek financial resources, access reliable and up-to-date data on green cities, forge partnerships for collaboration, produce high-quality research for recognition and impact, engage in policy discussions to influence decisions, and contribute to education and training programs. They are also driven by the opportunities presented by green infrastructures and living laboratories in green building neighborhoods, allowing them to study the benefits of sustainable features, test innovative technologies, collaborate with stakeholders, integrate interdisciplinary expertise, and contribute to the education and training of future professionals. These opportunities shape their behavior to conduct research, collaborate with stakeholders, and contribute to sustainable urban development. Their behaviors are further guided by their capabilities in research and analysis, interdisciplinary collaboration, policy development, education and training, technological expertise, and advocacy and awareness. These capabilities enable research institutions to conduct investigations, analyze data, collaborate across disciplines, translate research into policies, educate and train future professionals, utilize advanced technology, and advocate for sustainable practices. Therefore, their behaviors are driven by their specific needs, opportunities, and capabilities in the context of green cities and green building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBN), research institutions have several needs or motivations, both automatic and reflective.
+In the context of green cities or green building neighborhoods (GBN), research institutions have several needs or motivations, both automatic and reflective.
 
 Automatic Needs:
 1. Access to Funding: Research institutions require financial resources to support their research activities, including conducting studies, collecting data, and developing evidence-based strategies. They need funding from government agencies, private organizations, and other sources to sustain their work.

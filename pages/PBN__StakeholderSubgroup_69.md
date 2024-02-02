@@ -8,9 +8,13 @@ Furthermore, scientific communities are instrumental in driving the integration 
 
 ## NOA
 
+### Overview
+
+The behaviors of scientific communities in green cities are driven by their inherent needs, such as the need for knowledge advancement, public health protection, and collaborative research. These needs motivate them to conduct research, analyze data, and continuously learn in order to develop innovative solutions for addressing contagious diseases. Additionally, the reflective needs of sustainable urban development, evidence-based decision-making, and community engagement drive their behaviors towards integrating sustainable practices into urban planning and design, promoting informed decision-making processes, and educating local communities on disease prevention. Their behaviors are further influenced by the opportunities provided by access to sustainable infrastructure for testing interventions, collaboration with urban planners and designers to shape healthier environments, community engagement and empowerment for active participation, data-driven approaches for evidence-based decision-making, and funding opportunities for research and projects. Lastly, their behaviors are shaped by their capabilities, which include their knowledge, expertise, and technical skills in their respective fields, allowing them to conduct research and implement strategies. Their collaborative and interdisciplinary mindset enables effective communication and knowledge sharing, while their adaptability and responsiveness to emerging threats drive the integration of cutting-edge technologies and community intelligence into their work.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, scientific communities have both automatic and reflective needs or motivations. 
+In the context of green cities and sustainable neighborhoods, scientific communities have both automatic and reflective needs or motivations. 
 
 Automatic needs refer to the inherent motivations that drive scientific communities to address contagious diseases in green cities. These needs include:
 

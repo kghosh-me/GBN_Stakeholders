@@ -8,9 +8,13 @@ Furthermore, regulatory bodies are instrumental in coordinating efforts between 
 
 ## NOA
 
+### Overview
+
+The behaviors of regulatory bodies in green cities and sustainable neighborhoods are primarily driven by their needs, opportunities, and capabilities. Their needs, such as ensuring compliance with health and safety standards and protecting public health, motivate them to establish guidelines and protocols for disease prevention within urban environments. This drives their behaviors of monitoring and enforcing regulations related to ventilation, sanitation, and zoning. Additionally, their reflective needs, such as policy development and collaboration, drive their behaviors of developing sustainable infrastructure, integrating renewable energy, and engaging with stakeholders. Their physical and psychological capabilities, including technical expertise, monitoring and enforcement abilities, collaborative approach, and communication skills, enable them to effectively fulfill their needs and seize opportunities. These capabilities empower them to develop green building codes, promote renewable energy integration, plan sustainable infrastructure, engage stakeholders, and adapt to new technologies and best practices. Overall, the behaviors of regulatory bodies in green cities and sustainable neighborhoods are a result of their needs, opportunities, and capabilities working together to create healthy, resilient, and environmentally friendly urban environments.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, the needs or motivations of regulatory bodies can be defined using the NOA (Needs, Opportunities, Abilities) framework as follows:
+In the context of green cities and sustainable neighborhoods, the needs or motivations of regulatory bodies can be defined using the NOA (Needs, Opportunities, Abilities) framework as follows:
 
 1. Automatic Needs:
    - Compliance: Regulatory bodies have a need to ensure that green building neighborhoods and sustainable cities comply with health and safety standards. This includes monitoring and enforcing regulations related to ventilation requirements, sanitation standards, and zoning regulations to prevent the spread of contagious diseases.

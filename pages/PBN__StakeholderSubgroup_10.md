@@ -8,9 +8,13 @@ Furthermore, the appointed personnel responsible for prevention measures play a 
 
 ## NOA
 
+### Overview
+
+The behaviors of appointed personnel responsible for prevention measures in green cities are driven by a combination of their needs, opportunities, and capabilities. Their automatic needs for health and well-being, safety and security, and professional responsibility motivate them to protect the community's health and prevent the spread of contagious diseases. Their reflective needs for sustainability, community engagement and empowerment, and innovation and smart technologies drive them to incorporate sustainable practices, engage the community, and explore technological advancements in their prevention measures. They take advantage of physical opportunities such as integrating health infrastructure, implementing sustainable sanitation systems, and ensuring access to healthcare facilities. Social opportunities include raising public awareness, collaborating with community organizations, and empowering local leadership. Their capabilities, including technical knowledge, analytical skills, planning and coordination abilities, communication skills, leadership and decision-making, adaptability and resilience, empathy and cultural sensitivity, and stakeholder engagement, enable them to effectively address contagious diseases in green cities by aligning prevention measures with sustainable and smart city principles, analyzing data, planning and coordinating initiatives, communicating with the community, making informed decisions, adapting strategies, understanding cultural contexts, and collaborating with stakeholders.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the appointed personnel responsible for prevention measures have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, the appointed personnel responsible for prevention measures have both automatic and reflective needs or motivations.
 
 Automatic needs refer to the basic or instinctive motivations that drive individuals in their roles. These needs include:
 

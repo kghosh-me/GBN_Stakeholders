@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+Municipality officials' behaviors are driven by their diverse needs, opportunities, and capabilities in the context of green cities. Their automatic need for environmental responsibility motivates them to prioritize sustainability in urban planning, infrastructure development, and public services. This is reflected in their physical opportunities to invest in energy-efficient infrastructure, promote sustainable transportation systems, implement waste management strategies, and create green spaces. Their reflective need for public opinion and perception drives them to address public concerns and enhance the city's reputation through community engagement, education, collaboration with stakeholders, and economic development. Their long-term planning and resilience need encourage them to think ahead and implement measures that ensure the city can withstand environmental challenges. To fulfill these needs and seize the opportunities, municipality officials leverage their physical capabilities, including technical knowledge in sustainable development, resource management, and project management. They also leverage their psychological capabilities, such as vision and leadership, collaboration and communication skills, and adaptability and problem-solving abilities. Through their behaviors driven by the interplay of needs, opportunities, and capabilities, municipality officials contribute to creating sustainable, resilient, and healthy cities that prioritize environmental conservation while promoting the well-being of residents.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, municipality officials have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, municipality officials have both automatic and reflective needs or motivations.
 
 Automatic Needs:
 1. Environmental Responsibility: Municipality officials have a need to fulfill their responsibility towards the environment by promoting eco-friendly practices and reducing the city's carbon footprint. This includes the need to prioritize sustainability in urban planning, infrastructure development, and public services.

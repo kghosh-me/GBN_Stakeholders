@@ -8,9 +8,13 @@ International urban institutions often work to develop and promote best practice
 
 ## NOA
 
+### Overview
+
+The behaviors of international urban institutions in the context of green cities and green building neighborhoods are driven by their specific needs, opportunities, and capabilities. Their needs for knowledge and information, policy advocacy, collaboration and networking, capacity building, and public awareness and education motivate their behaviors to stay updated on sustainable urban development advancements, influence policymakers to prioritize sustainability, collaborate with stakeholders, provide training and resources, and educate the public about the benefits of green cities. They also capitalize on physical opportunities such as promoting sustainable infrastructure development, urban planning, resource efficiency, and climate resilience, as well as social opportunities including raising public awareness, community engagement, capacity building, and economic development. Furthermore, their capabilities in expertise and technical knowledge, research and data analysis, resource mobilization, advocacy and influence, education and awareness building, and networking and collaboration enable them to effectively address urban challenges, provide technical support, influence policies, mobilize resources, educate stakeholders, and foster partnerships for sustainable urban development.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, international urban institutions have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, international urban institutions have both automatic and reflective needs or motivations.
 
 Automatic needs or motivations:
 1. Knowledge and information: International urban institutions have a need for knowledge and information about best practices, innovative technologies, and successful case studies related to green cities and green building neighborhoods. This helps them stay updated and informed about the latest advancements in sustainable urban development.

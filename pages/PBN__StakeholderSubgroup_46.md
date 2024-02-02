@@ -8,9 +8,13 @@ In the context of contagious diseases, the term "physical workers" also encompas
 
 ## NOA
 
+### Overview
+
+The behaviors of physical workers in green cities are driven by their needs, opportunities, and capabilities. Their automatic needs for stable employment and fair wages motivate them to seek opportunities in the growing green economy. Their reflective needs for skill development and training drive their desire to adapt to changing technologies and practices in the green construction sector. These needs, combined with the physical and social opportunities available to them, such as employment in green industries and collaboration with diverse stakeholders, encourage physical workers to actively engage in the development and maintenance of sustainable urban environments. They leverage their physical abilities, such as strength, stamina, and adaptability, to carry out their tasks effectively. Their psychological abilities, such as resilience, problem-solving skills, and attention to safety, enable them to overcome challenges and ensure the success of sustainable construction practices. Overall, physical workers' behaviors are shaped by their needs, the opportunities available to them, and their capabilities, allowing them to contribute to the creation of green cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, physical workers have various needs or motivations that can be categorized into automatic and reflective needs.
+In the context of green cities or green building neighborhoods, physical workers have various needs or motivations that can be categorized into automatic and reflective needs.
 
 Automatic needs refer to the immediate and tangible requirements that physical workers have in their daily lives. Some of these automatic needs for physical workers in green cities may include:
 

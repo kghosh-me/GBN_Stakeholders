@@ -8,9 +8,13 @@ Furthermore, people with lower income may have limited access to information and
 
 ## NOA
 
+### Overview
+
+The behaviors of people with lower income in green cities and green building neighborhoods (GBNs) are driven by their specific needs, opportunities, and capabilities. Their needs for affordable housing, nutritious food, and accessible healthcare influence their behavior to seek out and advocate for these essential resources. The physical opportunities, such as access to energy-efficient housing and green spaces, can shape their behavior to prioritize sustainable living practices and engage in physical activities for their well-being. The social opportunities, such as community engagement and empowerment, can drive their behavior to actively participate in decision-making processes and collaborate with others to improve their living conditions. Their physical abilities, including adaptability and practical skills, enable them to find creative solutions and contribute to sustainable initiatives. Their psychological abilities, like resilience and empathy, drive their behavior to persevere and collaborate with others for community well-being. Overall, the behaviors of people with lower income in green cities and GBNs are shaped by their needs, opportunities, and capabilities to actively pursue sustainable living, community engagement, and a better quality of life.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), people with lower income have specific needs or motivations, both automatic and reflective.
+In the context of green cities or green building neighborhoods (GBNs), people with lower income have specific needs or motivations, both automatic and reflective.
 
 Automatic needs or motivations refer to the basic and immediate requirements for survival and well-being. For people with lower income in GBNs, their automatic needs may include:
 

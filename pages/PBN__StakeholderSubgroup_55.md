@@ -8,9 +8,13 @@ Furthermore, energy and environmental consultants are instrumental in providing 
 
 ## NOA
 
+### Overview
+
+The behaviors of energy and environmental consultants are driven by a combination of their needs, opportunities, and capabilities. On the needs front, their intrinsic motivations, such as a passion for environmental sustainability, a desire for positive impact, and personal fulfillment, drive their commitment to promoting sustainable practices in urban development. These needs fuel their dedication to making a significant and positive environmental impact. Externally, consultants are motivated by extrinsic factors like professional recognition and career growth, which encourage them to continuously improve their expertise and seek opportunities for advancement within the sustainability sector. Moreover, their ability to possess technical expertise, analytical skills, problem-solving abilities, and strong collaboration and communication skills enables them to seize the physical and social opportunities presented to them. These opportunities include improving energy efficiency, integrating renewable energy sources, developing effective waste management strategies, advocating for environmental justice, engaging with communities, collaborating with stakeholders, and contributing to knowledge-sharing platforms. The capabilities of energy and environmental consultants empower them to address challenges, navigate complex regulations, stay updated on emerging trends and innovations, act as leaders and advocates, and engage effectively with stakeholders. Ultimately, their behaviors are guided by their needs, opportunities, and capabilities, which allow them to play a pivotal role in driving the transition towards smart and sustainable cities and neighborhoods.
+
 ### Needs
 
-nBased on the context of green cities and sustainable neighborhoods, the needs or motivations of energy and environmental consultants can be defined using the NOA framework as follows:
+Based on the context of green cities and sustainable neighborhoods, the needs or motivations of energy and environmental consultants can be defined using the NOA framework as follows:
 
 1. Automatic needs (Intrinsic motivation):
    - Passion for environmental sustainability: Energy and environmental consultants are typically driven by a genuine passion for protecting the environment and promoting sustainable practices in urban development.

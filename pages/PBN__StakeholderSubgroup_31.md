@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighbourhoods, public commun
 
 ## NOA
 
+### Overview
+
+Public communication authorities in the context of green cities and green building neighborhoods are driven by their needs, opportunities, and capabilities to fulfill their role effectively. Their automatic needs for accuracy, timeliness, clarity, and empowerment drive them to disseminate accurate and reliable information promptly, translated into understandable content that empowers individuals to make informed decisions about their health. Their reflective needs for awareness and education, managing risk perception, facilitating community engagement, and modifying communication and circulation guide their actions towards promoting community awareness, educating residents about health issues, addressing risk perception, and reducing the risk of disease transmission. They leverage physical opportunities such as green infrastructure, smart technologies, and sustainable transportation to communicate with the public effectively. They also capitalize on social opportunities like community engagement, education, and awareness campaigns, and social media platforms to disseminate information, build trust, and foster a sense of community. Their physical capabilities of technological competence, access to communication infrastructure, collaboration and coordination, and effective communication skills enable them to leverage various tools and platforms to reach a wide audience and coordinate messaging. Their psychological capabilities of empathy and emotional intelligence, adaptability and resilience, trust-building, and cultural sensitivity allow them to address public concerns and emotions, adapt to changing situations, build and maintain trust, and cater to the diverse cultural needs of the community. Overall, their behaviors are driven by the specific needs, opportunities, and capabilities in green cities, ensuring that accurate and timely information is conveyed, risk perception is managed, community engagement is fostered, and communication is modified to promote health and well-being.
+
 ### Needs
 
-nThe needs or motivations of public communication authorities in the context of green cities or Green Building neighborhoods can be categorized into automatic and reflective needs.
+The needs or motivations of public communication authorities in the context of green cities or Green Building neighborhoods can be categorized into automatic and reflective needs.
 
 1. Automatic Needs:
    - Accuracy: Public communication authorities have a need to disseminate accurate and reliable information to the public regarding contagious diseases. They strive to ensure that the information they provide is based on expert knowledge and reflects the current situation.

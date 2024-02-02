@@ -8,9 +8,13 @@ Furthermore, waste management organizations are instrumental in addressing the c
 
 ## NOA
 
+### Overview
+
+The behaviors of waste management organizations in green cities are driven by their needs, opportunities, and capabilities. Their automatic needs for compliance with regulations, environmental sustainability, and public health and safety motivate them to implement strategies that meet waste reduction standards, promote recycling, and ensure proper handling and disposal of hazardous waste. Their reflective needs for innovation, collaboration, and public engagement drive them to stay updated on technological advancements, form partnerships to develop integrated waste management plans, and educate the public about responsible waste disposal practices. These motivations, combined with the physical opportunities of infrastructure development, technology integration, and resource recovery, enable waste management organizations to design and implement innovative waste management systems, optimize operational efficiency, and contribute to the circular economy. Their physical capabilities of infrastructure, expertise, and collaborative networks, along with their psychological abilities of motivation, adaptability, and stakeholder engagement, provide them with the resources and skills necessary to achieve sustainable waste management goals and actively contribute to the development of green and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, waste management organizations have both automatic and reflective needs or motivations. 
+In the context of green cities or green building neighborhoods, waste management organizations have both automatic and reflective needs or motivations. 
 
 Automatic Needs: 
 1. Compliance with regulations: Waste management organizations need to ensure compliance with environmental regulations and guidelines governing waste management practices in green cities. This includes meeting standards for waste reduction, recycling, and disposal methods.

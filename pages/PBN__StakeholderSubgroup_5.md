@@ -8,9 +8,13 @@ Furthermore, in the context of contagious diseases, logistics professionals are 
 
 ## NOA
 
+### Overview
+
+The behaviors of logistics professionals in green cities are driven by their specific needs, opportunities, and capabilities. Their automatic needs for efficiency, sustainability, and cost-effectiveness motivate them to optimize logistics processes, reduce waste, and maximize the use of sustainable transportation. Their reflective needs for collaboration, continuous learning, innovation, resilience, and adaptability drive them to seek partnerships, stay updated with new technologies, and develop contingency plans for unexpected disruptions. The opportunities they have in green cities, such as efficient transportation infrastructure, renewable energy integration, green supply chain management, waste management, and collaboration with green infrastructure providers, enable them to contribute to the sustainable and efficient management of logistics. Their physical capabilities in supply chain management, transportation expertise, technology integration, and adaptability allow them to effectively coordinate the flow of goods and services in green cities. Their psychological capabilities in problem-solving, collaboration, communication, and resilience empower them to address challenges, engage with stakeholders, and manage stress during contagious diseases outbreaks. Overall, their behaviors are guided by their needs, opportunities, and capabilities, ensuring the efficient and sustainable distribution of resources in green cities.
+
 ### Needs
 
-nThe needs, or motivations, of logistics professionals in the context of green cities or green building neighborhoods can be categorized into both automatic and reflective needs.
+The needs, or motivations, of logistics professionals in the context of green cities or green building neighborhoods can be categorized into both automatic and reflective needs.
 
 Automatic Needs:
 1. Efficiency: Logistics professionals in green cities have a need for efficient logistics processes to minimize waste and reduce environmental impact. They are motivated to optimize transportation routes, reduce energy consumption, and maximize the use of sustainable modes of transportation.

@@ -8,9 +8,13 @@ Furthermore, media and news entities serve as a bridge between health authoritie
 
 ## NOA
 
+### Overview
+
+The behaviors of media and news entities in the context of green cities and green building neighborhoods are driven by their needs, opportunities, and capabilities. Their need for access to reliable information and breaking news drives them to continuously seek out the latest developments and initiatives in sustainable urban planning and green infrastructure. This need aligns with their opportunity to disseminate information effectively, showcasing success stories and promoting green infrastructure to educate the public. Their reflective need to raise awareness and advocate for sustainable policies motivates them to actively engage in community networking and collaboration, leveraging their capabilities of communication infrastructure and collaboration channels. Furthermore, their psychological abilities to gain public trust and credibility enable them to influence public behavior and perception, ultimately fostering the adoption of sustainable lifestyles and promoting the success of green cities and GBNs.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, media and news entities have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, media and news entities have both automatic and reflective needs or motivations.
 
 Automatic Needs:
 1. Access to Reliable Information: Media and news entities have an automatic need for accurate and reliable information related to green cities and green building neighborhoods. They want to stay updated with the latest developments, initiatives, and practices in sustainable urban planning, green infrastructure, and environmentally friendly technologies. This information allows them to provide comprehensive and well-informed coverage to their audiences.

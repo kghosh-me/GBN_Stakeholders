@@ -8,9 +8,13 @@ Furthermore, smart city managers are involved in the coordination of data-driven
 
 ## NOA
 
+### Overview
+
+Smart city managers are driven by their needs, which include the desire to improve the efficiency and effectiveness of urban systems, prioritize public health and well-being, and achieve sustainable development. They see opportunities in the integration of green technologies, the development of sustainable infrastructure, citizen engagement, and collaboration with stakeholders. To capitalize on these opportunities, they leverage their capabilities, such as technical proficiency in integrating digital tools and technologies, project management skills, collaboration and communication abilities, adaptability, problem-solving and critical thinking skills, leadership qualities, and stakeholder engagement capabilities. Their behaviors are thus driven by their needs to streamline processes, enhance public health, and achieve sustainability, their ability to leverage opportunities for green technologies and infrastructure, citizen engagement, and collaboration, and their capabilities in technical knowledge, project management, collaboration and communication, adaptability, problem-solving, leadership, and stakeholder engagement.
+
 ### Needs
 
-nSmart city managers have several needs or motivations in the context of green cities or green building neighborhoods (GBNs):
+Smart city managers have several needs or motivations in the context of green cities or green building neighborhoods (GBNs):
 
 Automatic needs:
 1. Efficiency and effectiveness: Smart city managers aim to improve the efficiency and effectiveness of urban systems and services by integrating digital tools and technologies. They seek to streamline processes, reduce manual effort, and optimize resource allocation to achieve sustainable outcomes.

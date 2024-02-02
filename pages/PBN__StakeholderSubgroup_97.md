@@ -8,9 +8,13 @@ Furthermore, governments and industry regulatory bodies are responsible for fost
 
 ## NOA
 
+### Overview
+
+Governments and industry regulatory bodies are driven by a set of automatic and reflective needs, including the need to protect public health and safety, promote sustainability, ensure compliance with regulations, and create resilient cities and neighborhoods. These needs are influenced by the opportunities they have, such as investing in green infrastructure, retrofitting existing buildings, and promoting sustainable land use planning. They also have the opportunity to educate the public, collaborate with various stakeholders, and engage the community in decision-making processes. To fulfill these needs and seize these opportunities, governments and regulatory bodies leverage their abilities and capabilities, including their expertise in urban planning, public health, and sustainability, access to resources, enforcement authority, vision, leadership, collaboration skills, adaptability, and responsiveness. These abilities enable them to develop and enforce policies, implement initiatives, facilitate collaboration, and drive the creation of smart and sustainable cities and neighborhoods resilient to contagious diseases.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), governments and industry regulatory bodies have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods (GBNs), governments and industry regulatory bodies have both automatic and reflective needs or motivations.
 
 Automatic Needs:
 1. Public Health and Safety: Governments have an automatic need to protect the health and safety of their citizens. They aim to create policies and regulations that mitigate the spread of contagious diseases in urban environments, including GBNs.

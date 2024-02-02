@@ -8,9 +8,13 @@ Furthermore, park management stakeholders play a crucial role in shaping the gov
 
 ## NOA
 
+### Overview
+
+Park management stakeholders' behaviors are driven by their needs, opportunities, and capabilities. Their automatic needs for physical well-being and health and environmental concerns motivate them to seek access to green spaces for exercise, relaxation, and improving overall well-being. The physical opportunities present in Green Building Neighborhoods (GBNs), such as the creation of green areas and sustainable infrastructure, enable the stakeholders to develop eco-friendly park facilities and implement innovative technologies. Their reflective needs for social interaction, community building, and engagement lead them to involve local residents, community groups, and businesses in decision-making processes, fostering a sense of ownership and strengthening social cohesion. The social opportunities in GBNs, including community engagement and the promotion of health and well-being, encourage stakeholders to design and manage parks to provide spaces for activities, social interactions, and community gatherings. Their physical capabilities, such as expertise, financial resources, and infrastructure, empower them to contribute technically, allocate funds, and ensure effective maintenance. The psychological capabilities, such as environmental awareness, social engagement, adaptability, advocacy, and inclusivity, drive their behaviors towards sustainable practices, participatory decision-making, innovation, policy advocacy, and accessibility.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods, the needs or motivations of park management stakeholders can be defined using the NOA (Needs, Opportunities, Abilities) framework. The needs of park management stakeholders can be categorized into automatic and reflective needs.
+In the context of green cities or Green Building neighborhoods, the needs or motivations of park management stakeholders can be defined using the NOA (Needs, Opportunities, Abilities) framework. The needs of park management stakeholders can be categorized into automatic and reflective needs.
 
 1. Automatic Needs:
    a. Physical Well-being: Park management stakeholders may have an automatic need for access to green spaces for physical exercise, relaxation, and improving their overall well-being. Parks provide opportunities for activities such as walking, jogging, cycling, and various recreational activities.

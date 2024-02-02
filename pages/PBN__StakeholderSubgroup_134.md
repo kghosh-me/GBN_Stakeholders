@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighbourhoods, site-supervis
 
 ## NOA
 
+### Overview
+
+The behaviors of site-supervision workers in green cities are driven by a combination of their needs, opportunities, and capabilities. Their automatic needs for safety, compliance, efficiency, and public health motivate them to enforce regulations, coordinate activities, and implement measures to ensure the well-being of construction workers and the community. Their reflective needs for professional development, stakeholder engagement, environmental consciousness, and adaptability drive them to enhance their knowledge, collaborate with various stakeholders, promote green building practices, and stay updated with new technologies and regulations. The physical opportunities they have to implement sustainable construction practices, incorporate smart technologies, and integrate green spaces enable them to contribute to the development of healthy and resilient urban spaces. The social opportunities to collaborate, engage with the community, and promote health and well-being empower them to build partnerships, raise awareness, and enforce protocols for a sustainable future. Their physical and psychological abilities in technical expertise, physical fitness, environmental awareness, leadership, problem-solving, adaptability, collaboration, and stakeholder management enable them to effectively oversee construction activities, make informed decisions, and ensure the successful implementation of green building practices in GBNs.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, site-supervision workers have both automatic and reflective needs or motivations. 
+In the context of green cities or green building neighborhoods, site-supervision workers have both automatic and reflective needs or motivations. 
 
 Automatic needs for site-supervision workers in green cities include:
 1. Safety: They have a need to ensure the safety of construction workers and residents. This includes enforcing safety regulations and building codes to minimize accidents and hazards during construction activities.

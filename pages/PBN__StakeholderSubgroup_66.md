@@ -8,9 +8,13 @@ Furthermore, public space managers are responsible for ensuring that public spac
 
 ## NOA
 
+### Overview
+
+The behaviors of public space managers are primarily driven by their needs, opportunities, and capabilities in the context of green cities or green building neighborhoods. Their needs, which include safety and health, environmental sustainability, efficient resource management, community well-being, adaptability, and collaboration, motivate them to prioritize the well-being of residents, promote sustainability, and create inclusive and adaptable public spaces. They seize physical opportunities such as integrating nature, implementing sustainable infrastructure, and promoting active transportation to contribute to the overall sustainability and well-being of the community. Social opportunities like community engagement, prioritizing health and well-being, and ensuring equity and inclusivity guide their actions in involving community members, designing for physical and social interaction, and making public spaces accessible to all. Their capabilities, in terms of design and planning skills, technical knowledge, health and safety expertise, project management abilities, collaboration and communication skills, problem-solving and decision-making skills, empathy, and adaptability, empower them to effectively manage and enhance public spaces to meet the evolving needs of the community in sustainable and healthy neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of public space managers can be categorized into automatic and reflective needs. 
+In the context of green cities or green building neighborhoods, the needs or motivations of public space managers can be categorized into automatic and reflective needs. 
 
 Automatic Needs:
 1. Safety and Health: Public space managers have a fundamental need to ensure the safety and health of residents and visitors in public spaces. This includes preventing the transmission of contagious diseases by implementing measures such as physical distancing, ventilation improvement, and sanitation protocols.

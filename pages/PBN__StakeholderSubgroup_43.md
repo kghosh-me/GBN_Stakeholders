@@ -8,9 +8,13 @@ Furthermore, international trade regulators may also be involved in developing a
 
 ## NOA
 
+### Overview
+
+The behaviors of international trade regulators in green cities are driven by their needs, opportunities, and capabilities. Their need to ensure public health motivates them to prioritize the prevention and control of contagious diseases in trade activities. They also have a need to comply with regulations related to international trade, including those specific to green building materials and technologies. Reflectively, they are driven by the need to support sustainable development by promoting eco-friendly trade practices and establishing partnerships with other stakeholders in the green city ecosystem. Their physical opportunities lie in facilitating the import and export of sustainable products and encouraging sustainable sourcing and production. Socially, they have opportunities to foster collaboration and knowledge exchange, strengthen partnerships and networks, and promote inclusivity and equity in green cities. Their capabilities encompass both physical and psychological aspects, including the resources and infrastructure they possess and their knowledge, expertise, and decision-making abilities in developing and enforcing regulations that minimize the risk of contagious diseases in trade activities. Overall, their behaviors are guided by their needs to protect public health and comply with regulations, their opportunities to facilitate sustainable trade and collaboration, and their capabilities in terms of resources, knowledge, and decision-making.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of international trade regulators can be categorized into automatic and reflective needs using the NOA (Needs, Opportunities, Abilities) framework. 
+In the context of green cities or green building neighborhoods, the needs or motivations of international trade regulators can be categorized into automatic and reflective needs using the NOA (Needs, Opportunities, Abilities) framework. 
 
 Automatic Needs:
 1. Ensure Public Health: International trade regulators have a fundamental need to protect public health and safety by ensuring that trade activities, including the movement of goods and services, do not pose a risk to the well-being of residents in green cities. They may prioritize the prevention and control of contagious diseases to maintain the health of the population.

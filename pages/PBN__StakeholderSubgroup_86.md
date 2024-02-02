@@ -8,9 +8,13 @@ Furthermore, these professionals are instrumental in the design and implementati
 
 ## NOA
 
+### Overview
+
+The behaviors of building maintenance and green building professionals are strongly driven by their needs, opportunities, and capabilities. Their need for a sense of purpose motivates them to actively engage in projects that promote sustainable and environmentally friendly practices, while their need for job security pushes them to contribute to the growing demand for green buildings. Additionally, the need for professional growth encourages them to continuously update their knowledge and skills in green building maintenance. These needs align with the opportunities they have to implement sustainable practices, integrate renewable energy sources, create green spaces, and enhance indoor air quality. They also have the opportunity to collaborate with other stakeholders and engage with the community to promote health and well-being. Their capabilities, including technical skills, knowledge of green technologies, adaptability, problem-solving, collaboration, and environmental awareness, enable them to effectively contribute to the design, maintenance, and implementation of green building initiatives.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBNs), building maintenance and green building professionals have several needs or motivations, both automatic and reflective. 
+In the context of green cities or Green Building neighborhoods (GBNs), building maintenance and green building professionals have several needs or motivations, both automatic and reflective. 
 
 Automatic Needs:
 1. Sense of Purpose: These professionals have a strong desire to contribute to the creation of sustainable and environmentally friendly built environments. They seek meaning in their work by actively participating in projects that promote green practices and have a positive impact on public health.

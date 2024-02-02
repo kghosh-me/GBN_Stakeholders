@@ -8,9 +8,13 @@ Local governments are essential in shaping the social, economic, and environment
 
 ## NOA
 
+### Overview
+
+The behaviors of local governments in the context of green cities are driven by their needs, opportunities, and capabilities. Local governments are motivated by their automatic and reflective needs to address environmental sustainability, public health, and resource efficiency. These needs prompt them to adopt sustainable practices, create green spaces, promote efficient transportation, and implement water management strategies. The opportunities available to local governments include investing in sustainable infrastructure, fostering community engagement, promoting education and awareness, and forming collaborations and partnerships. These opportunities enable them to enhance the quality of life for their communities by improving environmental sustainability, engaging residents in decision-making processes, raising awareness about sustainable living practices, and leveraging resources and expertise. Local governments' capabilities, both physical and psychological, play a crucial role in their behaviors. They must possess the technical expertise in planning and designing green cities, managing resources effectively, investing in sustainable infrastructure, and fostering collaborations with stakeholders. Additionally, their leadership and governance skills, capacity building initiatives, innovation mindset, and effective communication strategies enable them to drive their behaviors towards achieving sustainability goals in green cities or green building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), local governments have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods (GBNs), local governments have both automatic and reflective needs or motivations.
 
 Automatic needs or motivations refer to the basic, fundamental requirements that local governments have to meet in order to effectively govern and manage their areas. In the context of green cities, these automatic needs include:
 

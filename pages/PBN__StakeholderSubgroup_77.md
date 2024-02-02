@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+The behaviors of waste management workers in green cities and sustainable neighborhoods are driven by their specific needs, opportunities, and capabilities. Their safety needs motivate them to prioritize personal well-being while handling waste, leading them to seek proper training, equipment, and protocols. The opportunity to work in well-designed waste management infrastructure and leverage technological advancements enables them to perform their duties more efficiently. Collaboration and engagement opportunities allow them to collaborate with stakeholders and educate the community on sustainable waste management practices. Their capability to demonstrate physical stamina, endurance, manual dexterity, and spatial awareness allows them to carry out physically demanding tasks and navigate different waste collection points effectively. Psychological capabilities such as proactiveness, attention to detail, problem-solving skills, adaptability, and interpersonal skills drive their behaviors in identifying opportunities, accurately segregating waste, finding alternative solutions, adapting to changes, and effectively communicating with stakeholders. Overall, the behaviors of waste management workers in green cities are shaped by their needs for safety, job security, recognition, training, satisfaction, and career advancement; the opportunities provided by infrastructure, technology, collaboration, and skill development; and their capabilities to handle physical tasks, exhibit psychological traits, and communicate effectively.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, waste management workers have several needs or motivations, both automatic and reflective. 
+In the context of green cities or green building neighborhoods, waste management workers have several needs or motivations, both automatic and reflective. 
 
 Automatic needs/motivations:
 1. Safety: Waste management workers need to prioritize their personal safety while handling waste, especially when dealing with potentially infectious or hazardous materials. They require proper training, equipment, and protocols to ensure their well-being.

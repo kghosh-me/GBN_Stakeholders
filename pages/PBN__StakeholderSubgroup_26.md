@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, private health
 
 ## NOA
 
+### Overview
+
+Private health organizations in green cities are driven by their needs for profitability and sustainability, as well as reputation and market differentiation. They are motivated to ensure financial viability and sustainability through cost savings from energy-efficient operations and reduced resource consumption. By being part of green initiatives and building environmentally-friendly facilities, they can enhance their reputation and attract environmentally-conscious patients and investors. These organizations also have reflective needs to contribute to community health improvement and collaborate with other stakeholders. They seize opportunities to integrate healthcare facilities and develop sustainable healthcare infrastructure within green building neighborhoods, incorporating eco-friendly features and smart technologies. They also invest in green spaces for health promotion and engage in collaborations and partnerships with local governments and community organizations. Their physical capabilities include tangible resources and infrastructure to provide medical services, while their psychological capabilities involve actively engaging in research and development, adopting innovative healthcare technologies, and addressing health disparities through community health initiatives. Overall, their behaviors are driven by their specific needs, opportunities, and capabilities in promoting public health and contributing to the development of sustainable healthcare systems.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of private health organizations can be categorized into automatic and reflective needs:
+In the context of green cities or green building neighborhoods, the needs or motivations of private health organizations can be categorized into automatic and reflective needs:
 
 1. Automatic needs: 
    a) Profitability and sustainability: Private health organizations are profit-driven entities and their automatic need is to ensure financial viability and sustainability. Green cities and neighborhoods present an opportunity for cost savings through energy-efficient operations and reduced resource consumption. Organizations that prioritize sustainability can benefit from lower utility costs and improved operational efficiency.

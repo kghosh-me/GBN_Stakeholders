@@ -8,9 +8,13 @@ Given the lack of specific context, it's important to consider that the role and
 
 ## NOA
 
+### Overview
+
+The behaviors of Treasury departments in green cities or green building neighborhoods (GBNs) are driven by a combination of their needs, opportunities, and capabilities. Their needs, such as financial stability, risk management, compliance with regulations, and contributions to economic growth and job creation, motivate them to allocate and manage financial resources effectively to support sustainable infrastructure and initiatives. Reflective needs, such as community health and well-being, environmental stewardship, and social equity and inclusion, drive their allocation of funds towards projects and initiatives that promote public health, environmental sustainability, and equal distribution of benefits. The opportunities presented to Treasury departments include funding green infrastructure, promoting resilience, supporting public health initiatives, fostering collaboration and partnerships, and contributing to economic development. Their capabilities in financial management, funding allocation, project evaluation, partnerships, risk management, stakeholder engagement, long-term planning, and knowledge and expertise in sustainable finance enable them to effectively address these needs and seize opportunities. By aligning their behaviors with their needs, opportunities, and capabilities, Treasury departments can play a significant role in promoting sustainable development in green cities and GBNs.
+
 ### Needs
 
-nIn the context of treasury departments in green cities or Green Building neighborhoods (GBNs), their needs or motivations can be understood through the NOA framework as follows:
+In the context of treasury departments in green cities or Green Building neighborhoods (GBNs), their needs or motivations can be understood through the NOA framework as follows:
 
 1. Automatic Needs/Motivations: 
 - Financial Stability: Treasury departments are motivated to ensure the financial stability and sustainability of the green cities or GBNs. They aim to allocate and manage financial resources effectively to support the development and maintenance of sustainable infrastructure and initiatives.

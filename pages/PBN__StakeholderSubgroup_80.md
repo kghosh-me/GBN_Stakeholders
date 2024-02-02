@@ -8,9 +8,13 @@ Furthermore, the behavior and activities of visitors in indoor spaces play a piv
 
 ## NOA
 
+### Overview
+
+The behaviors of visitors in indoor spaces in green cities are driven by their needs, opportunities, and capabilities. Their automatic needs for safety and health, comfort and convenience, and functionality influence their behavior by seeking out indoor spaces that meet these requirements. Their reflective needs, such as sustainability, connection with nature, and social interaction, drive them to prioritize green buildings and neighborhoods that align with these motivations. The physical and social opportunities available to them, such as enhanced indoor air quality, efficient energy use, access to green spaces, community interaction, education and awareness, and collaborative initiatives, shape their behaviors by encouraging them to engage in sustainable practices, interact with the community, and contribute to environmental conservation efforts. Finally, their physical and psychological capabilities, including mobility, endurance, sensory perception, manual dexterity, understanding, communication, adaptability, and self-awareness, influence their behaviors by determining their ability to navigate indoor spaces comfortably, follow safety protocols, interact with others, and adapt to changing conditions, all while prioritizing their health and well-being.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, visitors in indoor spaces have both automatic and reflective needs or motivations that can be identified using the NOA (Needs, Opportunities, Abilities) framework.
+In the context of green cities or green building neighborhoods, visitors in indoor spaces have both automatic and reflective needs or motivations that can be identified using the NOA (Needs, Opportunities, Abilities) framework.
 
 Automatic needs refer to the basic and immediate requirements that visitors have in indoor spaces. These needs include:
 

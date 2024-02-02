@@ -8,9 +8,13 @@ Furthermore, the collaboration and coordination between the public health sector
 
 ## NOA
 
+### Overview
+
+The behaviors of "other cities departments" in green cities and green building neighborhoods (GBNs) are driven by their specific needs, opportunities, and capabilities. Their needs include optimizing resource utilization and infrastructure management for increased efficiency, ensuring compliance with environmental regulations, and reducing costs through sustainable practices. The departments are motivated to establish themselves as leaders in sustainable development and improve community well-being, while also enhancing the resilience of cities and neighborhoods to climate change. These needs influence their behaviors to prioritize sustainability, collaborate with stakeholders, and engage with the community. The departments have opportunities to incorporate sustainable design principles in urban planning, transportation, housing, and environmental services. They can collaborate, engage in public consultations, and support economic development through green technologies. Their capabilities include physical abilities to implement and maintain sustainable practices, technical knowledge to utilize renewable energy and waste management systems, policy and regulatory abilities to establish guidelines and regulations, interdisciplinary collaboration abilities, and adaptability and innovation abilities. These capabilities drive their behaviors to design and construct green buildings, develop and enforce policies, collaborate effectively, and stay updated with the latest advancements in sustainability. Psychological capabilities, such as being proactive and responsive to citizen needs, also impact their behaviors. Overall, their behaviors are influenced by their specific needs, opportunities, and capabilities in creating and maintaining green cities or GBNs.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBN), the needs (or motivations) of the "other cities departments" can be categorized into automatic and reflective needs. 
+In the context of green cities or green building neighborhoods (GBN), the needs (or motivations) of the "other cities departments" can be categorized into automatic and reflective needs. 
 
 Automatic Needs:
 1. Efficiency: The departments have a need to optimize resource utilization and infrastructure management to improve the efficiency of city operations. This includes incorporating sustainable practices in energy, water, waste management, and transportation systems.

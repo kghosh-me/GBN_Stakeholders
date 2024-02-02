@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, local fitness 
 
 ## NOA
 
+### Overview
+
+The behaviors of local fitness businesses are driven by their inherent needs and motivations, such as financial sustainability, customer satisfaction, and contributing to community well-being. These needs push the businesses to generate revenue, provide quality fitness services, and foster a sense of community. Additionally, reflective needs arise from societal values and aspirations related to green cities and GBNs, leading the businesses to adopt eco-friendly practices, align with the principles of GBNs, and collaborate with other stakeholders. The opportunities available to local fitness businesses, such as integrating with green infrastructure, adopting sustainable building design, promoting community engagement, and collaborating with local stakeholders, further shape their behaviors. Finally, the capabilities of these businesses, including physical infrastructure, access and connectivity, expertise and knowledge, community engagement, and behavior change support, determine how they effectively address their needs and seize the available opportunities in the context of green cities and GBNs.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBN), the needs or motivations of local fitness businesses can be understood through the NOA framework.
+In the context of green cities or Green Building neighborhoods (GBN), the needs or motivations of local fitness businesses can be understood through the NOA framework.
 
 1. Automatic Needs/Motivations: 
 Local fitness businesses have automatic needs or motivations that are inherent to their nature and operation. These may include:

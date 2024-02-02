@@ -8,9 +8,13 @@ Furthermore, political communities are essential in fostering collaboration and 
 
 ## NOA
 
+### Overview
+
+The behaviors of political communities in the context of green cities and neighborhoods are driven by their specific needs, opportunities, and capabilities. Their automatic needs for clean and healthy environments, reduction of pollution, and preservation of natural resources motivate them to advocate for sustainable practices. Their reflective needs, such as desires for renewable energy sources, social equity, and accessibility, drive them to pursue sustainable infrastructure and inclusive urban planning. The physical opportunities they have, such as investing in sustainable infrastructure and promoting resource conservation, enable them to create a more sustainable living environment. Social opportunities, such as community engagement and education, provide platforms for residents to actively participate in decision-making and promote sustainable practices. Finally, their physical and psychological capabilities, including knowledge and expertise, technical skills, collaborative networks, financial resources, awareness, leadership, advocacy, and adaptive capacity, empower them to effectively implement and advocate for green initiatives. Overall, the behaviors of political communities are shaped by their specific needs, the opportunities available to them, and the capabilities they possess.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, political communities have both automatic and reflective needs or motivations. 
+In the context of green cities or green building neighborhoods, political communities have both automatic and reflective needs or motivations. 
 
 Automatic needs refer to the immediate and instinctive desires that individuals within political communities may have. These needs include access to clean and healthy environments, reduction of pollution and greenhouse gas emissions, and preservation of natural resources. Political communities recognize the importance of sustainable practices to ensure a better quality of life and well-being for their residents. They understand that green cities can improve air and water quality, enhance biodiversity, and provide spaces for physical activity and recreation. 
 

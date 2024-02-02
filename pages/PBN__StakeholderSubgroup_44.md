@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+The behaviors of environmental agencies in green cities and green building neighborhoods are driven by their specific needs, opportunities, and capabilities. Their automatic needs for regulatory compliance, environmental protection, and public health motivate them to enforce environmental laws and regulations, conserve green spaces, and monitor air and water quality. Their reflective needs for sustainability promotion, enhanced quality of life, and stakeholder engagement drive them to develop policies and initiatives for renewable energy, create attractive neighborhoods, and collaborate with various stakeholders. They seize physical opportunities in planning and design, conducting environmental impact assessments, promoting renewable energy, and conserving biodiversity. Social opportunities include public awareness and education, community engagement, collaboration with stakeholders, and health and well-being promotion. Their capabilities in regulatory oversight, technical expertise, research and data analysis, collaboration and communication, education and public awareness, and adaptability and innovation enable them to effectively address the needs and opportunities in green cities and contribute to creating sustainable and eco-friendly neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), environmental agencies have both automatic and reflective needs or motivations. 
+In the context of green cities or green building neighborhoods (GBNs), environmental agencies have both automatic and reflective needs or motivations. 
 
 Automatic Needs/Motivations:
 1. Regulatory Compliance: One of the key needs for environmental agencies in green cities is to ensure that construction and development projects adhere to environmental regulations and standards. These agencies are motivated by the need to enforce and monitor compliance with environmental laws and policies, such as energy efficiency standards, waste management regulations, and water conservation measures.

@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+News outlets' behaviors are driven by their needs, opportunities, and capabilities in the context of green cities and green building neighborhoods. Their automatic need for information sharing motivates them to gather and disseminate updates on sustainable initiatives, innovative technologies, and best practices. This aligns with their physical opportunity to access information about green practices and policies, allowing them to educate the public about the benefits of sustainable living. Their reflective need to influence and impact urban planning decisions is supported by their psychological ability to advocate for sustainable policies and showcase success stories of green cities. Additionally, their capability to foster collaboration enables them to partner with stakeholders involved in green development, facilitating dialogue and knowledge exchange. Overall, news outlets' behaviors are guided by their needs to share information and promote success stories, their opportunities to raise awareness and engage the public, and their capabilities to gather information and influence decision-making processes in green cities and green building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, news outlets have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, news outlets have both automatic and reflective needs or motivations.
 
 Automatic Needs:
 1. Information Sharing: News outlets have an inherent need to gather and disseminate information about green cities and green building neighborhoods. This includes sharing updates on sustainable initiatives, innovative technologies, and best practices in creating environmentally friendly urban areas.

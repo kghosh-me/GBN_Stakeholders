@@ -6,9 +6,13 @@ I don't know the answer to this question.
 
 ## NOA
 
+### Overview
+
+The behaviors of international financial institutions in green cities are driven by their needs for financial returns, risk mitigation, and market demand, as well as their reflective needs for environmental impact, sustainable development, and stakeholder engagement. These needs motivate them to seek projects that align with their goals of financial and environmental sustainability. Their capabilities, such as their financial capacity, technical expertise, and risk management skills, enable them to support and finance infrastructure development, promote technology adoption, contribute to urban planning and design, facilitate capacity building and knowledge sharing, and engage stakeholders effectively. By leveraging their capabilities, they are able to take advantage of the opportunities presented by green cities, both in terms of physical infrastructure development and social aspects. Consequently, their behaviors are aimed at advancing the transition towards sustainable and resilient communities while ensuring reasonable financial returns on their investments.
+
 ### Needs
 
-nInternational financial institutions, such as the World Bank, Asian Development Bank, and European Investment Bank, have several needs or motivations when it comes to green cities or green building neighborhoods. These needs can be categorized into automatic and reflective needs.
+International financial institutions, such as the World Bank, Asian Development Bank, and European Investment Bank, have several needs or motivations when it comes to green cities or green building neighborhoods. These needs can be categorized into automatic and reflective needs.
 
 Automatic Needs:
 1. Financial Returns: International financial institutions have a need for financial returns on their investments in green cities. They seek projects that can generate adequate returns while also contributing to environmentally sustainable development.

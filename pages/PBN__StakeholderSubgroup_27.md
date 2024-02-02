@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, the role of of
 
 ## NOA
 
+### Overview
+
+The behaviors of office workers in green cities and sustainable neighborhoods are driven by their specific needs, opportunities, and capabilities. Their needs include access to clean air, comfortable temperatures, and a safe working environment. Additionally, they have reflective needs such as a desire for environmental consciousness, health and well-being, collaboration and connectivity, work-life balance, and professional growth and learning. Office workers have opportunities to benefit from green spaces, reduced commute times, energy-efficient and healthy buildings, flexibility in working arrangements, sustainable food and amenities, collaboration and networking, and environmental education and awareness. They also possess physical and psychological capabilities such as adaptability, technological competence, health consciousness, collaboration and communication skills, resilience, a sustainability mindset, creativity and innovation, and teamwork abilities. These needs, opportunities, and capabilities guide their behavior towards actively engaging in sustainable practices, utilizing smart technologies, collaborating with colleagues and stakeholders, and embracing change to create healthier, more environmentally friendly workspaces.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, office workers have both automatic and reflective needs or motivations. 
+In the context of green cities and sustainable neighborhoods, office workers have both automatic and reflective needs or motivations. 
 
 Automatic needs relate to their basic physiological and safety requirements. These include access to clean air, adequate lighting, comfortable temperatures, and a safe and healthy working environment. Office workers may also have a need for privacy, quiet spaces, and ergonomic furniture to support their physical well-being and prevent work-related injuries.
 

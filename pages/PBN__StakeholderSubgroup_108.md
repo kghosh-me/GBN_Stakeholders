@@ -8,9 +8,13 @@ Furthermore, emergency services and management encompass the development of proa
 
 ## NOA
 
+### Overview
+
+The behaviors of emergency services and management stakeholders in green cities and neighborhoods are driven by their specific needs, opportunities, and capabilities. Their automatic needs for safety and public health, efficient resource allocation, and risk mitigation motivate them to ensure the well-being of residents during public health emergencies, optimize the use of resources, and prevent the escalation of outbreaks. Their reflective needs for collaboration and communication, sustainable and resilient infrastructure, and community engagement and empowerment drive them to actively engage with various actors, prioritize the design and implementation of infrastructure that can respond effectively to crises, and empower the community to actively participate in emergency response efforts. The physical opportunities provided by green cities, such as green infrastructure and smart technology integration, enable stakeholders to enhance emergency response capabilities, while the social opportunities, including community engagement and health education, strengthen public awareness and participation. Their physical abilities, such as having well-equipped facilities, access to advanced technologies, and sufficient resources, enable them to effectively respond and manage contagious diseases. Their psychological abilities, such as resilience, collaboration, leadership, and adaptability, enable them to adapt to changing circumstances, effectively coordinate with different stakeholders, and learn from past experiences to improve future response strategies. Overall, their behaviors are driven by a combination of these needs, opportunities, and capabilities, ensuring the health and well-being of the community in green cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), the 'needs' or motivations of emergency services and management stakeholders can be classified into both automatic and reflective categories.
+In the context of green cities or green building neighborhoods (GBNs), the 'needs' or motivations of emergency services and management stakeholders can be classified into both automatic and reflective categories.
 
 Automatic Needs:
 1. Safety and Public Health: Emergency services and management stakeholders have an automatic need to ensure the safety and well-being of residents in GBNs during public health emergencies. This includes protecting individuals from the spread of contagious diseases and mitigating the impact of such diseases on the community.

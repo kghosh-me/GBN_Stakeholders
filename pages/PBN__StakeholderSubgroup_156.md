@@ -6,9 +6,13 @@ I don't have enough information to provide a specific definition or description 
 
 ## NOA
 
+### Overview
+
+Operators and maintenance staff in the context of green cities or green building neighborhoods are driven by their needs, opportunities, and capabilities. Their behaviors are motivated by the need for a safe and healthy working environment, efficient operations, and successful task completion. They are motivated to optimize energy usage, waste management, water conservation, and other sustainability measures. Their reflective needs include a desire for professional development, job satisfaction, and collaboration with other stakeholders. The physical opportunities they have include working in buildings equipped with sustainable technologies and benefiting from improved health and safety measures. Social opportunities allow them to receive specialized training, collaborate with others, and be recognized for their contributions. Their capabilities encompass both physical and psychological skills, including knowledge and expertise in sustainable practices, problem-solving and adaptability, effective communication and collaboration, and attention to detail. These needs, opportunities, and capabilities drive their behaviors, encouraging them to effectively manage and maintain the green infrastructure and sustainable features of the city or neighborhood.
+
 ### Needs
 
-nBased on the NOA framework, the needs or motivations of operators and maintenance staff in the context of green cities or green building neighborhoods can be defined as follows:
+Based on the NOA framework, the needs or motivations of operators and maintenance staff in the context of green cities or green building neighborhoods can be defined as follows:
 
 1. Automatic Needs:
 - Safety and health: Operators and maintenance staff have a need for a safe and healthy working environment. They require proper training, equipment, and protocols to ensure their own well-being while performing their tasks.

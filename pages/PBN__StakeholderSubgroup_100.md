@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+Community leaders in green cities are driven by their needs, opportunities, and capabilities to prioritize health, safety, sustainability, quality of life, environmental stewardship, community engagement, empowerment, and building a positive reputation for their neighborhood. Their automatic motivations include a natural inclination to prioritize the well-being and safety of their community members, recognizing the importance of sustainable development, and enhancing the quality of life. Their reflective motivations involve a sense of responsibility towards the environment, fostering community engagement and empowerment, and seeking a positive reputation for their neighborhood. They have physical opportunities to collaborate for sustainable infrastructure, provide access to green technologies, and promote sustainable transportation. Social opportunities involve community engagement, education and awareness, and collaboration with stakeholders. Their capabilities include effective communication and engagement skills, advocacy and influencing skills, networking and collaboration skills, project management skills, vision and goal-orientation, empathy and emotional intelligence, resilience and adaptability, as well as motivation and passion. These behaviors enable them to advocate for green policies, mobilize support, organize and oversee community-driven green projects, and create a sustainable and environmentally conscious community.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, community leaders' needs can be categorized into automatic and reflective motivations based on the Needs, Opportunities, Abilities (NOA) framework.
+In the context of green cities or green building neighborhoods, community leaders' needs can be categorized into automatic and reflective motivations based on the Needs, Opportunities, Abilities (NOA) framework.
 
 1. Automatic Motivations/Needs:
    - Safety and Health: Community leaders have a natural inclination to prioritize the well-being and safety of their community members. They have a need to ensure that residents live in a healthy and safe environment, free from pollution, toxins, and any other potential health hazards associated with unsustainable or inefficient practices.

@@ -8,9 +8,13 @@ Furthermore, the facility maintenance team plays a crucial role in coordinating 
 
 ## NOA
 
+### Overview
+
+The behaviors of facility maintenance teams in green cities and green building neighborhoods are driven by their needs, opportunities, and capabilities. Their automatic needs for resource efficiency, health and safety, and environmental sustainability motivate them to utilize resources efficiently, implement measures to prevent the spread of contagious diseases, and adopt sustainable practices in facility maintenance. Their reflective needs for community well-being, social responsibility, and continuous improvement drive them to create and maintain environments that promote physical and mental health, provide equal access to maintenance services for all community members, and stay updated on the latest sustainable maintenance practices. The physical opportunities of integrating sustainable design, implementing smart technologies, and promoting green infrastructure allow the teams to enhance the sustainability and efficiency of their maintenance tasks. The social opportunities of collaborating with the community, promoting health and well-being, and raising awareness enable them to gather feedback, create safe and healthy environments, and educate residents about sustainable practices. Their technical expertise, adaptability, collaboration and communication skills, problem-solving abilities, continuous learning, stakeholder engagement, and health and safety awareness capabilities further facilitate their behavior in fulfilling the needs and capitalizing on the opportunities presented in green cities and green building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the facility maintenance team's needs can be categorized into automatic and reflective motivations.
+In the context of green cities or green building neighborhoods, the facility maintenance team's needs can be categorized into automatic and reflective motivations.
 
 Automatic needs refer to the basic and instinctive requirements that the team must fulfill to ensure the functionality and safety of the built environment. These needs include:
 

@@ -8,9 +8,13 @@ Similarly, 'regulatory authorities' are entities responsible for creating, imple
 
 ## NOA
 
+### Overview
+
+The behaviors of economic analysts and regulatory authorities in green cities and green building neighborhoods are driven by their needs, opportunities, and capabilities. Their automatic needs for economic stability, health and well-being, and compliance and regulation motivate them to ensure that sustainable urban areas thrive economically, protect the health of residents, and enforce green building practices. Their reflective needs for data and analysis, policy evaluation, and collaboration and stakeholder engagement drive them to seek comprehensive information, evaluate the effectiveness of policies, and foster cooperation to address economic and regulatory challenges. They have physical opportunities to contribute to sustainable infrastructure, green building standards, and urban planning through their expertise in economic analysis and regulatory frameworks. They also have social opportunities to engage the community, collaborate with stakeholders, and drive economic development through green initiatives. Their physical capabilities in data analysis and impact assessment enable them to evaluate the economic implications of sustainable practices, while their psychological abilities in policy advocacy, risk assessment and management, and collaboration empower them to advocate for sustainable policies, mitigate risks, and coordinate efforts with various stakeholders.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, economic analysts and regulatory authorities have specific needs or motivations, which can be categorized into automatic and reflective needs.
+In the context of green cities or green building neighborhoods, economic analysts and regulatory authorities have specific needs or motivations, which can be categorized into automatic and reflective needs.
 
 1. Automatic Needs:
    - Economic Stability: Economic analysts and regulatory authorities are motivated by the need for economic stability within green cities and green building neighborhoods. They aim to ensure that these sustainable urban areas continue to thrive economically and not be adversely affected by the implementation of green practices and policies.

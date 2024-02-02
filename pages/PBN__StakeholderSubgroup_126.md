@@ -6,9 +6,17 @@ I don't have enough information to provide a specific definition of 'Investors' 
 
 ## NOA
 
+### Overview
+
+Investors in green cities are primarily driven by the need for financial returns, as they seek opportunities to generate profits and achieve a favorable return on investment. They are also motivated by the need for risk mitigation, as green cities provide stable and resilient investment opportunities with reduced exposure to environmental risks. Additionally, investors have a need to enhance their reputation and image by investing in green cities, positioning themselves as socially responsible and environmentally conscious entities. Their reflective needs include a genuine interest in contributing to sustainable development and making a positive impact on the environment, as well as a desire to engage with local communities and contribute to their well-being. 
+
+These needs are supported by opportunities such as investing in green infrastructure, real estate development, and sustainable mobility solutions, all of which contribute to reducing carbon emissions and improving urban environments. Opportunities also include supporting sustainable businesses, encouraging community engagement, and collaborating with local government and stakeholders to shape sustainable policies and strategies.
+
+To take advantage of these opportunities, investors need financial capacity, technical knowledge, and the ability to assess and manage risks associated with green investments. They must also possess the ability to collaborate and form partnerships, think and plan for the long term, adapt to changing regulations and policies, and demonstrate environmental and social consciousness in their investment decisions. By aligning their behaviors with their needs, opportunities, and capabilities, investors can effectively contribute to the development of green cities and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of investors can be understood using the NOA framework.
+In the context of green cities or green building neighborhoods, the needs or motivations of investors can be understood using the NOA framework.
 
 Automatic Needs/Motivations: 
 

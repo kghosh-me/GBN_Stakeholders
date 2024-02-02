@@ -8,9 +8,13 @@ In the context of smart and sustainable cities, logistics and transportation man
 
 ## NOA
 
+### Overview
+
+Logistics and transportation managers in green cities are driven by their needs for efficient and effective operations, resource management, and contagious disease control. They have the opportunity to contribute to sustainable development, public health and safety, and collaboration with stakeholders. Their physical abilities enable them to utilize smart city technologies, have knowledge of sustainable transportation, and possess supply chain management skills. Their psychological capabilities, such as crisis management, stakeholder engagement, and analytical thinking, allow them to adapt to changing circumstances, build partnerships, and make data-driven decisions. These behaviors are driven by the interplay between their needs for effective operations, the opportunities to contribute to sustainable development, and their capabilities in handling logistics and transportation in a green city context.
+
 ### Needs
 
-nIn the context of green cities, logistics and transportation managers have specific needs or motivations that can be categorized into automatic and reflective needs.
+In the context of green cities, logistics and transportation managers have specific needs or motivations that can be categorized into automatic and reflective needs.
 
 Automatic needs refer to the immediate and instinctive requirements of logistics and transportation managers in their role. These needs include:
 

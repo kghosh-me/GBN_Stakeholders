@@ -8,9 +8,13 @@ Furthermore, the fragility and isolation of these populations are often compound
 
 ## NOA
 
+### Overview
+
+The behaviors of fragile and isolated populations are driven by a combination of their needs, opportunities, and capabilities. Their automatic needs for physical safety, adequate housing, basic infrastructure, and healthcare services motivate them to seek out green cities and building neighborhoods that provide these essential amenities. The reflective needs for social inclusion, education and awareness, and economic opportunities further influence their behaviors, as they actively engage in community activities, adopt sustainable practices, and strive for economic empowerment. The opportunities provided by green cities, such as improved infrastructure, enhanced public spaces, and proximity to services, enable them to fulfill their needs and engage in positive behaviors. Additionally, the social opportunities presented by community engagement, capacity building, and social support networks empower them and contribute to their overall well-being. Their physical abilities, including access to basic services, mobility, and resilience to natural factors, impact their behaviors by influencing their ability to navigate and contribute to green cities. Their psychological abilities, such as empowerment and awareness, social cohesion, and psychological resilience, further shape their behaviors as they actively participate in decision-making processes, build social connections, and cope with challenges. Overall, their behaviors are driven by a complex interplay between their needs, opportunities, and capabilities, as they strive for a safer, healthier, and more inclusive living environment within green cities and building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of fragile and isolated populations can be categorized into automatic and reflective needs.
+In the context of green cities or green building neighborhoods, the needs or motivations of fragile and isolated populations can be categorized into automatic and reflective needs.
 
 1. Automatic Needs:
    - Physical Safety: Fragile and isolated populations require safe and secure housing conditions that protect them from environmental hazards, such as extreme heat or flooding. Green buildings and neighborhoods must prioritize design and construction strategies that ensure the safety and resilience of these communities.

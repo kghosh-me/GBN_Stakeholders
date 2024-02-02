@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+The behaviors of stakeholders in global markets, specifically in the context of green cities and green building neighborhoods, are driven by their needs, opportunities, and capabilities. Stakeholders are motivated by their needs for economic stability, access to resources, and health and well-being, which lead them to participate in green cities to benefit from economic opportunities and promote sustainable development. They also have reflective needs for environmental consciousness, social responsibility, and innovation and technology, which drive them to protect the environment, contribute to society, and explore sustainable solutions in green cities. These needs create opportunities for stakeholders, such as the demand for green products and services, the expansion of sustainable industries, international collaboration and trade, knowledge sharing and collaboration, community engagement and awareness, and social and economic equity. These opportunities, combined with stakeholders' physical abilities in infrastructure development and technology adoption, as well as their psychological abilities in environmental consciousness, collaboration and networking, and adaptability and resilience, shape their behaviors in actively engaging in green cities and green building neighborhoods.
+
 ### Needs
 
-nIn the context of global markets and green cities (GBNs), stakeholders have various needs or motivations that can be categorized into automatic and reflective.
+In the context of global markets and green cities (GBNs), stakeholders have various needs or motivations that can be categorized into automatic and reflective.
 
 Automatic needs refer to the basic, non-conscious desires that stakeholders have in green cities. These may include:
 

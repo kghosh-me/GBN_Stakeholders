@@ -8,9 +8,13 @@ Moreover, stakeholders in healthcare and psychology extend beyond the realm of m
 
 ## NOA
 
+### Overview
+
+The behaviors of stakeholders in healthcare and psychology in green cities or Green Building neighborhoods (GBNs) are driven by a combination of their needs, opportunities, and capabilities. Their needs include access to clean and safe environments, healthcare facilities, and mental health support services to prevent the spread of contagious diseases and promote psychological well-being. Stakeholders are motivated to provide basic healthcare services, reduce the environmental impact of healthcare facilities, integrate nature into urban infrastructure, and raise awareness about the interconnection between environmental and human health. The opportunities available to them include designing energy-efficient healthcare facilities, integrating digital health technologies, promoting sustainable transportation options, collaborating with urban planners, engaging with the community, and organizing education programs. They leverage their physical capabilities in epidemiology, disease surveillance, infection control, and vaccination strategies to address public health issues. Their psychological capabilities allow them to offer counseling, therapy, and support services to alleviate psychological distress and promote resilience. Overall, stakeholders' behaviors are aligned with their needs, opportunities, and capabilities, ensuring the well-being of urban populations in sustainable and green environments.
+
 ### Needs
 
-nIn the context of stakeholders in healthcare and psychology in green cities or Green Building neighborhoods (GBNs), their needs or motivations can be defined using the NOA (Needs, Opportunities, Abilities) framework. 
+In the context of stakeholders in healthcare and psychology in green cities or Green Building neighborhoods (GBNs), their needs or motivations can be defined using the NOA (Needs, Opportunities, Abilities) framework. 
 
 1. Automatic Needs/Motivations: Automatic needs refer to the basic, physiological needs that stakeholders in healthcare and psychology in GBNs have. These needs include access to clean and safe environments, healthcare facilities, and effective sanitation systems to prevent the spread of contagious diseases. Stakeholders also require adequate resources such as medical supplies, vaccines, and mental health support services to meet the immediate health needs of residents in GBNs. Additionally, stakeholders may have a motivation to reduce the environmental impact and carbon footprint of healthcare facilities by implementing sustainable practices and promoting eco-friendly technologies.
 

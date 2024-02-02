@@ -8,9 +8,13 @@ Furthermore, public health authorities are involved in health education and advo
 
 ## NOA
 
+### Overview
+
+The behaviors of public health authorities in the context of green cities and green building neighborhoods (GBNs) are driven by their specific needs, opportunities, and capabilities. Their needs, such as disease prevention, environmental health protection, and health equity, motivate them to implement measures and collaborate with stakeholders to address these issues. They capitalize on physical opportunities, such as access to green spaces, sustainable infrastructure, and healthy buildings, to organize health promotion activities and ensure that sustainable environments prioritize public health. Social opportunities, including collaboration with stakeholders and health education, enable public health authorities to integrate health considerations into the planning and design of GBNs, raise awareness about the benefits of green cities, and build community resilience. Their capabilities, such as expertise in sustainable health, collaboration and coordination, health data monitoring, emergency response, health education, and research and evaluation, empower them to effectively promote and advocate for public health in green cities and GBNs. Overall, their behaviors are informed by these needs, opportunities, and capabilities, driving them to create healthier, more sustainable, and resilient environments for the well-being of residents.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBN), public health authorities have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods (GBN), public health authorities have both automatic and reflective needs or motivations.
 
 Automatic needs or motivations:
 1. Disease prevention: Public health authorities strive to prevent the spread of diseases and illness within the population by implementing measures such as vaccination campaigns, health screenings, and health education programs.

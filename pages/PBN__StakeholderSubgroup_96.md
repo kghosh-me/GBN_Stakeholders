@@ -8,9 +8,13 @@ Urban development authorities are organizations or agencies that are specificall
 
 ## NOA
 
+### Overview
+
+The behaviors of local government and urban development authorities in the context of green cities are driven by their inherent Needs, Opportunities, and Capabilities. Their Needs include the automatic requirement to protect public health and safety, comply with regulations, and build a positive community image. Reflective needs involve creating long-term sustainability, stimulating economic benefits, and promoting social equity. To address these needs, authorities identify physical Opportunities such as investing in sustainable infrastructure, incorporating green spaces, and promoting sustainable transportation. They also seize social opportunities by engaging with the community, enhancing health and well-being, and fostering economic development. To successfully implement and manage green cities, authorities utilize their physical Capabilities such as technical expertise, resource management, and infrastructure development. They also exhibit psychological abilities such as having a clear vision and leadership, collaborating and forming partnerships, and being adaptable and open to learning. These behaviors, driven by their needs, opportunities, and capabilities, contribute to the development of greener, healthier, and more sustainable cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or GBNs, local government and urban development authorities have both automatic and reflective needs or motivations.
+In the context of green cities or GBNs, local government and urban development authorities have both automatic and reflective needs or motivations.
 
 Automatic needs refer to the inherent requirements or motivations that drive their actions without conscious thought or reflection. In the case of local government and urban development authorities in GBNs, their automatic needs include:
 

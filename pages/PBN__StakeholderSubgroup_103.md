@@ -6,9 +6,13 @@ I'm sorry, I don't have enough information to provide a definition or descriptio
 
 ## NOA
 
+### Overview
+
+Contractors in green cities are driven by their needs, opportunities, and capabilities in their behaviors. Their automatic needs for a safe and healthy working environment and stable income motivate them to prioritize eco-friendly materials and technologies in green building projects. Reflective needs drive their environmental consciousness, leading them to align their personal values with their work. They are motivated to acquire skills and knowledge in sustainable construction, enhancing their reputation and market value. Contractors see opportunities in participating in green building projects, energy efficiency programs, and green infrastructure development, contributing to a more sustainable built environment. Collaboration and networking opportunities enable them to connect with like-minded professionals, share best practices, and collectively contribute to transforming cities. Their physical abilities in construction and technical skills, adaptability, collaboration, and construction management enable them to effectively implement sustainable design principles. Psychological abilities like environmental awareness, motivation, problem-solving, and continuous learning contribute to their commitment to green cities and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, contractors have both automatic and reflective needs or motivations. 
+In the context of green cities or green building neighborhoods, contractors have both automatic and reflective needs or motivations. 
 
 1. Automatic needs: These are the basic, physiological needs that contractors may have in the context of green cities. These needs include the requirement for a safe and healthy working environment. Contractors may seek to work on projects that prioritize the use of eco-friendly materials and technologies, which can contribute to healthier indoor air quality, reduce exposure to toxins, and enhance overall well-being. Automatic needs also include the need for a stable income and job security. Contractors may be motivated to work on green building projects as they often offer long-term employment opportunities due to the increasing demand for sustainable construction.
 

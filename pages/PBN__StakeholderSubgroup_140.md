@@ -8,9 +8,13 @@ Moreover, public building managers play a crucial role in emergency preparedness
 
 ## NOA
 
+### Overview
+
+The behaviors of public building managers in green cities and sustainable neighborhoods are driven by their specific needs, opportunities, and capabilities. Their automatic needs for health and safety, compliance, and cost efficiency motivates them to implement measures that prevent the spread of contagious diseases, comply with sustainability standards, and optimize resource utilization. Their reflective needs for environmental consciousness, community welfare, and professional development drive them to minimize the ecological footprint of buildings, provide comfortable and accessible public spaces, and continually improve their knowledge and skills in green building practices. Public building managers have physical opportunities to enhance energy efficiency, conserve water, use sustainable materials, and incorporate green infrastructure into public buildings. They also have social opportunities to engage the community, promote health and well-being, collaborate with stakeholders, and support sustainable transportation. Their capabilities include technical knowledge, operational skills, project management abilities, communication and collaboration skills, adaptability and continuous learning, as well as systems thinking and problem-solving capabilities. These capabilities enable them to effectively meet their needs and leverage opportunities in creating and managing sustainable and healthy public buildings in green cities and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or sustainable neighborhoods, public building managers have both automatic and reflective needs (or motivations). 
+In the context of green cities or sustainable neighborhoods, public building managers have both automatic and reflective needs (or motivations). 
 
 Automatic Needs:
 1. Health and Safety: Public building managers have a fundamental need to prioritize the health and safety of building occupants. They are motivated to implement measures that contribute to disease prevention and mitigation, ensuring the well-being of the community.

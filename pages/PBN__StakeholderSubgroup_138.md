@@ -8,9 +8,13 @@ In the context of contagious diseases, individual urban planners and designers p
 
 ## NOA
 
+### Overview
+
+The behaviors of individual urban planners and designers in green cities are driven by their needs for professional recognition and fulfillment of their responsibilities. They are motivated by a sense of environmental consciousness and a desire to make a positive social impact by creating sustainable and inclusive urban spaces. Their needs also include adaptation to future challenges and the promotion of public health. The opportunities they have include designing sustainable infrastructure, enhancing walkability and active transportation, creating green spaces, and implementing sustainable water management. They also have opportunities for community engagement, promoting health and well-being, and educational initiatives. Their behaviors are further influenced by their capabilities, including their knowledge of sustainable design principles, technical expertise, familiarity with green building standards, and collaborative skills. They also possess psychological abilities such as systems thinking, creativity, problem-solving skills, and stakeholder engagement. These needs, opportunities, and capabilities shape their actions to create smart and sustainable urban spaces that align with the needs and aspirations of the community.
+
 ### Needs
 
-nIn the context of green cities, individual urban planners and designers have a range of needs or motivations, both automatic and reflective. 
+In the context of green cities, individual urban planners and designers have a range of needs or motivations, both automatic and reflective. 
 
 Automatic needs or motivations for individual urban planners and designers in green cities include:
 

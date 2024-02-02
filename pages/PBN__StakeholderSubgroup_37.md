@@ -8,9 +8,13 @@ Furthermore, the concept of "people in high-contamination areas" extends beyond 
 
 ## NOA
 
+### Overview
+
+The behaviors of people in high-contamination areas are driven by their needs, opportunities, and capabilities. Their automatic needs for health and safety, shelter, and basic services motivate them to take actions such as seeking access to clean water and sanitation facilities, finding adequate housing, and utilizing available transportation options. Their reflective needs for community and social connection, access to green spaces, and economic opportunities drive behaviors like seeking social interaction, utilizing green spaces for recreation and well-being, and pursuing economic empowerment through job creation or skill development. The physical opportunities, such as access to green spaces, improved infrastructure, and energy-efficient housing, provide individuals with the means to fulfill their needs and enable behaviors related to outdoor activities, health maintenance, and sustainable living. Social opportunities, such as community engagement, access to education and information, and job creation, empower individuals to take an active role in decision-making and advance their capabilities. Lastly, people in high-contamination areas exhibit behaviors based on their physical abilities, such as accessing clean water and sanitation, seeking proper ventilation, and utilizing available infrastructure, as well as their psychological abilities, including awareness and education regarding contagious diseases, resilience and adaptation to changing circumstances, and engagement and collaboration within their communities. Overall, these motivations, opportunities, and capabilities shape the behaviors of people in high-contamination areas as they navigate the challenges and strive for better health, well-being, and quality of life in green cities and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of people in high-contamination areas can be categorized into automatic and reflective needs. 
+In the context of green cities or green building neighborhoods, the needs or motivations of people in high-contamination areas can be categorized into automatic and reflective needs. 
 
 Automatic needs are those that are basic and essential for survival and well-being. For people in high-contamination areas, some automatic needs include:
 

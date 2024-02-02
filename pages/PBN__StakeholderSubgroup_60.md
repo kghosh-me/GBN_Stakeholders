@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, healthcare wor
 
 ## NOA
 
+### Overview
+
+The behaviors of healthcare workers in green cities are primarily driven by their needs, opportunities, and capabilities. Their automatic needs for safety and security, adequate resources and infrastructure, and a supportive work environment motivate them to prioritize the implementation of safety protocols and ensure the availability of advanced medical technology and well-equipped healthcare facilities. Their reflective needs for meaningful contribution, work-life balance, recognition and appreciation, and collaboration and networking drive them to actively engage with patients, promote preventive measures, and share knowledge with other professionals. The opportunities provided by green cities, such as access to sustainable infrastructure, proximity to nature, collaboration, and community engagement, enable healthcare workers to contribute effectively to sustainable and healthy communities. Finally, their capabilities, including expertise, technical skills, physical endurance, resilience, empathy and compassion, collaboration and adaptability, and critical thinking and problem-solving, empower healthcare workers to deliver quality medical care, address challenges, and advocate for environmental health in the context of green cities.
+
 ### Needs
 
-nThe needs, or motivations, of healthcare workers in the context of green cities or green building neighborhoods can be categorized into both automatic and reflective needs.
+The needs, or motivations, of healthcare workers in the context of green cities or green building neighborhoods can be categorized into both automatic and reflective needs.
 
 Automatic Needs:
 1. Safety and Security: Healthcare workers have a fundamental need for a safe and secure working environment. They need robust safety protocols and measures in place to protect themselves and their patients from contagious diseases and other hazards present in green cities.

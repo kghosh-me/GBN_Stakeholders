@@ -8,9 +8,13 @@ Furthermore, the general population in urban settings is characterized by its dy
 
 ## NOA
 
+### Overview
+
+The behaviors of the general population in green cities are driven by their needs, opportunities, and capabilities. Their automatic need for health and well-being leads them to seek out clean air, safe water, and green spaces for physical activity and relaxation. This aligns with the physical opportunities provided by green cities, such as increased access to green spaces and sustainable transportation options. Their reflective need for environmental consciousness motivates them to minimize their environmental impact, while the opportunity for community engagement allows them to actively participate in shaping sustainable neighborhoods. With the capabilities of adaptability, healthy living, and access to amenities, the general population is empowered to adopt sustainable practices and utilize eco-friendly amenities. The psychological abilities of awareness and education enable them to understand the importance of sustainable living and make informed choices. Overall, their behaviors are driven by the alignment between their needs for health, environmental consciousness, and community cohesion, the opportunities provided by green cities, and their capabilities to participate in sustainable practices and utilize sustainable amenities.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, the general population's needs can be divided into automatic and reflective needs.
+In the context of green cities and sustainable neighborhoods, the general population's needs can be divided into automatic and reflective needs.
 
 1. Automatic needs:
    - Health and well-being: The general population has an automatic need for a clean and healthy environment. They require access to clean air, safe drinking water, and green spaces for physical activity and relaxation. Green cities can provide these needs through the implementation of sustainable infrastructure and green building practices that prioritize the health and well-being of residents.

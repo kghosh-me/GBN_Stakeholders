@@ -8,9 +8,13 @@ Furthermore, international health organizations engage in advocacy efforts to ra
 
 ## NOA
 
+### Overview
+
+The behaviors of international health organizations in the context of green cities and green building neighborhoods are driven by their needs, opportunities, and capabilities. Their needs, such as the preservation of human health and disease prevention, motivate them to prioritize sustainable practices and advocate for the development of green infrastructure. They recognize the opportunities to collaborate in sustainable infrastructure, support green healthcare facilities, and promote access to green spaces, which align with their needs for sustainability, equity, and knowledge sharing. Their capabilities, including technical expertise, resource mobilization, collaboration, research, policy advocacy, capacity building, and monitoring and evaluation, enable them to effectively address these needs and seize these opportunities. Through their behaviors, international health organizations engage in activities such as designing sustainable healthcare facilities, engaging with communities, advocating for sustainable policies, and providing training and support, all aimed at promoting public health, equity, and environmental stewardship in green cities and green building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBN), international health organizations have various needs or motivations. 
+In the context of green cities or green building neighborhoods (GBN), international health organizations have various needs or motivations. 
 
 Automatic Needs: 
 1. Preservation of Human Health: International health organizations prioritize the protection and improvement of human health. They are motivated to ensure that people living in green cities have access to clean air, clean water, and a healthy physical environment. They recognize the benefits of green infrastructure, such as improved air quality, reduced pollution, and enhanced mental well-being, in promoting overall public health.

@@ -8,9 +8,13 @@ In the context of contagious diseases, data repository administrators are partic
 
 ## NOA
 
+### Overview
+
+Data repository administrators in the context of green cities or green building neighborhoods are driven by a combination of their needs, opportunities, and capabilities. Their automatic need for efficient data storage and security is motivated by the increasing reliance on data for decision-making, which requires well-organized and protected data repositories. Their reflective need to support sustainability is driven by their aspiration to contribute to eco-friendly infrastructure and resource-efficient solutions through the use of data. Additionally, their reflective need to enable evidence-based decision-making stems from their motivation to utilize data analytics and insights to guide sustainable development and resource allocation. The physical opportunities they have, such as access to advanced technologies and integration of smart devices, empower them to collect, store, and analyze large volumes of data efficiently and to monitor sustainability metrics in real-time. The social opportunities to collaborate with stakeholders and share best practices facilitate effective decision-making and drive sustainability initiatives forward. Their physical abilities, including technical and analytical skills, enable them to manage and analyze the collected data effectively. Their psychological abilities, such as attention to detail and problem-solving skills, support the accurate and efficient maintenance of the data repository. Their collaboration skills allow them to work closely with stakeholders to understand their data requirements and foster effective data sharing and collaboration. Overall, their behaviors are driven by their needs for efficient data management, sustainability, and evidence-based decision-making, along with the opportunities provided by advanced technologies, collaboration, and knowledge sharing, all supported by their physical and psychological capabilities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), data repository administrators have both automatic and reflective needs. 
+In the context of green cities or green building neighborhoods (GBNs), data repository administrators have both automatic and reflective needs. 
 
 Automatic needs refer to the immediate or instinctive motivations that drive these administrators in their day-to-day tasks. Some of their automatic needs in relation to GBNs may include:
 

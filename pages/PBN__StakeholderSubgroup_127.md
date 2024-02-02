@@ -8,9 +8,13 @@ Furthermore, 'Educational organizations' may also include research institutions 
 
 ## NOA
 
+### Overview
+
+The behaviors of educational organizations in green cities or green building neighborhoods (GBNs) are driven by their needs, opportunities, and capabilities. In terms of needs, educational organizations are motivated to provide basic health knowledge to residents, ensure accessible information about contagious diseases, promote healthy behaviors, and foster community engagement. They also have reflective needs, such as continual learning, building capacity, tailored education, and collaboration with other stakeholders. These needs influence their behaviors as they strive to meet the educational and health literacy needs of the community. The opportunities available to them, such as well-designed physical infrastructure, sustainable buildings, community engagement, interdisciplinary collaboration, and knowledge sharing, further shape their behaviors. They leverage these opportunities to organize workshops, utilize sustainable buildings as learning spaces, engage with community members, collaborate with stakeholders, and disseminate knowledge. Finally, their capabilities, including sustainable infrastructure, technological capabilities, collaboration and networking abilities, awareness and knowledge, communication skills, and adaptability and innovation, drive their behaviors by enabling them to deliver effective educational programs, utilize digital tools, collaborate with stakeholders, communicate sustainability messages, and adapt to changing circumstances. Overall, their behaviors are shaped by the alignment of their needs, opportunities, and capabilities, allowing them to effectively educate communities on contagious diseases and promote sustainable practices in green cities and GBNs.
+
 ### Needs
 
-nIn the context of 'Educational organizations' in green cities or Green Building neighborhoods (GBN), the needs or motivations can be categorized into automatic and reflective needs:
+In the context of 'Educational organizations' in green cities or Green Building neighborhoods (GBN), the needs or motivations can be categorized into automatic and reflective needs:
 
 Automatic Needs:
 1. Basic health knowledge: Educational organizations need to provide residents with basic health knowledge related to contagious diseases, including information about transmission, prevention, and the importance of vaccination.

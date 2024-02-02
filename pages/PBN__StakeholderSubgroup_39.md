@@ -6,9 +6,13 @@ I'm sorry, I don't have enough information to provide a specific definition or d
 
 ## NOA
 
+### Overview
+
+Culture organizations in green cities and green building neighborhoods (GBNs) are driven by their needs, opportunities, and capabilities, shaping their behaviors and actions. Their automatic needs for connectivity, infrastructure and facilities, and funding and resources drive them to seek well-connected locations with purpose-built cultural spaces, accessible transportation networks, and financial support for their activities. Their reflective needs for recognition and support, sustainability integration, and community engagement influence their behaviors to seek collaboration with environmental initiatives, engage the local community, and integrate sustainable practices into their operations. The physical opportunities of purpose-built spaces, accessible locations, and integration with natural surroundings enable culture organizations to provide suitable environments and unique experiences for their audiences. The social opportunities of collaboration, community engagement, and promoting cultural diversity empower them to educate and raise awareness, foster a sense of belonging, and celebrate different traditions. Their physical capabilities in terms of infrastructure, technological resources, and sustainable transportation enable them to create sustainable and engaging cultural spaces. Their psychological capabilities of environmental awareness, collaboration, and education and engagement enable them to contribute to sustainability goals, cultivate collective responsibility, and inspire behavioral change. In summary, culture organizations in green cities are driven by their specific needs, leverage the opportunities available to them, and employ their capabilities to create vibrant and sustainable cultural environments.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), culture organizations' needs or motivations can be categorized into automatic and reflective needs according to the NOA framework.
+In the context of green cities or green building neighborhoods (GBNs), culture organizations' needs or motivations can be categorized into automatic and reflective needs according to the NOA framework.
 
 Automatic Needs:
 1. Connectivity: Culture organizations in GBNs may have an automatic need for good connectivity and accessibility to other parts of the city or neighboring areas. This includes physical connectivity through well-designed transportation networks, as well as digital connectivity for effective communication and promotion of cultural activities.

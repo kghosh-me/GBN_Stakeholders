@@ -8,9 +8,13 @@ The concept of international suppliers is closely tied to the interconnectedness
 
 ## NOA
 
+### Overview
+
+International suppliers in the context of green cities and sustainable neighborhoods are driven by various needs, opportunities, and capabilities. Their automatic needs include expanding their market reach in green cities, seeking profitability through cost-effective solutions aligned with sustainable practices, and enhancing their reputation as environmentally responsible businesses. Reflective needs involve innovating and differentiating their products and services for green cities, collaborating with other stakeholders to create integrated solutions, and adapting to evolving regulations. The opportunities for international suppliers lie in providing access to sustainable materials, technologies, and green infrastructure solutions for the physical development of green buildings and infrastructure. They also have opportunities for knowledge exchange, supporting the local economy and employment, and engaging with the community. These suppliers possess physical capabilities in terms of infrastructure, logistics, technological expertise, and production capacity, while psychological capabilities include adaptability, collaboration, and environmental consciousness. Overall, their behaviors are driven by the need to meet market demands, seize profitable opportunities, and showcase their expertise and capabilities in the sustainable development of green cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, the needs or motivations of international suppliers can be categorized into automatic and reflective needs.
+In the context of green cities and sustainable neighborhoods, the needs or motivations of international suppliers can be categorized into automatic and reflective needs.
 
 1. Automatic Needs:
    - Market Expansion: International suppliers have a need to expand their market reach and tap into new opportunities in green cities. They seek to supply goods, materials, and services to meet the growing demand for sustainable infrastructure and technologies in urban areas.

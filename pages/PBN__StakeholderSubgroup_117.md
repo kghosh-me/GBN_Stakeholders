@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+Stakeholders in the global energy markets exhibit behaviors that are driven by their specific needs, opportunities, and capabilities in the context of green cities and sustainable neighborhoods. Their physiological and safety needs for reliable and affordable energy sources motivate them to ensure energy security and diversify energy sources. Stakeholders also have reflective needs driven by a desire for environmental sustainability, leading them to promote renewable energy sources and energy efficiency measures. These needs create opportunities for stakeholders to integrate renewable energy, implement energy-efficient technologies, promote sustainable transportation and develop green infrastructure in green cities and sustainable neighborhoods. The physical capabilities of stakeholders, such as access to infrastructure, technologies, financial resources, and expertise, allow them to develop and maintain sustainable urban systems. On the other hand, the psychological capabilities, including awareness, willingness to change, collaboration, and leadership, enable stakeholders to advocate for sustainable policies and practices, actively participate in decision-making processes, and foster a culture of sustainability within their communities. Ultimately, stakeholders' behaviors are shaped by their needs, opportunities, and capabilities, driving the transition towards smart and sustainable urban environments.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, the needs or motivations of stakeholders in the global energy markets can be defined using the NOA framework as follows:
+In the context of green cities and sustainable neighborhoods, the needs or motivations of stakeholders in the global energy markets can be defined using the NOA framework as follows:
 
 1. Automatic Needs (Physiological and Safety Needs):
 - Access to reliable and affordable energy sources: Stakeholders, including residents, businesses, and industries, have a basic physiological need for access to energy resources for heating, cooling, lighting, and powering essential services.

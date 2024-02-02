@@ -8,9 +8,13 @@ Furthermore, communities reliant on the coal and oil industries may face unique 
 
 ## NOA
 
+### Overview
+
+The behaviors of communities reliant on the coal and oil industries are driven by their specific needs, opportunities, and capabilities in the context of green cities and sustainable neighborhoods. Their automatic need for economic stability and employment motivates them to seek job security and alternative employment opportunities when transitioning to green cities. Their reflective needs for improved environmental well-being, health and safety, and resilience and stability drive their desire for a cleaner living environment, better health outcomes, and long-term sustainability. The opportunities they have include transitioning to renewable energy sources, retrofitting buildings with energy-efficient technologies, and engaging in community decision-making processes. Their physical and psychological capabilities, such as technical skills in extraction and maintenance, construction skills, adaptability, resilience, problem-solving skills, and knowledge transfer, enable them to contribute to the development of green cities and the implementation of sustainable practices. These needs, opportunities, and capabilities shape their behaviors and can influence their acceptance and active participation in the transition to green cities.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, communities reliant on the coal and oil industries have various needs or motivations, both automatic and reflective. 
+In the context of green cities and sustainable neighborhoods, communities reliant on the coal and oil industries have various needs or motivations, both automatic and reflective. 
 
 1. Automatic needs: 
 a) Economic stability and employment: These communities heavily rely on the coal and oil industries for employment and economic stability. Their automatic need is to ensure continued job opportunities and income sources for the residents. Transitioning to green cities may threaten their livelihoods and thus they may have concerns about job security and finding alternative employment opportunities.

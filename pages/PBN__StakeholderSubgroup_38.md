@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, the term "pati
 
 ## NOA
 
+### Overview
+
+The behaviors of patients in green cities are driven by their specific needs, opportunities, and capabilities. Their needs for health and well-being, safety and security, comfort, information and awareness, empowerment and control, as well as sustainable healthcare solutions, motivate them to actively seek medical treatment, care, and support. Patients take advantage of the physical and social opportunities provided by green cities, such as access to green spaces for recreation and stress reduction, improved indoor environments for better health outcomes, and community support networks that address their specific health needs. They also utilize the capabilities of self-care, access to healthcare, mobility, resilience, emotional support, and empowerment, to effectively manage their health, access healthcare services, cope with their conditions, and actively participate in decision-making regarding their healthcare. In summary, the behaviors of patients in green cities are driven by their specific needs, opportunities, and capabilities, as they strive to maintain and improve their health and well-being in a sustainable and supportive environment.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of patients can be analyzed through the NOA framework (Needs, Opportunities, Abilities).
+In the context of green cities or green building neighborhoods, the needs or motivations of patients can be analyzed through the NOA framework (Needs, Opportunities, Abilities).
 
 1. Automatic Needs/Motivations:
 - Health and Well-being: Patients have a basic automatic need to maintain and improve their health and well-being. They are motivated to seek medical treatment, care, and support to address their health conditions, including contagious diseases. They aim to recover, prevent further complications, and improve their quality of life.

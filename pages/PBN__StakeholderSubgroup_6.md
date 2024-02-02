@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+Digitally connected individuals in the context of green cities are driven by their automatic and reflective needs, which include access to information, convenience and efficiency, collaboration and engagement, environmental impact, well-being and health, and social responsibility. These needs motivate them to seek out digital platforms and tools that can provide them with accurate and up-to-date information about green initiatives, enable them to manage their daily routines efficiently, and allow them to collaborate with like-minded individuals and community groups. Additionally, they are attracted to opportunities such as access to green technologies, smart home automation, sustainable transportation options, collaborative communities, sharing economy platforms, and access to information and education. Their capabilities, including technical literacy, data utilization, environmental awareness, collaboration and engagement, and behavioral adaptability, empower them to effectively use digital tools, understand and interpret environmental data, actively participate in sustainability initiatives, collaborate with stakeholders, and adapt their behaviors to align with green practices. Overall, their behaviors are driven by their specific needs, the opportunities available to them, and their capabilities to utilize digital platforms and resources.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBN), the needs or motivations of digitally connected individuals can be categorized into automatic and reflective needs.
+In the context of green cities or green building neighborhoods (GBN), the needs or motivations of digitally connected individuals can be categorized into automatic and reflective needs.
 
 1. Automatic Needs:
    a) Access to Information: Digitally connected individuals have a need for accurate and up-to-date information on green initiatives, sustainable practices, and eco-friendly resources within their communities. They seek information on topics such as energy-efficient technologies, renewable energy sources, waste management, water conservation, and green transportation.

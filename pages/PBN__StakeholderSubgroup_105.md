@@ -8,9 +8,13 @@ Moreover, workers in the construction industry are essential contributors to the
 
 ## NOA
 
+### Overview
+
+Workers in the construction industry are driven by their needs, opportunities, and capabilities in the context of green cities and sustainable neighborhoods. Their automatic needs for a safe and secure workplace, access to protective equipment, and compliance with health and safety regulations motivate them to implement health-conscious measures to mitigate the spread of contagious diseases. Their reflective needs for personal growth and fulfillment drive them to contribute to environmental sustainability and public health by incorporating green building practices and sustainable materials in their work. Their knowledge and expertise in sustainable construction techniques provide them with the opportunity to actively contribute to the creation of environmentally friendly buildings. Collaboration and networking opportunities allow them to develop partnerships and stay updated with the latest trends in green construction. Their capabilities, such as technical expertise, physical fitness, adaptability, attention to detail, problem-solving skills, teamwork, communication, and commitment to safety, enable them to effectively implement green building projects and create sustainable urban environments that promote well-being and quality of life for residents.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), workers in the construction industry have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods (GBNs), workers in the construction industry have both automatic and reflective needs or motivations.
 
 Automatic needs refer to the basic, physiological and safety needs that workers in the construction industry have in any environment. These include the need for a safe and secure workplace, access to proper protective equipment, and compliance with health and safety regulations. In the context of green cities, workers in the construction industry may also have automatic needs related to the mitigation of contagious diseases. They may seek measures such as proper ventilation, sanitation, and spatial design to minimize the risk of disease transmission. Ensuring a healthy and safe work environment is crucial for their well-being, and it is in their innate motivation to protect themselves and their colleagues from any potential health risks.
 

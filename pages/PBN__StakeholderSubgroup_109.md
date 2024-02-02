@@ -8,9 +8,13 @@ Furthermore, policymakers are tasked with addressing the complex interplay betwe
 
 ## NOA
 
+### Overview
+
+Policymakers in green cities are driven by their needs, opportunities, and capabilities. Their automatic need for health and well-being motivates them to create policies that prioritize the prevention and management of contagious diseases, promoting healthy living environments. Their reflective need for public trust and legitimacy drives them to develop evidence-based policies supported by scientific research and stakeholder input. Policymakers recognize the opportunities to promote sustainable development through physical opportunities like green infrastructure, sustainable transportation, and energy efficiency. They also see social opportunities in implementing public health measures, fostering community engagement, and prioritizing equity and inclusion. Policymakers' physical and psychological capabilities, such as knowledge and expertise, analytical skills, communication abilities, vision, flexibility, and empathy, empower them to effectively carry out their responsibilities. They leverage their capabilities to assess the impact of policies, navigate competing interests, lead and inspire others, adapt to changing circumstances, overcome obstacles, and ensure equitable outcomes. Overall, policymakers in green cities are driven by their needs, seize the opportunities available, and utilize their capabilities to create sustainable, resilient, and inclusive urban environments that prioritize public health and well-being while mitigating the risks of contagious diseases.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, policymakers have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, policymakers have both automatic and reflective needs or motivations.
 
 Automatic needs:
 1. Health and well-being: Policymakers have an inherent need to safeguard public health and ensure the well-being of residents. In green cities, they are motivated to create policies and strategies that prioritize the prevention and management of contagious diseases, promoting healthy living environments.

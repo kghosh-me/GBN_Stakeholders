@@ -8,9 +8,13 @@ Furthermore, social media platform providers also play a role in data collection
 
 ## NOA
 
+### Overview
+
+The behaviors of social media platform providers in the context of green cities and sustainable neighborhoods are driven by their specific needs, opportunities, and capabilities. Their needs, such as meeting market demand and maintaining user engagement, motivate them to continuously develop and provide features that connect residents and promote sustainability practices. The opportunities presented by widespread internet connectivity and mobile access allow these providers to reach a larger audience and facilitate real-time communication and information dissemination. Their capabilities, including technological infrastructure and data collection and analysis, enable them to gather insights, understand user behavior, and collaborate with stakeholders. These behaviors are specific to their ability to contribute to sustainability goals, promote public health awareness, and foster community engagement in green cities. The combination of their needs, capabilities, and opportunities drives their behaviors towards developing platforms that empower residents, share information, combat misinformation, and contribute to the overall sustainable development and containment of contagious diseases in green cities and sustainable neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBNs), the needs or motivations of social media platform providers can be defined using the NOA (Needs, Opportunities, Abilities) framework as follows:
+In the context of green cities or Green Building neighborhoods (GBNs), the needs or motivations of social media platform providers can be defined using the NOA (Needs, Opportunities, Abilities) framework as follows:
 
 1. Automatic Needs/Motivations:
 a) Market Demand: Social media platform providers have a need to meet the market demand for digital platforms that facilitate social interaction, content sharing, and communication in GBNs. As cities increasingly focus on sustainability and green initiatives, there is a growing demand for platforms that can connect residents, promote sustainability practices, and facilitate community engagement.

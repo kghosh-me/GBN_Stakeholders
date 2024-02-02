@@ -8,9 +8,13 @@ Furthermore, safe mobility also encompasses the design and management of urban s
 
 ## NOA
 
+### Overview
+
+Stakeholders' behaviors in the context of safe mobility in green cities are driven by their specific automatic and reflective needs, which include priorities such as health and safety, convenience, reduced exposure to pollution, and the desire for sustainable transport options. These needs push stakeholders to seek out transportation options and infrastructure that prioritize their well-being and contribute to the sustainable development of their cities. Additionally, the opportunities presented by green cities, such as the integration of sustainable transportation infrastructure, the adoption of smart technologies, and community engagement, provide stakeholders with the means to fulfill their needs and actively participate in shaping transportation and mobility strategies. Moreover, their capabilities, both physical and psychological, enable stakeholders to effectively utilize the transportation options and infrastructure within green cities, adopt active transportation modes, engage in decision-making processes, and develop a sense of responsibility towards the environment. These capabilities empower stakeholders to align their behaviors with their needs, take advantage of the opportunities presented, and contribute to creating safe, sustainable, and inclusive urban environments.
+
 ### Needs
 
-nIn the context of safe mobility in green cities or GBNs, stakeholders' needs can be categorized into automatic and reflective needs.
+In the context of safe mobility in green cities or GBNs, stakeholders' needs can be categorized into automatic and reflective needs.
 
 1. Automatic Needs/Motivations:
    - Health and Safety: Individuals have an automatic need for transportation options and infrastructure that prioritize their health and safety. This includes measures to minimize the risk of contagion and the spread of infectious diseases, such as COVID-19.

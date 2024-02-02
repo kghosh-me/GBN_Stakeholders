@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, occupational h
 
 ## NOA
 
+### Overview
+
+Occupational health and safety regulators in green cities are driven by their needs to ensure the health and safety of workers and enforce regulations and standards related to occupational health and safety. This motivates them to collaborate with stakeholders, such as urban planners and architects, to integrate health and safety guidelines into the design and construction of buildings and infrastructure. They have the opportunity to develop green infrastructure and collaborate with various stakeholders to address health and safety concerns, including the prevention of contagious diseases. Their capabilities include possessing knowledge and expertise in relevant regulations and best practices, technical skills to conduct inspections and audits, and the ability to communicate and collaborate effectively. They also demonstrate analytical thinking, adaptability, and problem-solving abilities to address emerging risks and challenges associated with green building practices. Overall, their behaviors are driven by their automatic needs for worker safety, reflective needs to address emerging risks, opportunities to collaborate and promote a culture of health and safety, and their capabilities to effectively fulfill their roles and responsibilities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, occupational health and safety regulators have specific needs or motivations. These needs can be categorized into automatic and reflective motivations.
+In the context of green cities or green building neighborhoods, occupational health and safety regulators have specific needs or motivations. These needs can be categorized into automatic and reflective motivations.
 
 1. Automatic Needs:
    - Ensuring the health and safety of workers: Occupational health and safety regulators have a primary automatic need to protect the health and safety of workers in various industries and workplaces. This need stems from the recognition that workers have the right to a safe and healthy work environment, free from occupational hazards.

@@ -8,9 +8,13 @@ Furthermore, civil society stakeholders are often deeply embedded within the com
 
 ## NOA
 
+### Overview
+
+Civil society stakeholders in green cities and green building neighborhoods are driven by both automatic and reflective needs, such as the preservation of public health, environmental sustainability, and social equity and inclusion. These needs motivate them to actively engage in various physical and social opportunities, such as participating in green building design, promoting green transportation options, facilitating community engagement, advocating for social equity, and promoting education and awareness. Their physical and psychological capabilities enable them to effectively advocate for sustainable practices, mobilize resources, initiate and implement projects, provide knowledge and expertise, build trust and collaboration, adapt to challenges, and communicate with different stakeholders. These behaviors are driven by their intrinsic motivations and needs, as well as the opportunities and capabilities they possess, allowing them to play a crucial role in the development and implementation of sustainable initiatives in green cities and green building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, civil society stakeholders have both automatic and reflective needs or motivations. 
+In the context of green cities or green building neighborhoods, civil society stakeholders have both automatic and reflective needs or motivations. 
 
 Automatic Needs/Motivations:
 1. Preservation of Public Health: Civil society stakeholders are driven by the automatic need to ensure the well-being and health of citizens living in green cities. They strive to create healthy and safe environments that minimize the risk of contagious diseases and promote overall public health.

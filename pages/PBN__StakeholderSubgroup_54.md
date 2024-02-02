@@ -8,9 +8,13 @@ Furthermore, local regulatory authorities are instrumental in engaging with the 
 
 ## NOA
 
+### Overview
+
+The behaviors of local regulatory authorities in green cities are driven by their needs, opportunities, and capabilities. Their need for compliance and regulation motivates them to establish and enforce regulations and policies that promote sustainability and environmental standards. The need for public health and safety pushes them to prioritize the development and implementation of regulations that address issues like indoor air quality, waste disposal, water conservation, and access to green spaces. The opportunities they have, such as infrastructure development, urban planning, and collaboration with stakeholders, enable them to spearhead the creation of sustainable infrastructure, integrate green spaces, and engage with the community. Finally, their capabilities include having the necessary staff, resources, and expertise to carry out inspections, issue permits, and monitor compliance. They also possess the psychological attributes and skills, such as deep understanding of sustainability principles and the ability to collaborate and adapt, needed to effectively implement and enforce green building regulations.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of local regulatory authorities can be defined using the NOA (Needs, Opportunities, Abilities) framework.
+In the context of green cities or green building neighborhoods, the needs or motivations of local regulatory authorities can be defined using the NOA (Needs, Opportunities, Abilities) framework.
 
 Automatic Needs/Motivations:
 1. Compliance and Regulation: Local regulatory authorities have a fundamental need to establish and enforce regulations and policies that promote sustainability and environmental standards in green cities. This includes ensuring that buildings, infrastructure, and public spaces meet green building requirements, energy efficiency standards, waste management protocols, and other environmental guidelines.

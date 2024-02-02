@@ -8,9 +8,13 @@ In the context of contagious diseases, soft mobility becomes particularly releva
 
 ## NOA
 
+### Overview
+
+The behaviors of stakeholders in green cities and sustainable neighborhoods are driven by their needs, opportunities, and capabilities. Stakeholders have automatic needs for convenient and efficient transportation options, which soft mobility satisfies by providing easy access to nearby amenities. They also have a need for improved health and well-being, and soft mobility promotes physical activity and encourages a healthier lifestyle. Safety and security are also needs, and soft mobility, supported by well-designed infrastructure, enhances the safety and security of pedestrians and cyclists. Reflective needs include the desire for environmental sustainability, and soft mobility aligns with this need by reducing carbon emissions. Stakeholders also have a need for community and social connectedness, which soft mobility promotes through social interactions and community engagement. Lastly, stakeholders have a need for an improved quality of life, and soft mobility contributes to a quieter, less polluted, and more pleasant living environment. These needs are supported by physical opportunities such as infrastructure development, public spaces, and proximity of amenities, as well as social opportunities like community engagement, health and well-being initiatives, and environmental awareness. Stakeholders' behaviors are also influenced by their physical and psychological capabilities, including their physical abilities to engage in soft mobility and their psychological abilities in terms of attitudes, beliefs, and awareness of the benefits of soft mobility. Contextual factors like infrastructure availability, safety measures, accessibility, and cultural norms also play a role in shaping stakeholders' behaviors.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, the needs or motivations of stakeholders regarding soft mobility can be categorized into automatic and reflective needs. 
+In the context of green cities and sustainable neighborhoods, the needs or motivations of stakeholders regarding soft mobility can be categorized into automatic and reflective needs. 
 
 1. Automatic Needs:
 - Convenience and Efficiency: Stakeholders may have a need for convenient and efficient transportation options within their neighborhoods. Soft mobility provides an opportunity for stakeholders to easily access nearby amenities, services, and facilities without relying on motorized vehicles.

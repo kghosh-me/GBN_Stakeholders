@@ -8,9 +8,13 @@ Moreover, recreational and fitness enthusiasts are often active members of their
 
 ## NOA
 
+### Overview
+
+The behaviors of recreational and fitness enthusiasts are driven by a combination of their needs, opportunities, and capabilities. Their automatic need for physical well-being motivates them to actively engage in physical activities that improve their cardiovascular fitness, strength, and flexibility. They seek out the opportunities provided by green cities and green building neighborhoods, such as access to well-designed green spaces and exercise facilities, to fulfill their need for physical activity. With their physical capabilities, including endurance, strength, and motor skills, they are able to participate in a wide range of activities and explore outdoor spaces. In addition, their reflective needs for environmental sustainability and access to green spaces lead them to advocate for initiatives that promote active transportation, use sustainable sports equipment, and support conservation efforts. Their psychological abilities, including motivation, discipline, and mental resilience, enable them to maintain regular physical activity routines and overcome challenges. Overall, recreational and fitness enthusiasts actively pursue opportunities in their communities that align with their needs and utilize their capabilities to maintain an active and healthy lifestyle while promoting environmental sustainability.
+
 ### Needs
 
-nIn the context of green cities or sustainable neighborhoods, the needs or motivations of recreational and fitness enthusiasts can be categorized into automatic and reflective motivations.
+In the context of green cities or sustainable neighborhoods, the needs or motivations of recreational and fitness enthusiasts can be categorized into automatic and reflective motivations.
 
 Automatic needs:
 1. Physical well-being: Recreational and fitness enthusiasts have an automatic need for physical well-being. They engage in regular physical activities to maintain their overall health, improve cardiovascular fitness, strength, and flexibility, and manage their weight.

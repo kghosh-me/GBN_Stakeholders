@@ -6,9 +6,13 @@ I'm sorry, but based on the context provided, I don't have specific information 
 
 ## NOA
 
+### Overview
+
+Diplomatic bodies in green cities or green building neighborhoods are driven by their needs, opportunities, and capabilities. Their needs revolve around environmental consciousness, health and well-being, sustainability, and setting an example for others to follow. They are motivated by the automatic need for clean air, access to green spaces, reduced pollution levels, and sustainable transportation options. They also have reflective needs to advocate for sustainable practices and contribute to overall sustainability goals. Diplomatic bodies have various physical and social opportunities, such as energy efficiency, green infrastructure, sustainable transportation, collaboration and engagement, networking and partnerships, and enhancing public perception and reputation. Their capabilities include policy making and advocacy, collaboration and partnership building, expertise and technical knowledge, financial resources, diplomatic skills, change management abilities, and vision and strategic thinking. Through their behaviors, these diplomatic bodies actively engage in sustainable initiatives, collaborate with stakeholders, and leverage their abilities to promote sustainability and create positive impacts in green cities and neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBN), the needs or motivations of diplomatic bodies can be analyzed using the Needs, Opportunities, Abilities (NOA) framework. 
+In the context of green cities or green building neighborhoods (GBN), the needs or motivations of diplomatic bodies can be analyzed using the Needs, Opportunities, Abilities (NOA) framework. 
 
 1. Automatic needs or motivations: Diplomatic bodies may have automatic needs related to the environmental and health aspects of green cities and GBNs. This includes the need for clean air, access to green spaces for relaxation and recreation, and reduced pollution levels. Diplomatic bodies may also have a need for sustainable transportation options like electric vehicles or public transit systems to reduce their carbon footprint. Automatic needs can also involve access to sustainable and energy-efficient buildings that promote a healthy and comfortable living and working environment.
 

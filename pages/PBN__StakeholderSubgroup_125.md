@@ -8,9 +8,13 @@ Furthermore, standardization bodies facilitate the development of protocols that
 
 ## NOA
 
+### Overview
+
+Standardization bodies in the context of green cities are driven by their needs, opportunities, and capabilities. Their automatic needs include the need for efficiency, credibility, and collaboration. This drives them to establish uniform protocols and guidelines to optimize resource utilization, gain trust from stakeholders, and foster collaboration among different stakeholders. Their reflective needs include the need for innovation, health and safety, and resilience. This motivates them to keep pace with technological advancements, prioritize the privacy and security of health data, and develop protocols for effective responses to pandemics. They are enabled by physical opportunities such as developing sustainable building standards, integrating renewable energy technologies, and implementing smart grids. Social opportunities include collaboration, public awareness and education, and the creation of green jobs. Their capabilities include technical expertise, collaboration and networking, governance and regulatory knowledge, research and innovation, and communication and advocacy. Their behaviors are driven by the need to address these needs, seize on the opportunities, and make use of the capabilities to establish and maintain standards for green cities and sustainable practices.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of standardization bodies can be defined using the NOA framework as follows:
+In the context of green cities or green building neighborhoods, the needs or motivations of standardization bodies can be defined using the NOA framework as follows:
 
 1. Automatic Needs:
    a. Efficiency: Standardization bodies need to establish uniform protocols and guidelines to enhance the efficiency of smart city technologies and systems. By ensuring interoperability and seamless communication between different systems, they aim to optimize resource utilization and improve overall performance.

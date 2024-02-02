@@ -8,9 +8,13 @@ Furthermore, academic institutions are responsible for nurturing the next genera
 
 ## NOA
 
+### Overview
+
+The behaviors of academic institutions in the context of green cities are primarily driven by their needs, opportunities, and capabilities. Their automatic needs for access to funding, data, collaborative partnerships, and networking opportunities motivate them to seek out financial resources, form alliances with stakeholders, and actively engage in knowledge sharing and networking activities. Meanwhile, their reflective needs for academic recognition, alignment with societal demands, contribution to policy and practice, and capacity building drive them to establish themselves as leaders in the field, adapt their programs and research focus, influence policy decisions, and develop curricula and training programs. With respect to opportunities, academic institutions leverage physical opportunities such as research facilities, living laboratories, and collaborations with industry partners to conduct experiments, test sustainable solutions, and apply academic knowledge in real-world settings. They also capitalize on social opportunities by organizing knowledge exchange events, offering specialized training programs, and participating in policy development efforts, to nurture a learning ecosystem, build capacity, and shape evidence-based policies and practices. Additionally, their physical capabilities, including research facilities, expertise, and data analysis capabilities, enable them to conduct research, generate knowledge, and contribute innovative solutions to the challenges faced by green cities. Furthermore, their psychological capabilities, such as interdisciplinary collaboration, critical thinking, and knowledge dissemination, facilitate the integration of knowledge, problem-solving, and raising awareness about green cities and green building neighborhoods. Overall, the behaviors of academic institutions are driven by a combination of their specific needs, opportunities, and capabilities, which collectively enable them to contribute to the knowledge, collaboration, and sustainability of green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, academic institutions have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, academic institutions have both automatic and reflective needs or motivations.
 
 Automatic needs:
 - Access to funding: Academic institutions require financial resources to conduct research, develop innovative educational programs, and invest in sustainable infrastructure and technologies.

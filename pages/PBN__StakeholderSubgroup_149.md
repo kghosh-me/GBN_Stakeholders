@@ -8,9 +8,13 @@ In addition to providing financial backing, renewable energy investors may also 
 
 ## NOA
 
+### Overview
+
+The behaviors of renewable energy investors in green cities are driven by their specific needs, opportunities, and capabilities. Renewable energy investors have automatic needs for financial returns, risk diversification, and enhancing their reputation and image. These needs motivate them to seek investment opportunities in green cities, where they can generate profits from renewable energy projects, diversify their investment portfolios, and align themselves with sustainable practices. Additionally, investors have reflective needs to make a positive environmental and social impact and support technological innovation. Green cities provide them with physical opportunities, such as access to renewable energy resources, infrastructure development, and technological innovation. Social opportunities include contributing to environmental impact, economic benefits, stakeholder collaboration, and reputation building. Furthermore, investors possess physical capabilities in terms of financial resources, access to networks, and technological know-how. They also have psychological abilities, including environmental awareness, risk assessment and management, and a long-term orientation. These needs, opportunities, and capabilities collectively drive their behaviors to actively engage in supporting and investing in renewable energy projects in green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, renewable energy investors have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, renewable energy investors have both automatic and reflective needs or motivations.
 
 Automatic needs:
 1. Financial returns: Renewable energy investors seek opportunities that provide attractive financial returns on their investment. They are motivated by the potential for generating a profit or positive financial impact from renewable energy projects.

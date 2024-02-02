@@ -8,9 +8,13 @@ Furthermore, operational staff are essential for the effective integration of te
 
 ## NOA
 
+### Overview
+
+The behaviors of operational staff in green cities are strongly driven by their needs for safety and health, efficiency and effectiveness, collaboration and communication, professional growth and training, and environmental stewardship. These needs motivate them to utilize technology and data-driven solutions to streamline processes, improve surveillance, and enhance response capabilities. They also seek opportunities to contribute to infrastructure improvements, integrate smart technologies, and promote green building designs. Additionally, operational staff actively engage with the community, collaborate with stakeholders, and facilitate knowledge sharing and capacity building. Their capabilities, including technical skills, physical stamina, adaptability, problem-solving, stress management, communication, and community engagement, enable them to effectively respond to and manage contagious diseases in smart and sustainable neighborhoods. Overall, their behaviors reflect a deep commitment to public health and the creation of sustainable and resilient communities through the integration of sustainable practices, innovative technologies, and strong stakeholder collaboration.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, operational staff's needs or motivations can be defined within the NOA (Needs, Opportunities, Abilities) framework as follows:
+In the context of green cities or green building neighborhoods, operational staff's needs or motivations can be defined within the NOA (Needs, Opportunities, Abilities) framework as follows:
 
 Automatic Needs:
 1. Safety and Health: Operational staff have a strong need for safety and health, both for themselves and for the community they serve. They are motivated to ensure that contagious diseases are effectively managed and controlled, minimizing risks to public health.

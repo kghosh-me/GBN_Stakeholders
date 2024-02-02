@@ -8,9 +8,13 @@ Furthermore, mental health support services in smart and sustainable cities and 
 
 ## NOA
 
+### Overview
+
+The behaviors of residents in green cities or green building neighborhoods are driven by their needs for health and well-being, stress reduction, and connection to nature. They seek mental health support services that are accessible within their neighborhoods, conveniently available, and prioritize their psychological well-being. Residents are motivated to engage in community support initiatives that foster social connections, reduce social isolation, and create a sense of belonging. They also have a reflective need for awareness and education programs that reduce the stigma around mental health and promote a better understanding of psychological well-being. These needs are supported by the physical and social opportunities provided by green cities, such as the development of green spaces that allow residents to connect with nature, sustainable infrastructure that improves environmental factors, and community-based support programs and smart technologies that enhance access to mental health resources. Residents' capabilities involve physical abilities to access green spaces, engage in active transportation, and utilize healthy living infrastructure for physical activity. They also have psychological abilities to access mental health professionals, participate in community-based support programs, and utilize stress management and mindfulness resources. These behaviors are driven by the alignment between residents' needs, the opportunities provided by green cities, and their capabilities to access and utilize mental health support services in their neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of residents regarding mental health support services can be defined using the NOA framework as follows:
+In the context of green cities or green building neighborhoods, the needs or motivations of residents regarding mental health support services can be defined using the NOA framework as follows:
 
 Automatic Needs:
 1. Health and Well-being: Residents have a natural inclination to prioritize their mental well-being and seek services that promote psychological health. They have a need for access to mental health professionals, counseling services, and resources that support their overall well-being.

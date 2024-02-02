@@ -8,9 +8,13 @@ In the context of contagious diseases in smart and sustainable cities and neighb
 
 ## NOA
 
+### Overview
+
+City planning professionals are driven by a range of needs, opportunities, and capabilities that shape their behaviors in green cities and sustainable neighborhoods. Their automatic need for professional growth and recognition motivates them to stay updated on the latest trends and advancements in sustainable urban planning, ensuring their work aligns with industry standards. Their reflective needs for health and well-being, social equity, and resilience drive them to prioritize the creation of neighborhoods that promote access to green spaces, active transportation, and healthcare facilities. The physical opportunities they have to design sustainable infrastructure, incorporate active transportation, and create resilient infrastructure allow them to implement strategies that support their reflective needs. Their expertise, analytical and problem-solving skills, and collaboration capabilities enable them to effectively address complex urban problems and advocate for sustainable design strategies. Furthermore, their adaptability, vision, empathy, and leadership qualities empower them to incorporate innovative solutions, consider diverse community needs, and advocate for sustainable policies. Overall, their behaviors are driven by a strong alignment of their needs, opportunities, and capabilities, allowing them to create sustainable and healthy green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, city planning professionals have both automatic and reflective needs or motivations.
+In the context of green cities or green building neighborhoods, city planning professionals have both automatic and reflective needs or motivations.
 
 Automatic Needs:
 1. Professional Growth and Recognition: City planning professionals are motivated to enhance their professional skills and knowledge in green building practices. They have an inherent need to stay updated on the latest trends and advancements in sustainable urban planning to ensure their work aligns with industry standards and best practices.

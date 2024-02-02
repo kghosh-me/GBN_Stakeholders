@@ -8,9 +8,13 @@ Furthermore, government health agencies are involved in conducting research, col
 
 ## NOA
 
+### Overview
+
+The behaviors of government health agencies in the context of green cities are driven by their specific needs, opportunities, and capabilities. Their needs, which can be automatic or reflective, include protecting public health, preventing disease transmission, promoting sustainable development, fostering collaboration, and utilizing evidence-based approaches. These needs prompt government health agencies to act in ways that prioritize the health and well-being of the population and strive for sustainable and smart health initiatives. They have various opportunities, both physical and social, to enhance public health outcomes in green building neighborhoods (GBNs), such as infrastructure development, resource allocation, environmental monitoring, collaboration and partnerships, behavioral change interventions, and inclusive health policies. Additionally, government health agencies have physical and psychological capabilities, such as infrastructure development, technical expertise, collaboration and coordination, public health education, behavior change interventions, and public engagement and participation. These abilities allow them to contribute to the development of GBNs that promote health and well-being, design and implement interventions, provide technical support, educate the public, and facilitate community involvement. Overall, their behaviors are driven by addressing their needs, capitalizing on opportunities, and utilizing their capabilities to ensure the health and sustainability of communities in green cities.
+
 ### Needs
 
-nThe needs or motivations of government health agencies in the context of green cities can be categorized as automatic and reflective. 
+The needs or motivations of government health agencies in the context of green cities can be categorized as automatic and reflective. 
 
 Automatic needs refer to the innate or instinctive motivations that prompt government health agencies to act. In the context of green cities, their automatic needs can include:
 

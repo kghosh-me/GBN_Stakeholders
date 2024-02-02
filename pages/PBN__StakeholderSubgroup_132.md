@@ -8,9 +8,13 @@ Furthermore, city transport authorities often collaborate with other government 
 
 ## NOA
 
+### Overview
+
+The behaviors of city transport authorities are driven by their needs for efficient and sustainable transportation, improved air quality, enhanced quality of life, sustainable urban development, and meeting stakeholder expectations. To fulfill these needs, they take advantage of physical opportunities such as developing and upgrading transportation infrastructure, integrating electric and low-emission vehicles, implementing intelligent transportation systems, and promoting intermodal connectivity. Social opportunities are also pursued through engaging with the community, improving accessibility and inclusivity, prioritizing health and well-being, and educating the public. These actions are supported by their capabilities, including planning and design, technological integration, infrastructure development and maintenance, collaboration and partnerships, knowledge and expertise in sustainable transportation practices, adaptability and innovation, public engagement and education, and effective communication. The combination of these needs, opportunities, and capabilities informs and guides the behaviors of city transport authorities in their efforts to create greener, more sustainable, and livable urban environments.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of city transport authorities can be defined using the NOA (Needs, Opportunities, Abilities) framework as follows:
+In the context of green cities or green building neighborhoods, the needs or motivations of city transport authorities can be defined using the NOA (Needs, Opportunities, Abilities) framework as follows:
 
 Automatic Needs:
 1. Efficient and Sustainable Transportation: City transport authorities have a need to provide efficient and sustainable transportation options to residents. This includes reducing congestion, promoting the use of public transportation, and encouraging the adoption of environmentally friendly modes of transport like electric vehicles or bicycles.

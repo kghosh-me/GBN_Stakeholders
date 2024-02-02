@@ -8,9 +8,13 @@ Furthermore, the design and management of airports have become increasingly impo
 
 ## NOA
 
+### Overview
+
+The behaviors of airports in the context of green cities and sustainable neighborhoods are driven by their needs for movement and connectivity, efficiency and effectiveness, economic growth, public health and safety, environmental sustainability, and community engagement. These needs motivate airports to prioritize measures such as improving sanitation practices, enhancing ventilation systems, and managing crowd density to mitigate health risks. Airports also seize opportunities to adopt energy-efficient measures, integrate renewable energy sources, promote sustainable transportation options, engage with the local community, create jobs, and raise awareness about sustainability through education and awareness programs. These opportunities empower airports to contribute to the sustainability goals of green cities. Furthermore, airports possess the capabilities to incorporate sustainable design principles, develop effective waste management and water conservation systems, collaborate and network with stakeholders, engage and educate passengers and employees about sustainable practices, and adapt to emerging technologies and best practices. These capabilities enable airports to integrate sustainability into their infrastructure and operations while fostering collaboration and innovation.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, airports have several needs or motivations. These can be categorized as both automatic and reflective needs.
+In the context of green cities and sustainable neighborhoods, airports have several needs or motivations. These can be categorized as both automatic and reflective needs.
 
 1. Automatic Needs:
    - Movement and Connectivity: Airports exist to facilitate the movement of people and goods locally, regionally, and internationally. They serve as transportation hubs, connecting different cities and countries. This need for connectivity is driven by economic, social, and cultural factors.

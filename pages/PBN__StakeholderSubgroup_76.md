@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, the roles of s
 
 ## NOA
 
+### Overview
+
+The behaviors of supermarket and healthcare facility staff in green cities are driven by their specific needs, opportunities, and capabilities. Their automatic needs, such as job security, fair compensation, and a safe working environment, motivate them to ensure the cleanliness and hygiene of their workplaces, manage crowd density, and implement measures to control buying behavior. The availability of sustainable infrastructure and a healthier work environment provides physical opportunities for staff to work efficiently and maintain their well-being. The proximity to green spaces also offers opportunities for physical activity and relaxation. Socially, the collaboration and networking opportunities allow staff members to contribute to sustainability efforts by collaborating with other stakeholders. Professional development opportunities can enhance their skills and knowledge, benefiting their career growth. Their capabilities encompass skills in hygiene and sanitation, crowd management, adaptability to new technologies, communication, stress management, and teamwork. These capabilities enable them to effectively implement health and safety measures, manage stress levels, and work collaboratively to create a sustainable and healthy environment for the community.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of supermarket and healthcare facility staff can be categorized into automatic and reflective needs.
+In the context of green cities or green building neighborhoods, the needs or motivations of supermarket and healthcare facility staff can be categorized into automatic and reflective needs.
 
 Automatic needs refer to the basic, instinctive needs that drive individuals' behaviors. For supermarket staff, their automatic needs include job security, fair compensation, and a safe and healthy working environment. They need to feel secure in their employment and have a stable income to meet their basic needs. Additionally, they require a clean and hygienic workplace to ensure their own well-being and to prevent the transmission of contagious diseases.
 

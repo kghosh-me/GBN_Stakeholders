@@ -8,9 +8,13 @@ Moreover, visitors to green spaces may represent a diverse demographic, includin
 
 ## NOA
 
+### Overview
+
+The behaviors of visitors to green spaces in green cities are driven by their specific needs, opportunities, and capabilities. The visitors' physical well-being needs motivate them to engage in activities such as walking, jogging, cycling, or playing sports in green spaces. They are able to access these opportunities through the presence of well-designed and well-maintained green spaces, which are easily accessible in green cities. Visitors also have a reflective need for relaxation and stress relief, which they fulfill by seeking out the serene and natural environment offered by green spaces. The opportunity for social interaction and community engagement in green spaces enables visitors to meet friends, neighbors, and fellow community members. They are also driven by a reflective need for environmental consciousness, which inspires them to appreciate and support the ecological value of green spaces. Lastly, the psychological capabilities of visitors enable them to connect with nature, find relaxation, and improve their overall well-being while in green spaces. By considering these needs, opportunities, and capabilities, cities can design and manage green spaces that cater to the diverse requirements and preferences of their visitors.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods (GBNs), the needs or motivations of visitors to green spaces can be understood using the NOA (Needs, Opportunities, Abilities) framework.
+In the context of green cities or green building neighborhoods (GBNs), the needs or motivations of visitors to green spaces can be understood using the NOA (Needs, Opportunities, Abilities) framework.
 
 Automatic Needs:
 1. Physical well-being: Visitors may have a need for physical exercise and outdoor activities to maintain a healthy lifestyle. Green spaces provide opportunities for activities like walking, jogging, cycling, or playing sports.

@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighborhoods, mental healthc
 
 ## NOA
 
+### Overview
+
+The behaviors of mental healthcare providers in the context of green cities and green building neighborhoods are primarily driven by their needs for professional growth and collaboration, as well as their reflective needs for accessibility, environmental sustainability, and community engagement. These needs motivate mental healthcare providers to actively seek opportunities such as integrating mental health considerations into green infrastructure, advocating for accessible facilities, and incorporating nature-based interventions into their treatments. Furthermore, their capabilities, both physical and psychological, enable mental healthcare providers to fulfill their needs and take advantage of opportunities. Their physical abilities, such as ensuring accessibility and having the necessary infrastructure, allow them to deliver quality services and collaborate effectively. Meanwhile, their psychological abilities, including assessment and diagnosis, treatment and intervention, and support and empowerment, enable them to provide comprehensive and person-centered care. Overall, mental healthcare providers demonstrate proactive behaviors driven by their needs, which are supported by the opportunities available to them, and facilitated by their capabilities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, mental healthcare providers have both automatic and reflective needs or motivations that can be defined using the NOA framework.
+In the context of green cities or green building neighborhoods, mental healthcare providers have both automatic and reflective needs or motivations that can be defined using the NOA framework.
 
 Automatic Needs:
 1. Professional Growth: Mental healthcare providers may have a need for professional growth and development in the field of green cities. They may seek opportunities to enhance their knowledge and skills related to the psychological impact of green building neighborhoods on mental well-being. This could include staying updated on research, attending conferences or workshops, and networking with other professionals in the field.

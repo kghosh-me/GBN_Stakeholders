@@ -8,9 +8,13 @@ Furthermore, sports-related organizations are instrumental in leveraging technol
 
 ## NOA
 
+### Overview
+
+The behaviors of sports-related organizations in green cities and green building neighborhoods are strongly driven by their specific needs, opportunities, and capabilities. Their automatic need for physical activity motivates them to provide opportunities for residents to engage in sports activities and promote an active lifestyle. This need, coupled with the opportunity to access sustainable sports facilities, leads them to collaborate with city planners and developers to design and build eco-friendly sports infrastructure. Their reflective need for sustainability pushes them to adopt sustainable practices such as reducing energy consumption and promoting eco-friendly transportation options. Their capability to plan, design, and develop sustainable sports infrastructure enables them to integrate smart technologies, optimize energy consumption, and improve the overall user experience. Their reflective need for community engagement aligns with the social opportunities in green cities, leading them to collaborate with various stakeholders, organize community sports events, and foster social integration. Their psychological ability to engage and involve community members allows them to promote inclusivity and diversity in sports participation. Their capability to collaborate with local health organizations enables them to develop programs that encourage physical activity as a preventive measure against contagious diseases. Overall, their behaviors are driven by their motivation to provide access to sports activities, collaborate with stakeholders, adopt sustainable practices, leverage technology, enhance community engagement, and promote physical and mental well-being in urban environments.
+
 ### Needs
 
-nIn the context of green cities (GBNs), sports-related organizations have both automatic and reflective needs or motivations. 
+In the context of green cities (GBNs), sports-related organizations have both automatic and reflective needs or motivations. 
 
 Automatic Needs:
 1. Physical Activity: Sports-related organizations recognize the importance of physical activity for the overall health and well-being of individuals. They have a need to provide opportunities for residents to engage in sports activities and promote an active lifestyle.

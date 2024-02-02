@@ -8,9 +8,13 @@ Moreover, the occupants of shared household spaces are influenced by various soc
 
 ## NOA
 
+### Overview
+
+The behaviors of occupants of shared household spaces in green cities and green building neighborhoods are driven by their specific needs, which include both automatic and reflective needs. Their automatic needs for clean air, water, nutritious food, and comfortable living conditions are motivated by a desire for a healthy living environment and reduced exposure to pollutants. Additionally, their reflective needs for a sense of community, social connection, and environmental stewardship drive their motivation to live in a sustainable neighborhood and engage in sustainable behaviors. These needs are then influenced by the opportunities available to them, such as the physical opportunities of energy efficiency, a healthy indoor environment, and access to green spaces, as well as the social opportunities of community engagement, sharing economy, and education and awareness. Lastly, their capabilities, both physical and psychological, enable them to adapt to the changing environments and technologies, effectively manage resources, utilize alternative modes of transportation, be aware of sustainable principles, adopt sustainable behaviors, and collaborate with other residents. Overall, their behaviors are shaped by their needs, which are fulfilled through the opportunities provided to them, and their capabilities allow them to actively contribute to the goals of green cities and green building neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBNs), the needs of occupants of shared household spaces can be categorized into both automatic and reflective needs.
+In the context of green cities or Green Building neighborhoods (GBNs), the needs of occupants of shared household spaces can be categorized into both automatic and reflective needs.
 
 Automatic needs refer to the basic physiological and psychological requirements that occupants have to fulfill in order to maintain their health and well-being. These needs include access to clean air, water, and nutritious food, as well as comfortable and safe living conditions. In GBNs, occupants may have an increased motivation for these automatic needs, as these neighborhoods often prioritize energy efficiency, indoor air quality, and sustainable food production. The motivation for these needs can stem from a desire for a healthy living environment, reduced exposure to pollutants, and improved overall well-being. Additionally, occupants may also have a motivation for energy conservation and cost savings, as GBNs typically integrate sustainable building practices and technologies, which can contribute to lower utility bills.
 

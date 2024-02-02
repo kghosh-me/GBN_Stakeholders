@@ -8,9 +8,13 @@ In the context of contagious diseases, ride-sharing presents both opportunities 
 
 ## NOA
 
+### Overview
+
+Ride-sharing behaviors in green cities are driven by the stakeholders' automatic and reflective needs, the opportunities presented by ride-sharing initiatives, and their physical and psychological capabilities. Stakeholders have automatic needs for convenience, cost savings, and time efficiency, which drive their desire for a transportation option that is easily accessible, cost-effective, and time-efficient. Reflective needs for environmental conservation, community engagement, and health and well-being motivate stakeholders to choose ride-sharing as an environmentally friendly, socially interactive, and stress-reducing transportation option. The opportunities for reduced traffic congestion, lower carbon emissions, efficient resource use, community building, cost-effectiveness, and accessibility enhance stakeholders' motivations to engage in ride-sharing. Lastly, stakeholders' abilities, such as access to reliable transportation, availability of suitable vehicles, proximity to shared destinations, willingness to adopt sustainable practices, trust in ride-sharing services, and social skills, play a crucial role in enabling them to participate in ride-sharing and contribute to the sustainability and inclusivity of green cities.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, the needs or motivations of stakeholders for ride-sharing can be categorized into automatic and reflective needs.
+In the context of green cities and sustainable neighborhoods, the needs or motivations of stakeholders for ride-sharing can be categorized into automatic and reflective needs.
 
 Automatic needs refer to the immediate, instinctive motivations that individuals have. In the case of ride-sharing, the automatic needs of stakeholders in green cities can include:
 

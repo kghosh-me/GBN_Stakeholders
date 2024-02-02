@@ -8,9 +8,13 @@ Furthermore, urban planning institutions are responsible for engaging with vario
 
 ## NOA
 
+### Overview
+
+The behaviors of urban planning institutions are strongly driven by their needs, opportunities, and capabilities. Firstly, their needs, such as regulatory compliance, resource efficiency, and climate adaptation, compel them to prioritize sustainable practices in urban development projects. These needs motivate them to integrate green building principles, optimize resource use, and enhance climate resilience. Secondly, the opportunities available to them, such as sustainable infrastructure, green spaces, and community engagement, influence their behaviors. They capitalize on these opportunities by designing energy-efficient buildings, incorporating green spaces for biodiversity, and involving local communities in decision-making processes. Lastly, their capabilities, including physical abilities (such as technical expertise and access to data) and psychological abilities (such as a commitment to sustainability and collaboration), shape their behaviors. They utilize their physical resources and knowledge to implement sustainable practices and engage stakeholders effectively. Overall, the needs, opportunities, and capabilities of urban planning institutions drive their behaviors towards creating green cities and sustainable neighborhoods that address environmental challenges, enhance quality of life, and foster economic development.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs of urban planning institutions can be understood using the NOA framework. 
+In the context of green cities or green building neighborhoods, the needs of urban planning institutions can be understood using the NOA framework. 
 
 1. Automatic Needs: 
 - Regulatory Compliance: Urban planning institutions have a primary automatic need to ensure compliance with environmental regulations and sustainability standards. This includes integrating green building principles, energy-efficient infrastructure, waste management systems, and sustainable transportation networks into urban development projects.

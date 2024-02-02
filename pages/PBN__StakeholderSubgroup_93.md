@@ -8,9 +8,13 @@ Moreover, in the context of smart and sustainable cities, cleaning personnel may
 
 ## NOA
 
+### Overview
+
+The behaviors of cleaning personnel in green cities and green building neighborhoods (GBNs) are driven by a combination of their needs, opportunities, and capabilities. Their automatic needs for safety and health, a clean environment, and compliance with regulations motivate them to prioritize proper hygiene practices, use personal protective equipment, and follow cleaning protocols. Their reflective needs for environmental sustainability, knowledge and skill development, and recognition and appreciation drive them to adopt sustainable cleaning practices, seek ongoing training opportunities, and excel in their role. The physical opportunities provided by GBNs, such as working with self-cleaning technologies, adopting sustainable practices, and benefiting from enhanced safety measures, enable cleaning personnel to contribute to the overall goals of sustainability and health. The social opportunities of collaborating with stakeholders, receiving recognition and appreciation, and enhancing professional development further empower cleaning personnel to actively shape and contribute to the creation of healthier and more sustainable built environments. Their capabilities in terms of physical abilities, technical skills, adaptability, communication skills, attention to detail, and psychological resilience allow them to effectively carry out their responsibilities and align with the principles of sustainability and smart urban design. Overall, the behaviors of cleaning personnel are influenced by their needs, taken advantage of through opportunities, and enabled by their capabilities in the context of green cities and GBNs.
+
 ### Needs
 
-nIn the context of green cities or Green Building neighborhoods (GBN), the cleaning personnel have both automatic and reflective needs or motivations.
+In the context of green cities or Green Building neighborhoods (GBN), the cleaning personnel have both automatic and reflective needs or motivations.
 
 Automatic needs refer to the basic, immediate, and essential requirements of cleaning personnel in their role within a GBN. These needs include:
 

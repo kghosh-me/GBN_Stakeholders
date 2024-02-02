@@ -8,9 +8,13 @@ Furthermore, global governing bodies are instrumental in shaping international a
 
 ## NOA
 
+### Overview
+
+Global governing bodies are driven by their needs, opportunities, and capabilities in green cities and green building neighborhoods. Their automatic needs for preservation of global public health and resource allocation and management motivate them to establish effective healthcare systems, disease surveillance, and response mechanisms in these areas. Their reflective needs for policy development and implementation and strengthening global governance drive them to develop guidelines and standards for eco-friendly infrastructure and advocate for sustainable urban development. The physical opportunities of funding and investment, technical expertise, and policy and regulatory frameworks allow them to allocate resources, provide guidance on sustainable building practices, and establish policies that incentivize green practices. The social opportunities of collaboration and networking, awareness and education, and advocacy and policy influence enable them to facilitate knowledge exchange, raise awareness about the benefits of green cities, and encourage policy discussions on sustainable development. Their capabilities in terms of knowledge and expertise, funding and resources, technical assistance, and policy and regulation allow them to gather and disseminate information, allocate financial resources, provide technical guidance, and develop and enforce policies that promote sustainable and green initiatives in green cities and neighborhoods. Overall, their behaviors are driven by an understanding of their needs, the opportunities available to them, and the capabilities they possess.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, global governing bodies have both automatic and reflective needs or motivations. 
+In the context of green cities or green building neighborhoods, global governing bodies have both automatic and reflective needs or motivations. 
 
 Automatic needs or motivations:
 1. Preservation of global public health: Global governing bodies have a primary goal of safeguarding public health on a global scale. As such, they are motivated to address and mitigate the risks associated with contagious diseases and public health emergencies in green cities. This includes ensuring effective healthcare systems, disease surveillance, and response mechanisms are in place to protect populations.

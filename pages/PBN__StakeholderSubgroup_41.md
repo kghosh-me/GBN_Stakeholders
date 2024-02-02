@@ -8,9 +8,13 @@ Furthermore, homeowners in smart and sustainable cities and neighborhoods may al
 
 ## NOA
 
+### Overview
+
+Homeowners in green cities are driven by their needs for health and well-being, comfort and convenience, energy efficiency, sustainability and environmental consciousness, cost savings, and social responsibility. These needs motivate them to actively seek opportunities to contribute to and benefit from sustainable living environments. They have physical opportunities to reduce energy consumption, manage stormwater, improve indoor environmental quality, and participate in waste management. Socially, they can engage with their community, advocate for sustainable policies, and exchange knowledge. Homeowners possess the financial capability to invest in sustainable infrastructure, the technical capability to implement green design strategies, the adaptability to embrace new technologies, the collaboration skills to work with stakeholders, and the psychological capability to prioritize sustainable practices. Their behaviors are driven by these needs, opportunities, and capabilities, enabling them to create healthier, more sustainable, and resilient living spaces within their neighborhoods.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, homeowners have both automatic and reflective needs or motivations. 
+In the context of green cities or green building neighborhoods, homeowners have both automatic and reflective needs or motivations. 
 
 Automatic Needs: 
 1. Health and Well-being: Homeowners have a fundamental need for a healthy and safe living environment. They want to protect themselves and their families from contagious diseases and other health risks.

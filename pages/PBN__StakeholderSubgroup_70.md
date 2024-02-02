@@ -8,9 +8,13 @@ The building design team works collaboratively to address the complex challenges
 
 ## NOA
 
+### Overview
+
+The behaviors of the building design team are driven by their specific needs, opportunities, and capabilities in the context of green cities or green building neighborhoods. Their automatic needs, such as fulfilling regulatory requirements, addressing environmental concerns, and enhancing public health and well-being, guide their actions instinctively. These needs motivate the team to design buildings that comply with energy efficiency standards, incorporate sustainable design features, and prioritize the physical and mental well-being of occupants. On the other hand, their reflective needs, such as fostering community engagement, promoting inclusivity and accessibility, and ensuring future resilience, involve conscious decision-making. These needs drive the team to create buildings and neighborhoods that encourage social interaction, support local businesses, provide accessibility for everyone, and withstand climate change challenges. The team's capabilities, including technical expertise, collaboration and communication skills, problem-solving and innovation abilities, adaptability and flexibility, psychological sensitivity, and continuous learning, enable them to effectively address these needs and seize the opportunities presented. Their technical expertise allows them to implement green building practices, while their collaboration skills enable effective teamwork with stakeholders. Their problem-solving abilities and adaptability help them find innovative solutions and adjust designs according to changing needs. Their psychological sensitivity ensures they prioritize the well-being of the community, and their continuous learning ensures they stay updated with the latest sustainable practices. Overall, their behaviors are shaped by a combination of instinctive motivations and conscious decision-making, empowered by their unique skills and knowledge.
+
 ### Needs
 
-nThe needs or motivations of a building design team in the context of green cities or green building neighborhoods can be categorized into automatic and reflective needs.
+The needs or motivations of a building design team in the context of green cities or green building neighborhoods can be categorized into automatic and reflective needs.
 
 Automatic needs refer to the basic, instinctive motivations that drive the team's actions. In this case, the building design team's automatic needs in green cities include:
 

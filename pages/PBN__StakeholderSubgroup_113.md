@@ -8,9 +8,13 @@ Furthermore, funding bodies are instrumental in driving innovation and collabora
 
 ## NOA
 
+### Overview
+
+The behaviors of funding bodies in the context of green cities and sustainable neighborhoods are driven by their specific needs, opportunities, and capabilities. Their automatic needs to protect public health and promote sustainable development motivate them to support initiatives that prevent, manage, and study contagious diseases in urban environments. Funding bodies have physical opportunities to invest in infrastructure development, technology integration, green spaces, and sustainable transportation, which enhance the resilience and health of cities. They also have social opportunities to promote community engagement, collaboration, and research and innovation, fostering interdisciplinary approaches and knowledge sharing. Moreover, their capabilities include the physical resources to provide financial support, develop necessary infrastructure, and offer technological solutions. Funding bodies possess psychological capabilities in terms of access to expertise, collaborative approaches, and policy influence, enabling them to guide initiatives and advocate for policies that prioritize public health in green cities.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, funding bodies have various needs or motivations, both automatic and reflective.
+In the context of green cities or green building neighborhoods, funding bodies have various needs or motivations, both automatic and reflective.
 
 Automatic needs or motivations:
 1. Public Health Protection: Funding bodies are driven by the automatic need to protect public health and ensure the well-being of city residents. Contagious diseases pose a significant risk to public health, and funding bodies are motivated to support initiatives that help prevent, manage, and study these diseases in green cities and neighborhoods.

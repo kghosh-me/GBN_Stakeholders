@@ -8,9 +8,13 @@ These agencies often collaborate with local governments, non-governmental organi
 
 ## NOA
 
+### Overview
+
+The behaviors of international development agencies in the context of green cities and green building neighborhoods (GBNs) are driven by their needs, opportunities, and capabilities. Their automatic needs/motivations, such as addressing global challenges and meeting basic needs, prompt them to prioritize the implementation of sustainable infrastructure and environmentally-friendly practices. Their reflective needs/motivations, including contributing to the Sustainable Development Goals (SDGs) and promoting good governance, further influence their behaviors to support inclusive decision-making processes and advocate for policy changes. The physical opportunities, such as funding and technical expertise, enable them to provide financial resources, knowledge sharing, and capacity building to implement green city projects effectively. The social opportunities, such as collaboration and policy advocacy, facilitate their engagement with various stakeholders to develop shared green building initiatives and promote sustainable urban planning. Moreover, their physical abilities, such as technical expertise and financial resources, enable them to provide guidance, invest in sustainable infrastructure, and mobilize resources. Their psychological abilities, including vision, advocacy, and knowledge sharing, influence their strategic thinking, policy advocacy, and capacity building efforts to accelerate the transition towards sustainable urban environments. Overall, their behaviors are shaped by the interplay of their needs, opportunities, and capabilities, driving their commitment to addressing global challenges, promoting resilience, and building sustainable and inclusive communities.
+
 ### Needs
 
-nIn the context of green cities and sustainable neighborhoods, international development agencies have both automatic and reflective needs or motivations.
+In the context of green cities and sustainable neighborhoods, international development agencies have both automatic and reflective needs or motivations.
 
 Automatic Needs/Motivations:
 1. Addressing Global Challenges: International development agencies are driven by the need to address global challenges related to poverty, inequality, and sustainable development. They recognize the importance of promoting environmentally-friendly practices and infrastructure to mitigate climate change and promote resource efficiency.

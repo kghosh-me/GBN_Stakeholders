@@ -8,9 +8,13 @@ Moreover, local communication experts are pivotal in establishing focal points f
 
 ## NOA
 
+### Overview
+
+The behaviors of local communication experts in the context of green cities and green building neighborhoods are driven by their needs, opportunities, and capabilities. Their needs for safety and security, access to information, collaboration and networking, ethical responsibility, personal growth and development, and recognition and appreciation motivate them to effectively communicate information related to public health emergencies and contagious diseases. They utilize their technical abilities, cultural and contextual understanding, ability to navigate green infrastructure, collaboration and networking skills, emotional intelligence and empathy, adaptability, and resilience to capitalize on the physical and social opportunities available to them. Through information dissemination on sustainable practices, promoting green transportation options, facilitating community engagement, building partnerships, engaging with diverse stakeholders, and addressing community concerns, they contribute to the overall sustainability and well-being of the community. Their capabilities enable them to tailor communication strategies, educate the community, foster trust and cooperation, and advocate for green living, ultimately bridging the gap between health authorities and the local population in the urban context.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, local communication experts' needs can be defined using the NOA framework as follows:
+In the context of green cities or green building neighborhoods, local communication experts' needs can be defined using the NOA framework as follows:
 
 1. Automatic Needs:
 - Safety and Security: Local communication experts have a need for ensuring the safety and security of the community by effectively communicating information related to public health emergencies and contagious diseases.

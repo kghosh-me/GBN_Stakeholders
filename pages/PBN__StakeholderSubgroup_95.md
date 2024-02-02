@@ -8,9 +8,13 @@ Furthermore, city authorities are essential in ensuring that cities are equipped
 
 ## NOA
 
+### Overview
+
+City authorities in the context of green cities are driven by their needs for environmental sustainability, health and well-being, economic benefits, and meeting public demand for sustainable cities. These needs motivate them to adopt sustainable practices and technologies in urban planning, infrastructure development, and resource management. They recognize the opportunities to invest in and develop green infrastructure, incorporate green building principles into urban planning, and implement strategies for efficient resource management. City authorities leverage their physical capabilities in planning, policy-making, infrastructure development, and resource management to realize these opportunities. They also rely on their psychological abilities such as awareness, vision, leadership, and collaboration to drive their behaviors. With their capabilities, they can engage the public, collaborate with stakeholders, and allocate resources to develop and implement green city initiatives. Their behaviors are therefore driven by a combination of their needs, opportunities, and capabilities, enabling them to create sustainable and resilient cities.
+
 ### Needs
 
-nIn the context of green cities, city authorities have both automatic and reflective needs or motivations. 
+In the context of green cities, city authorities have both automatic and reflective needs or motivations. 
 
 Automatic Needs:
 1. Environmental Sustainability: City authorities recognize the need to mitigate climate change and protect the environment. They are motivated to adopt sustainable practices and technologies in urban planning, infrastructure development, and resource management to conserve energy, reduce carbon emissions, and promote environmental sustainability.

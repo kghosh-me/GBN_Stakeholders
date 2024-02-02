@@ -8,9 +8,13 @@ Furthermore, construction industry organizations are responsible for shaping the
 
 ## NOA
 
+### Overview
+
+The behaviors of construction industry organizations in the context of green cities and green building neighborhoods are driven by their specific needs, opportunities, and capabilities. Their automatic needs for regulatory compliance and market demand motivate them to adopt sustainable construction practices, utilize green technologies, and meet the growing market demand for green buildings. Their reflective needs for reputation, environmental responsibility, and social impact drive them to strive for a positive brand image, align their activities with sustainable development principles, and contribute to healthier and more sustainable communities. These needs, in turn, provide them with opportunities to implement sustainable construction practices, develop green infrastructure, integrate smart technologies, collaborate for healthier environments, engage with communities, and create employment opportunities. Their physical and psychological capabilities, such as expertise in sustainable building practices, technical proficiency, collaboration and coordination abilities, adaptability, environmental consciousness, and health and safety awareness, enable them to effectively seize these opportunities and drive the development of green cities and green building neighborhoods that prioritize sustainability, health, and community well-being.
+
 ### Needs
 
-nThe needs or motivations of construction industry organizations in the context of green cities or green building neighborhoods can be categorized into automatic and reflective needs.
+The needs or motivations of construction industry organizations in the context of green cities or green building neighborhoods can be categorized into automatic and reflective needs.
 
 Automatic Needs:
 

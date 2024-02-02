@@ -8,9 +8,13 @@ Furthermore, climate and sustainability research institutions play a crucial rol
 
 ## NOA
 
+### Overview
+
+Climate and sustainability research institutions are driven by their automatic and reflective needs, which include a sense of responsibility and commitment to contributing to a sustainable future, continuous learning and innovation, collaboration and partnerships, influence on policy-making processes, and public outreach and education. They have opportunities to access scientific data and resources, conduct research and innovation, collaborate with stakeholders, and provide implementation support to cities or neighborhoods. They also have social opportunities to raise awareness, advocate for policy changes, and enhance capacity building. In terms of capabilities, these institutions possess the physical resources, infrastructure, expertise, and collaborative skills necessary to conduct research, develop innovative solutions, and implement sustainable initiatives, bridging the gap between research and practice. Their behaviors are driven by their specific needs, the opportunities available to them, and their abilities to contribute to the advancement of sustainable practices in green cities and green building neighborhoods.
+
 ### Needs
 
-nThe needs or motivations of climate and sustainability research institutions in the context of green cities can be categorized into both automatic and reflective aspects, as described within the NOA framework.
+The needs or motivations of climate and sustainability research institutions in the context of green cities can be categorized into both automatic and reflective aspects, as described within the NOA framework.
 
 Automatic needs refer to the innate desires and drives of these institutions. In the case of climate and sustainability research institutions, their automatic needs include:
 

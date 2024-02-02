@@ -8,9 +8,13 @@ Furthermore, smart city professionals play a crucial role in the interdisciplina
 
 ## NOA
 
+### Overview
+
+Smart city professionals are driven by their needs for innovation and technological advancement, efficiency and optimization, public health and safety, sustainability and environmental responsibility, and collaboration and stakeholder engagement. These needs motivate them to explore and implement cutting-edge technologies, streamline processes, improve resource consumption, address public health concerns, reduce carbon emissions, and promote stakeholder cooperation. They are also motivated by the opportunities to contribute to the development of sustainable infrastructure, leverage IoT devices and sensors, participate in sustainable urban design, foster citizen engagement, collaborate with stakeholders, and engage in knowledge sharing and capacity building initiatives. With their technological expertise, project management skills, communication and collaboration abilities, systems thinking, adaptability, resilience, and problem-solving skills, smart city professionals are capable of effectively addressing these needs and opportunities. They utilize their capabilities to integrate technological solutions, coordinate stakeholders, optimize resource usage, promote equity and transparency, and drive innovation, ultimately contributing to the creation of more sustainable and resilient urban environments.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs or motivations of smart city professionals can be classified into both automatic and reflective categories:
+In the context of green cities or green building neighborhoods, the needs or motivations of smart city professionals can be classified into both automatic and reflective categories:
 
 1. Automatic Needs:
    - Innovation and Technological Advancement: Smart city professionals are inherently motivated by the opportunity to explore and implement cutting-edge technologies and digital tools to address urban challenges. They strive to stay updated with the latest advancements in their field and have a strong desire to apply these innovations in developing sustainable solutions in green cities.

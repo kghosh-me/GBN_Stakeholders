@@ -8,9 +8,13 @@ In the context of smart and sustainable cities and neighbourhoods, medical and h
 
 ## NOA
 
+### Overview
+
+The behaviors of medical and healthcare personnel in green cities are driven by their specific needs, opportunities, and capabilities. Their automatic needs for efficient and sustainable healthcare infrastructure, effective waste management, and a healthy and safe working environment motivate them to seek out and contribute to the development and implementation of green healthcare solutions. Their reflective needs for continuous professional development, collaborative networks and partnerships, supportive policies and regulations, and recognition and community engagement further empower them to actively engage in sustainable healthcare practices. The opportunities they have, such as access to sustainable healthcare facilities, integration of technology, focus on prevention and healthy lifestyles, collaboration with stakeholders, public health advocacy, and community engagement, provide the platforms and avenues for them to fulfill their needs and contribute effectively. Their physical abilities, such as physical stamina, manual dexterity, mobility, and physical health, and psychological abilities, including emotional resilience, empathy and compassion, critical thinking and problem-solving, adaptability, and communication and teamwork, enable them to navigate and excel in green healthcare environments, ensuring the well-being of individuals and promoting sustainable practices. Overall, the behaviors of medical and healthcare personnel in green cities are driven by the synergy between their needs, opportunities, and capabilities, leading to their active participation and contribution to sustainable healthcare practices.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, the needs of medical and healthcare personnel can be categorized into automatic and reflective needs.
+In the context of green cities or green building neighborhoods, the needs of medical and healthcare personnel can be categorized into automatic and reflective needs.
 
 1. Automatic needs:
    - Efficient and sustainable healthcare infrastructure: Medical and healthcare personnel require infrastructure that is designed and built to be energy-efficient, sustainable, and resilient to climate change impacts. They need access to advanced medical facilities and equipment that are environmentally friendly and contribute to reducing carbon emissions.

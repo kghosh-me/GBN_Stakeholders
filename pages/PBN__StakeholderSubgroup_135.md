@@ -6,9 +6,13 @@ I don't have enough information to provide a specific definition of 'Small-and m
 
 ## NOA
 
+### Overview
+
+Small- and medium-sized enterprises (SMEs) in green cities and sustainable neighborhoods are driven by their needs, opportunities, and capabilities. Their automatic needs for economic viability, regulatory compliance, and improved public image motivate them to adopt sustainable practices that result in cost savings, reputation enhancement, and attracting environmentally conscious customers and investors. The reflective needs for access to sustainable infrastructure, collaboration and networks, and innovation and market differentiation drive them to leverage the opportunities presented in green cities. They actively participate in developing sustainable infrastructure, contribute to the green building sector, and offer resource management solutions. SMEs also collaborate with stakeholders, engage with the community, and capitalize on the innovation and entrepreneurship culture of green cities. Their physical capabilities include adaptability, resource efficiency, collaboration, and financial viability, which enable them to implement green technologies and practices. Moreover, their psychological abilities, such as awareness, innovation, stakeholder engagement, and capacity building, empower SMEs to understand the importance of sustainability, develop green solutions, meet stakeholder expectations, and continuously improve their knowledge and skills.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, small and medium-sized enterprises (SMEs) have several needs or motivations. These needs can be categorized into automatic and reflective motivations based on the NOA framework.
+In the context of green cities or green building neighborhoods, small and medium-sized enterprises (SMEs) have several needs or motivations. These needs can be categorized into automatic and reflective motivations based on the NOA framework.
 
 1. Automatic Needs/Motivations:
    - Economic Viability: SMEs have a natural need for economic viability and sustainability. They strive to remain profitable and competitive. In green cities, SMEs can benefit from cost savings through energy-efficient practices, reduced resource consumption, and waste management strategies.

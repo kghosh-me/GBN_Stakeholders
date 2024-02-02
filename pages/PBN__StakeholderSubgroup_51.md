@@ -8,9 +8,13 @@ Furthermore, data governance organizations in the context of contagious diseases
 
 ## NOA
 
+### Overview
+
+The behaviors of data governance organizations in green cities are driven by their specific needs, opportunities, and capabilities. Their needs for data accuracy, accessibility, privacy, collaboration, standardization, transparency, and data-driven decision support shape their behaviors in seeking out and ensuring the availability of high-quality health data, establishing protocols for data sharing and utilization, implementing privacy measures, and fostering collaboration with relevant stakeholders. The opportunities for accessing comprehensive data, integrating IoT technologies, facilitating collaborative planning and design, engaging stakeholders, promoting transparency and accountability, and facilitating knowledge sharing drive their behaviors in leveraging technology, fostering social engagement, and promoting sustainable development. Finally, their capabilities in technical expertise, infrastructure, collaborative networks, governance and leadership skills, communication abilities, and adaptability drive their behaviors in effectively managing and analyzing health-related data, establishing partnerships, establishing governance protocols and standards, communicating with diverse stakeholders, and embracing innovation to address challenges in urban health and contagious diseases.
+
 ### Needs
 
-nIn the context of green cities or green building neighborhoods, data governance organizations have various needs or motivations, both automatic and reflective.
+In the context of green cities or green building neighborhoods, data governance organizations have various needs or motivations, both automatic and reflective.
 
 Automatic needs:
 1. Data accuracy and reliability: Data governance organizations require accurate and reliable health-related data to effectively monitor and manage contagious diseases in green cities. They need high-quality data to make informed decisions and develop evidence-based strategies.
